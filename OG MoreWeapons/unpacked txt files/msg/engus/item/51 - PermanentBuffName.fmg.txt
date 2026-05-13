@@ -1,0 +1,270 @@
+120300;Sixth Sense
+120301;Sixth Sense
+1000000;Slate Whetstone
+1000001;Silver Tear
+1000002;Golden Dew
+1000003;Weathervane's Words
+1000004;Blessed Flowers
+1000005;Golden Seed
+1000006;Golden Sprout
+1000007;Night Shard
+1000008;Vestige of Night
+1000009;Fine Arrowhead
+1000010;Traitor's Letter
+1000011;Edge of Order
+1000012;Ragged Doll
+1000013;Stone Stake
+1000014;Third Volume
+1000015;Witch's Brooch
+1000016;Blade of Night Fragment
+1000017;Dried Droplet
+1000018;Mended Earring
+1000019;Faded Iron Coins
+1000020;Eerie Charm
+1000021;Merchant's Ledger
+1000022;Torn Braided Cord
+1000023;
+1000024;Black Claw Necklace
+1000025;Double Sided Coin
+1000026;Crown Medal
+1000027;Pita Bread
+1000028;Second Volume
+1000029;
+1000030;Iron Menial's Scrawl
+1000031;Blessed Iron Coin
+1000032;Cracked Witch's Brooch
+1000033;Virtuous Thief's Key
+1000034;Torn-Out Paper Scrap
+1000035;The Wylder's Earring
+1000036;Bone-Like Stone
+1000100;Primordial Nightlord's Rune
+1000101;Trace of Night
+1000102;Trace of Night
+1000103;Trace of Night
+8000000;Increased Maximum HP
+8010000;Increased Maximum FP
+8010100;Reduced FP Consumption
+8020000;Increased Maximum Stamina
+8020100;Reduced Stamina Consumption
+8020200;Improved Stamina Recovery
+8100000;Improved Physical Attack Power
+8100500;Improved Affinity Attack Power
+8100600;Improved Slash Attack Power
+8100700;Improved Strike Attack Power
+8100800;Improved Thrust Attack Power
+8100900;Improved Standard Attack Power
+8120000;Improved Stance-Breaking
+8150000;Attack Boost [Lifeforms Born of Falling Stars]
+8150100;Attack Boost [Those Who Live in Death]
+8150300;Attack Boost [Dragons]
+8160000;Improved Dagger Attack Power
+8160100;Improved Straight Sword Attack Power
+8160200;Improved Greatsword Attack Power
+8160300;Improved Colossal Sword Attack Power
+8160400;Improved Curved Sword Attack Power
+8160500;Improved Curved Greatsword Attack Power
+8160600;Improved Katana Attack Power
+8160700;Improved Twinblade Attack Power
+8160800;Improved Thrusting Sword Attack Power
+8160900;Improved Heavy Thrusting Sword Attack Power
+8161000;Improved Axe Attack Power
+8161100;Improved Greataxe Attack Power
+8161200;Improved Hammer Attack Power
+8161300;Improved Great Hammer Attack Power
+8161400;Improved Flail Attack Power
+8161500;Improved Spear Attack Power
+8161600;Improved Pike Attack Power
+8161700;Improved Great Spear Attack Power
+8161800;Improved Halberd Attack Power
+8161900;Improved Reaper Attack Power
+8162000;Improved Fist Attack Power
+8162100;Improved Claw Attack Power
+8162200;Improved Whip Attack Power
+8162300;Improved Colossal Weapon Attack Power
+8162400;Improved Bow Attack Power
+8200000;Improved Physical Damage Negation
+8200500;Improved Affinity Damage Negation
+8210700;All Resistances Up
+8230000;Improved Poise
+8330103;Improved Sorceries & Incantations
+8330500;Increased Sorcery & Incantation Duration
+8330700;Communion Grants Anti-Dragon Effect
+8330800;Improved Stonedigger Sorcery
+8330900;Improved Carian Sword Sorcery
+8331000;Improved Glintblade Sorcery
+8331100;Improved Invisibility Sorcery
+8331200;Improved Crystalian sorcery
+8331300;Improved Gravity Sorcery
+8331400;Improved Thorn Sorcery
+8331500;Improved Night Sorcery
+8331600;Improved Fundamentalist Incantations
+8331700;Improved Dragon Cult Incantations
+8331800;Improved Giants' Flame Incantations
+8331900;Improved Godslayer Incantations
+8332000;Improved Bestial Incantations
+8332100;Improved Frenzied Flame Incantations
+8332200;Improved Dragon Communion Incantations
+8350100;Improved Charged Skill
+8350400;Successful Parries Activate Golden Retaliation
+8360000;Faster Art Gauge Buildup
+8370000;Character Skill Cooldown Reduction
+8380000;Improved Roar & Breath Attacks
+8390000;Improved Throwing Pots
+8400000;Improved Perfuming Arts
+8410000;Improved Dodging
+8410100;Lightning upon Dodging
+8420100;Guard Counters Activate Holy Attacks
+8420200;Guard Counters Activate Summoning Attack
+8430000;Improved Thrusting Counterattack
+8440000;Improved Flask HP Restoration
+8440100;Flask Also Heals Allies
+8440200;Gradual Restoration by Flask
+8450100;Ice Storm Surge Sprint
+8460000;Area of Darkness Conceals Caster While Walking
+8460200;Flame of Frenzy While Walking
+8460400;Violent Deluge of Star Rain While Walking
+8500000;More Runes From Defeated Enemies
+8500100;Rune of the Strong
+8500101;Rune of the Strong
+8500102;Rune of the Strong
+8530200;Periodical Giant Glintblades
+8600101;HP Restoration upon Dagger Attacks
+8600102;HP Restoration upon Straight Sword Attacks
+8600103;HP Restoration upon Greatsword Attacks
+8600104;HP Restoration upon Colossal Sword Attacks
+8600105;HP Restoration upon Curved Sword Attacks
+8600106;HP Restoration upon Curved Greatsword Attacks
+8600107;HP Restoration upon Katana Attacks
+8600108;HP Restoration upon Twinblade Attacks
+8600109;HP Restoration upon Thrusting Sword Attacks
+8600110;HP Restoration upon Heavy Thrusting Sword Attacks
+8600111;HP Restoration upon Axe Attacks
+8600112;HP Restoration upon Greataxe Attacks
+8600113;HP Restoration upon Hammer Attacks
+8600114;HP Restoration upon Great Hammer Attacks
+8600115;HP Restoration upon Flail Attacks
+8600116;HP Restoration upon Spear Attacks
+8600117;HP Restoration upon Pike Attacks
+8600118;HP Restoration upon Great Spear Attacks
+8600119;HP Restoration upon Halberd Attacks
+8600120;HP Restoration upon Reaper Attacks
+8600121;HP Restoration upon Fist Attacks
+8600122;HP Restoration upon Claw Attacks
+8600123;HP Restoration upon Whip Attacks
+8600124;HP Restoration upon Colossal Weapon Attacks
+8600125;HP Restoration upon Bow Attacks
+8600201;FP Restoration upon Dagger Attacks
+8600202;FP Restoration upon Straight Sword Attacks
+8600203;FP Restoration upon Greatsword Attacks
+8600204;FP Restoration upon Colossal Sword Attacks
+8600205;FP Restoration upon Curved Sword Attacks
+8600206;FP Restoration upon Curved Greatsword Attacks
+8600207;FP Restoration upon Katana Attacks
+8600208;FP Restoration upon Twinblade Attacks
+8600209;FP Restoration upon Thrusting Sword Attacks
+8600210;FP Restoration upon Heavy Thrusting Sword Attacks
+8600211;FP Restoration upon Axe Attacks
+8600212;FP Restoration upon Greataxe Attacks
+8600213;FP Restoration upon Hammer Attacks
+8600214;FP Restoration upon Great Hammer Attacks
+8600215;FP Restoration upon Flail Attacks
+8600216;FP Restoration upon Spear Attacks
+8600217;FP Restoration upon Pike Attacks
+8600218;FP Restoration upon Great Spear Attacks
+8600219;FP Restoration upon Halberd Attacks
+8600220;FP Restoration upon Reaper Attacks
+8600221;FP Restoration upon Fist Attacks
+8600222;FP Restoration upon Claw Attacks
+8600223;FP Restoration upon Whip Attacks
+8600224;FP Restoration upon Colossal Weapon Attacks
+8600225;FP Restoration upon Bow Attacks
+8600300;Sudden Enemy Death upon Attacks that Land
+8610000;HP Restoration upon Successive Attacks
+8610100;FP Restoration upon Successive Attacks
+8610200;Successive Attacks Boost Attack Power
+8640000;Critical Hit HP Restoration
+8640100;Critical Hit FP Restoration
+8640200;Increased Damage After Critical Hit
+8650000;HP Recovery From Successful Guarding
+8650100;FP Recovery From Successful Guarding
+8660200;Critical Hits Inflict Blood Loss
+8660300;Create Holy Ground at Low HP
+8660400;Full HP Restoration upon Critical Hit at Low HP
+8680000;Holy-Affinity Guards Activate Golden Vow
+8680100;Fire-Affinity Guards Activate Flame, Grant Me Strength
+8680200;Lightning-Affinity Guards Activate Dragonbolt Blessing
+8680300;Magic-Affinity Guards Activate Terra Magica
+8700000;Poison & Rot Trigger Continuous HP Recovery
+8710000;Blood Loss in Vicinity Increases Attack Power
+8970000;Traces of Grace-Given Lord
+8970001;
+8970002;
+8970003;
+8970004;
+8970005;
+8970006;
+8970007;
+8970008;
+8970009;
+8970010;Integration of Intelligence
+8970011;
+8970012;
+8970013;
+8970014;
+8970015;
+8970016;
+8970017;
+8970018;
+8970019;
+8970020;Unifying Fate
+8970021;
+8970022;
+8970023;
+8970024;
+8970025;
+8970026;
+8970027;
+8970028;
+8970029;
+8970030;Demon's Plating
+9990000;Favor of the Night
+9990001;
+9990002;
+9990003;
+9990004;
+9990005;
+9990006;
+9990007;
+9990008;
+9990009;
+9990010;Favor of Noklateo, the Shrouded City
+9990011;
+9990012;
+9990013;
+9990014;
+9990015;
+9990016;
+9990017;
+9990018;
+9990019;
+9990020;Favor of the Rotted Woods
+9990021;
+9990022;
+9990023;
+9990024;
+9990025;
+9990026;
+9990027;
+9990028;
+9990029;
+9990030;Favor of the Mountaintop
+9990031;Improved Frost Resistance
+9990032;Attacks Possess Anti-Dragon Effect
+9990033;Favor of the Mountaintop
+9990034;Improves resistance to frost ailment
+9990035;
+9990036;
+9990037;
+9990038;
+9990039;
+9990040;Unhealed Wound Carved by the Night

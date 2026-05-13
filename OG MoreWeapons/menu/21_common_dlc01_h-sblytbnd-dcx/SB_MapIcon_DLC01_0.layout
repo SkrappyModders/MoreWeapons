@@ -1,0 +1,13 @@
+<TextureAtlas imagePath="W:\CL\data\Target\INTERROOT_win64\menu\ScaleForm\Tif\21_Common_DLC01\High\SB_MapIcon_DLC01_0.tif" width="1024" height="512">
+	<SubTexture name="MENU_MAP_42043_073.png" x="0" width="220" y="0" height="220" originalWidth="220" originalHeight="220" half="0"/>
+	<SubTexture name="MENU_MAP_42044_074.png" x="0" width="266" y="224" height="202" originalWidth="266" originalHeight="202" half="0"/>
+	<SubTexture name="MENU_MAP_42045_075.png" x="224" width="266" y="0" height="202" originalWidth="266" originalHeight="202" half="0"/>
+	<SubTexture name="MENU_MAP_42047_077.png" x="272" width="266" y="208" height="202" originalWidth="266" originalHeight="202" half="0"/>
+	<SubTexture name="MENU_MAP_42041_071.png" x="496" width="200" y="0" height="200" originalWidth="200" originalHeight="200" half="0"/>
+	<SubTexture name="MENU_MAP_162.png" x="272" width="80" y="416" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_MAP_163.png" x="356" width="80" y="416" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_MAP_42048_078.png" x="700" width="220" y="0" height="130" originalWidth="220" originalHeight="130" half="0"/>
+	<SubTexture name="MENU_MAP_42042_072.png" x="544" width="200" y="204" height="200" originalWidth="200" originalHeight="200" half="0"/>
+	<SubTexture name="MENU_MAP_42049_079.png" x="544" width="100" y="408" height="100" originalWidth="100" originalHeight="100" half="0"/>
+	<SubTexture name="MENU_MAP_42046_076.png" x="748" width="164" y="136" height="162" originalWidth="164" originalHeight="162" half="0"/>
+</TextureAtlas>

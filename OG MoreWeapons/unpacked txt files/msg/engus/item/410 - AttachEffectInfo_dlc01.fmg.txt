@@ -1,0 +1,37 @@
+7370901;
+8320500;Enhances melee attack power of weapons
+8320600;Enhances attack power of dash attacks
+8320700;Enhances attack power of attacks executed after rolling or backstepping
+8360000;Faster auto-charging for Ultimate Art during combat
+8880000;Charge attacks produce ice storm.
+Weapon coated with frost.
+8880200;Charge attacks produce black flames.
+Weapon coated with black flame.
+8880300;Charge attacks trigger phantom attack
+8881000;Charge attacks produce a golden shockwave.
+Weapon coated with holy.
+8881200;Charge attacks pull in enemies
+8881500;Charge attacks produce magma.
+Weapon coated with fire.
+8882100;Charge attacks produce a bolt of lightning.
+Weapon coated with lightning.
+8882500;Charge attacks release sleep-inducing mist.
+Weapon coated with sleep.
+8885200;Continued guarding gradually enhances potency of sorceries and incantations and casting speed
+8989010;Skill activation engulfs weapon in fire. Whenever a Teammate is revived from near death gain a permanent attack boost
+9040600;Skill follow-up causes you to gain a temporary int/fth stat increased based off attack used
+9040601;When powered up enemies nearby take damage over time
+9040602;Frostbite in vicinity increases attack power. Applies a stackable frostbite debuff
+9040603;Successive attacks will cause homing orbs of light to spawn overtime
+9040604;Holding your stance grants you a stacking buff that increases attack but reduces defense
+9040605;Taking damage while skill is active increases damage dealt
+9040606;Thrown spears drop slower and take longer to disappear. Charged attack's spawn spears on the ground where it lands
+9040607;If this description isn't updated then I didn't feel like finishing this effect
+9040608;Buffs that activate while walking now activate on surge sprint and vice versa
+9040700;Landing charged attacks will give you stacks to enable extra uses of your skill
+9040900;Skill followup engulfs blade in Bloodflame. Blood loss in vicinity adds a stacking damage boost
+9041300;Skill follow-up causes an explosion of skulls that cause lightning to strike upon touching the ground
+9041400;Charged attacks summon a holy blade around the weapon increasing the attacks range and poise.
+9041500;Getting hit while using this weapons skill will boost your damage and enhance the follow-up up to 3 times.
+9990900;The Scholar's grief enhances intelligence and arcane
+9991000;The Undertaker's grief enhances strength and faith

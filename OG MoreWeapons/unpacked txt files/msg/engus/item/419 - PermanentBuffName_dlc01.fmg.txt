@@ -1,0 +1,48 @@
+8360000;Faster Art Gauge Buildup
+8970040;Cold Mirage
+8970041;
+8970042;
+8970043;
+8970044;
+8970045;
+8970046;
+8970047;
+8970048;
+8970049;
+8970050;Beast's Hunt
+8970051;
+8970052;
+8970053;
+8970054;
+8970055;
+8970056;
+8970057;
+8970058;
+8970059;
+8970060;Power to Balance the World
+9990000;Favor of the Night
+9990021;Decayed Favor of the Rotted Woods
+9990050;Favor of the Great Hollow
+9990051;
+9990052;
+9990053;
+9990054;
+9990055;
+9990056;
+9990057;
+9990058;
+9990059;
+9990060;False Vision of a Great Rune
+9990061;Increases faith by 10
+9990062;Increases intelligence by 10
+9990063;Improved Attack Power
+9990064;Improved Poise & Damage Negation
+10001000;Leather Monocle Case
+10001001;Scholar's Primal Core
+10001002;Night-Hued Glass
+10001003;Vassal's Journal
+10001004;Cleansing Tear
+10001005;Returned Leather Case
+10001006;Headband of the Golden Ones
+10001007;Bundled Paper
+10001008;Dismembered Finger

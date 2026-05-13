@@ -1,0 +1,419 @@
+120300;Sixth Sense
+120550;Status: Poison
+120551;Status: Scarlet Rot
+120552;Status: Blood Loss
+120553;Status: Frost
+120554;Status: Sleep
+120555;Status: Madness
+120556;Status: Death
+120600;Poison Resistance
+120601;Poison Resistance +1
+120602;Poison Resistance +2
+120603;Poison Resistance +3
+120604;Poison Resistance +4
+120605;Poison Resistance +5
+120606;Poison Resistance +6
+120607;Poison Resistance +7
+120608;Poison Resistance +8
+120609;Poison Resistance +9
+120610;Rot Resistance
+120611;Rot Resistance +1
+120612;Rot Resistance +2
+120613;Rot Resistance +3
+120614;Rot Resistance +4
+120615;Rot Resistance +5
+120616;Rot Resistance +6
+120617;Rot Resistance +7
+120618;Rot Resistance +8
+120619;Rot Resistance +9
+120620;Blood Loss Resistance
+120621;Blood Loss Resistance +1
+120622;Blood Loss Resistance +2
+120623;Blood Loss Resistance +3
+120624;Blood Loss Resistance +4
+120625;Blood Loss Resistance +5
+120626;Blood Loss Resistance +6
+120627;Blood Loss Resistance +7
+120628;Blood Loss Resistance +8
+120629;Blood Loss Resistance +9
+120630;Death Blight Resistance
+120631;Death Blight Resistance +1
+120632;Death Blight Resistance +2
+120633;Death Blight Resistance +3
+120634;Death Blight Resistance +4
+120635;Death Blight Resistance +5
+120636;Death Blight Resistance +6
+120637;Death Blight Resistance +7
+120638;Death Blight Resistance +8
+120639;Death Blight Resistance +9
+120640;Frost Resistance
+120641;Frost Resistance +1
+120642;Frost Resistance +2
+120643;Frost Resistance +3
+120644;Frost Resistance +4
+120645;Frost Resistance +5
+120646;Frost Resistance +6
+120647;Frost Resistance +7
+120648;Frost Resistance +8
+120649;Frost Resistance +9
+120650;Sleep Resistance
+120651;Sleep Resistance +1
+120652;Sleep Resistance +2
+120653;Sleep Resistance +3
+120654;Sleep Resistance +4
+120655;Sleep Resistance +5
+120656;Sleep Resistance +6
+120657;Sleep Resistance +7
+120658;Sleep Resistance +8
+120659;Sleep Resistance +9
+120660;Madness Resistance
+120661;Madness Resistance +1
+120662;Madness Resistance +2
+120663;Madness Resistance +3
+120664;Madness Resistance +4
+120665;Madness Resistance +5
+120666;Madness Resistance +6
+120667;Madness Resistance +7
+120668;Madness Resistance +8
+120669;Madness Resistance +9
+120700;Twisted Reincarnation
+120701;Demon's Eye
+120702;Gentle Blessing of Death
+120703;Ritual of Self-Sacrifice
+120704;False Blessing
+120705;Ascetic Path
+120706;Ascetic Glory
+120707;Demon's Pulse
+120708;Gentle Curse of Death
+120709;Power of a Demon
+120710;Ascetic Path
+120711;Ascetic Glory
+120712;Demon's Pulse
+120713;Demon's False Idol
+120714;Demon's Eye
+120715;Fruitless Trial
+120716;Fruitless Trial
+120717;Demon's Madness
+120718;Deceptive Blessing
+120800;Improved Guarding Ability With Shield
+120801;Improved Holy Attack Power
+120802;Attacks Inflict Frost
+120803;Attacks Inflict Poison
+120804;Improved Attack Power
+120805;Improved Magic Attack Power
+120806;Improved Lightning Attack Power
+120807;Improved Attack Power
+120808;Improved Fire Attack Power
+120809;Improved Damage Negation
+120810;Continuous HP Recovery
+120811;Improved Poise & Damage Negation
+120812;Improved Lightning Attack Power
+120813;Improved Attack Power
+120814;Improved Holy Attack Power
+120815;Improved Magic Attack Power
+120816;Attacks Inflict Frost
+120817;Improved Attack Power
+120818;Improved Damage Negation
+120819;Attacks Inflict Blood Loss
+120820;Silent Footsteps
+120821;Obscured From Enemies
+120822;Improved Attack Power
+120823;Improved Magic Attack Power
+120824;Improved Damage Negation
+120825;Improved Fire Attack Power
+120826;Improved Holy Attack Power
+120827;Attacks Inflict Death Blight
+120828;Improved Magic Attack Power
+120829;Attacks Inflict Frost
+120830;Improved Attack Power
+120831;Improved Attack Power
+120832;Improved Attack Power
+120833;Improved Attack Power
+120834;Improved Attributes
+120835;
+120836;
+120837;Improved Attack Power
+120838;Improved Damage Negation
+120839;Improved Stamina Recovery
+120840;Improved Attack Power
+120841;Attacks Inflict Sleep
+120842;Improved Lightning Attack Power
+120843;Attacks Inflict Frost
+120844;Impaired Magic Damage Negation
+120845;Impaired Holy Damage Negation
+120846;Improved Lightning Attack Power
+120847;Attacks Inflict Frost
+120848;
+120849;
+120850;Improved Fire Attack Power
+120851;Improved Magic Attack Power
+120852;Improved Lightning Attack Power
+120853;Improved Holy Attack Power
+120854;Attacks Inflict Poison
+120855;Attacks Inflict Scarlet Rot
+120856;Attacks Inflict Blood Loss
+120857;Attacks Inflict Frost
+120858;Attacks Inflict Sleep
+120859;Improved Physical Attack Power
+120860;Increased Maximum HP
+120861;Increased Maximum Stamina
+120862;Improved Damage Negation (1 time only)
+120863;One-Time HP Recovery When Near Death
+120864;Improved Poise
+120865;Successive Attacks Improve Attack Power
+120866;Affinity Damage Received Converted Into HP
+120867;Improved Status Ailment Resistance
+120868;Improved Physical Attack Power
+120869;Improved Stamina Recovery
+120870;Improved Item Discovery
+120871;More Runes From Defeated Enemies
+120872;Attacks Possess Anti-Dragon Effect
+120873;Continuous HP Recovery
+120874;Continuous HP Recovery
+120875;Continuous HP Recovery
+120876;Continuous HP Recovery
+120877;Continuous HP Recovery
+120878;Continuous HP Recovery
+120879;Continuous HP Recovery
+120880;Cannot Use Sacred Flask
+120881;Reduced Maximum HP
+120882;Demon's Scales
+120883;Tempered Gold Chip
+120884;Tempered Gold Chip
+120885;Tempered Gold Chip
+120886;Reduced Maximum HP
+120887;
+120888;
+120889;
+120890;Improved Attack Power
+120891;Improved Stamina Recovery
+120892;Improved Physical Damage Negation
+120893;Improved Holy Damage Negation
+120894;Continuous HP Recovery
+120895;Improved Item Discovery
+120896;More Runes From Defeated Enemies
+120897;Improved Status Ailment Resistance
+120898;Improved Physical Attack Power
+120899;Improved Fire Attack Power
+120900;Improved Damage Negation
+120950;Blood Loss in Vicinity Increases Attack Power
+120951;Poison & Rot in Vicinity Increases Attack Power
+120952;
+120953;
+120954;
+120955;Continuous HP Recovery
+120956;
+120957;
+120958;
+120959;
+120960;Improved Physical Damage Negation
+120961;Improved Physical Damage Negation
+120962;Improved Damage Negation While Guarding with Shield
+120963;Improved Guarding Ability With Shield
+120964;Improved Damage Negation (1 time only)
+120965;Improved Attack Power
+120966;Improved Physical Damage Negation
+120967;Improved Status Ailment Resistance
+120968;Improved Poise
+120969;Improved Attack Power
+120970;Increased Maximum Stamina
+120971;Impaired Damage Negation
+120972;Continuous HP Recovery
+120973;Improved Stamina Recovery
+120974;Improved Damage Negation
+120975;Improved Charge Attacks
+120976;Improved Dodging
+120977;Impaired Damage Negation
+120978;No Rune Loss or Level Down Upon Death
+120979;Improved Stance-Breaking
+120980;Improved Fire Attack Power
+120981;Improved Magic Attack Power
+120982;Improved Lightning Attack Power
+120983;Improved Holy Attack Power
+120984;FP Costs Nullified
+120985;No FP Cost for Skills
+120986;No FP Cost for Items
+120987;Cord End
+120988;Automatic Revival Upon Defeat
+120989;Continuous HP Recovery
+120990;Improved Attack Power
+120991;Improved Damage Negation
+120992;Improved Item Discovery
+120993;Soundless Footsteps and Obscured from Enemies
+120994;Temporary Invulnerability
+120995;Cursed Sword Attacks Unlocked
+120996;Temporary Invulnerability
+120997;Improved Attack Power
+120998;Improved Stamina Recovery
+120999;Continuous HP Recovery
+121000;Improved Magic Attack Power
+121001;Attacks Inflict Magic Damage
+121002;Improved Damage Negation While Guarding with Shield
+121003;Improved Guarding Ability With Shield
+121004;Attacks Inflict Frost
+121005;Obscured From Enemies
+121006;Improved Physical Attack Power
+121007;Improved Fire Attack Power
+121008;Improved Stamina Recovery
+121009;Improved Fire Damage Negation
+121010;Black Flame Engulfs Armament 
+121011;Improved Physical Damage Negation
+121012;Impaired HP Recovery
+121013;Bloodflame Engulfs Armament
+121014;Attacks Inflict Blood Loss
+121015;Improved Magic Damage Negation
+121016;Improved Affinity Damage Negation
+121017;Continuous HP Recovery
+121018;Continuous HP Recovery
+121019;Improved Fire Damage Negation
+121020;Improved Magic Damage Negation
+121021;Improved Lightning Damage Negation
+121022;Improved Holy Damage Negation
+121023;Improved Holy Damage Negation
+121024;Silent Footsteps
+121025;Improved Attack Power
+121026;Improved Sorceries & Incantations
+121027;Improved Damage Negation
+121028;Improved Affinity Damage Negation While Guarding with Shield
+121029;Improved Status Ailment Resistance While Guarding with Shield
+121030;Continuous HP Recovery
+121031;Attacks Inflict Lightning Damage
+121032;Impaired Lightning Damage Negation
+121033;Easier Attack Deflection
+121034;Improved Status Ailment Resistance
+121035;Attacks Inflict Poison
+121036;Improved Attack Power
+121037;Improved Sorceries & Incantations
+121038;Impaired Damage Negation
+121039;Constantly Attract Enemy Aggression
+121040;Improved Lightning Damage Negation
+121041;Improved Dodging
+121042;Improved Damage Negation
+121043;Improved Poise
+121044;Increased Maximum HP
+121045;No FP Cost for Sorceries/Incantations
+121046;No FP Cost for Skills
+121047;No FP Cost for Items
+121048;Automatic Parrying
+121049;Invulnerable
+121050;Improved Sorceries & Incantations
+121051;Improved Sorceries & Incantations
+121052;Improved Attack Power
+121053;Improved Sorceries & Incantations
+121054;Improved Sorceries & Incantations
+121055;Automatic Retaliation After Taking Multiple Attacks
+121056;Damage Self and Surroundings
+121100;Improved Affinity Damage Negation
+121101;Continuous HP Recovery
+121102;Improved Physical Attack Power
+121103;Improved Attack Power
+121104;Improved Attack Power
+121105;Improved Stamina Recovery
+121106;Improved Item Discovery
+121107;More Runes From Defeated Enemies
+121108;Improved Affinity Damage Negation
+121109;Improved Affinity Damage Negation
+121110;Improved Attack Power
+121111;Improved Attack Power
+121112;Improved Affinity Damage Negation
+121113;Frostbite in Vicinity Obscures Presence from Enemies
+121114;Improved Physical Damage Negation
+121115;Improved Poise
+121116;Continuous FP Recovery
+121117;Increased Maximum HP
+121118;Constantly Attract Enemy Aggression
+121119;Obscured From Enemies
+121120;Improved Fire Attack Power
+121121;Improved Magic Attack Power
+121122;Improved Lightning Attack Power
+121123;Improved Holy Attack Power
+121124;
+121125;Improved Thrusting Counterattack
+121126;Increased Maximum Stamina
+121127;Increased Maximum FP
+121128;Impaired Damage Negation
+121129;Improved Damage Negation (1 time only)
+121130;Improved Lightning Attack Power
+121131;Improved Lightning Attack Power
+121132;Improved Holy Attack Power
+121133;Attacks Possess Anti-Dragon Effect
+121134;Improved Damage Negation
+121135;More Runes From Defeated Enemies
+121136;Silent Footsteps
+121137;Improved Affinity Attack Power
+121138;Poison & Rot in Vicinity Increases Attack Power
+121139;Reduced Attack Power
+121140;Improved Fire Damage Negation
+121141;Improved Magic Damage Negation
+121142;Improved Lightning Damage Negation
+121143;Improved Holy Damage Negation
+121144;
+121145;
+121146;
+121147;
+121148;
+121149;
+121150;Poison & Rot in Vicinity Cause Continuous HP Recovery
+121151;Blood Loss in Vicinity Increases Attack Power
+121152;Sleep in Vicinity Triggers Continuous FP Recovery
+121153;Frostbite in Vicinity Improves Attack Power
+121154;Frostbite in Vicinity Improves Poise
+121155;Madness in Vicinity Improves Attack Power
+121156;Madness in Vicinity Impairs Damage Negation
+121157;Blood Loss in Vicinity Increases Attack Power
+121158;Improved Fire Attack Power
+121159;Improved Magic Attack Power
+121160;Improved Lightning Attack Power
+121161;Improved Holy Attack Power
+121162;Attacks Inflict Poison
+121163;Attacks Inflict Rot
+121164;Attacks Inflict Blood Loss
+121165;Attacks Inflict Frost
+121166;Attacks Inflict Sleep
+121167;Improved Attack Power
+121168;Improved Physical Damage Negation
+121169;Improved Poise
+121170;Increased Maximum HP/FP/Stamina
+121171;Attacks Possess Anti-Dragon Effect
+121172;Improved Physical Attack Power
+121173;Improved Attributes
+121174;Improved Damage Negation (1 time only)
+121175;Improved Damage Negation
+121176;Continuous HP Recovery
+121177;Faster Art Gauge Buildup
+121178;Improved Affinity Attack Power
+121179;Black Flame Engulfs Armament 
+121180;Impaired Damage Negation
+121181;Reduced Attack Power
+121182;Ultimate Art Charging Impaired
+121183;Reduced Maximum HP
+122000;Traces of Grace-Given Lord
+122001;Traces of Grace-Given Lord +1
+122002;Traces of Grace-Given Lord +2
+122003;Traces of Grace-Given Lord +3
+122004;Traces of Grace-Given Lord +4
+122005;Traces of Grace-Given Lord +5
+122006;Traces of Grace-Given Lord +6
+122007;Traces of Grace-Given Lord +7
+122008;Traces of Grace-Given Lord +8
+122009;Traces of Grace-Given Lord +9
+122010;Traces of Grace-Given Lord +10
+122100;Attacks Possess Anti-Dragon Effect
+122101;Improved Physical Attack Power
+122102;Attacks Inflict Blood Loss
+122103;Poison & Rot in Vicinity Cause Continuous HP Recovery
+122104;Blood Loss in Vicinity Increases Attack Power
+122105;Increased Maximum HP/FP/Stamina
+122106;Frostbite in Vicinity Improves Attack Power
+123000;Successive Attacks Improve Attack Power
+123001;Improved Attack Power at Low HP
+123002;Improved Attack Power at Full HP
+123003;Successive Attacks Improve Attack Power
+123004;Improved Damage Negation at Low HP
+123005;Improved Damage Negation at Full HP
+123100;Impaired Lightning Damage Negation
+123200;Slowed Buildup of Status Ailment Guage
+123300;Improved Arcane
+123301;Reduced Maximum HP
+123302;Reduced Attack Power
+123303;Impaired Damage Negation

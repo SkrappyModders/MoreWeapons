@@ -1,0 +1,392 @@
+1;
+2;
+3;
+100;
+310000;Maximum HP raised
+310100;Maximum FP raised
+310200;Maximum stamina raised
+310400;Maximum HP raised
+310401;Maximum stamina raised
+311000;Raises likelihood of item discovery
+311100;Increases runes obtained from defeated enemies
+311500;Raises stamina recovery speed
+311600;Raises resistance to blood loss
+311601;Raises resistance to frost
+311700;Raises resistance to poison
+311701;Raises resistance to scarlet rot
+311800;Raises resistance to sleep
+311801;Raises resistance to madness
+311900;Raises resistance to death blight
+312000;Raises resistance to poison and scarlet rot
+312001;Raises resistance to blood loss and frost
+312002;Raises resistance to sleep and madness
+312100;Raises poise
+312300;Raises attack power of skills
+312500;Raises dexterity
+312501;Raises attack power when striking enemies with successive attacks
+320000;Raises magic attack
+320001;Increases physical damage taken
+320100;Raises lightning attack
+320101;Increases physical damage taken
+320200;Raises fire attack
+320201;Increases physical damage taken
+320300;Raises holy attack
+320301;Increases physical damage taken
+320400;Raises attack power when HP is low
+320500;Raises attack power when HP is at maximum
+320600;Enhances counterattacks unique to thrusting weapons
+320700;Enhances stamina-reducing attacks against blockers
+320800;Raises attack power with successive attacks
+320900;Enhances critical hits
+321000;Reduces damage drop-off for projectiles traveling long distances
+321200;Enhances final hit of chain attacks
+321300;Enhances charge attacks
+321500;Raises attack power of arrows and bolts
+321600;Blood loss in vicinity increases attack power
+321700;Poisoning or scarlet rot in vicinity increases attack power
+321800;Enhances jump attacks
+321900;Enhances roars and breath attacks
+322000;Enhances guard counters
+322100;Raises potency of throwing pots
+322200;Raises potency of items employing perfume 
+330000;Raises potency of sorceries
+330400;Raises potency of incantations
+330600;Extends spell effect duration
+330700;Shortens spell casting time
+330800;Spells consume less FP
+330801;Maximum HP reduced
+330900;Enhances charged spells and skills
+340000;Boosts physical damage negation
+340100;Boosts magical damage negation
+340200;Boosts fire damage negation
+340300;Boosts lightning damage negation
+340400;Boosts holy damage negation
+340500;Boosts magic, fire, lightning, and holy damage negation
+340700;Longer invincibility windows during evasive maneuvers
+340701;Increases damage taken
+340800;Boosts damage negation when HP is low
+340900;Boosts damage negation when HP is at maximum
+341000;Boosts guarding ability
+350000;Boosts HP restoration from flasks
+350200;Slowly restores HP
+350300;Restores HP upon defeating enemies
+350400;Successive attacks restore HP
+350500;Critical hits restore HP
+350600;Critical hits restore FP
+360200;Lowers FP consumed by skills
+360700;Upon death no runes are lost and levelling down does not occur
+361100;Restores FP upon defeating enemies
+370000;Raises likelihood of item discovery
+370001;Increases runes obtained from defeated enemies
+370002;Slowly lowers HP
+6850000;Lowers maximum HP
+6850100;Lowers maximum FP
+6850200;Lowers maximum stamina
+6850300;Reduced ability to block physical damage
+6850400;Lowers magic, fire, lightning, and holy damage negation
+6850500;Lowers resistance to all ailments
+6850600;Lowers HP restoration from flasks 
+6850700;Surge sprinting consumes more stamina
+6850800;Slows the charging speed of Ultimate Art gauge
+6850900;Slowly lowers HP
+6851000;Evasions consume more stamina
+6851100;Receive more damage just after evading
+6851200;Evading repeatedly impairs damage negation
+6851300;Using flask reduces damage negation
+6851400;Using flask causes sleep buildup
+6851500;Using flask causes madness buildup
+6851600;Attack power reduced when below max HP
+6851700;Slower charging of Ultimate Art when below max HP level
+8000000;Maximum HP raised
+8010000;Maximum FP raised
+8010100;Lowers FP consumption
+8020000;Maximum stamina raised
+8020100;Lowers stamina consumption
+8020200;Raises stamina recovery speed
+8100000;Raises physical attack
+8100100;Raises magic attack
+8100200;Raises fire attack
+8100300;Raises lightning attack
+8100400;Raises holy attack
+8110000;Attacks cause poison buildup
+8110100;Attacks cause blood loss buildup
+8110200;Attacks cause sleep buildup
+8110300;Attacks cause death buildup
+8110400;Attacks cause scarlet rot buildup
+8110500;Attacks cause frost buildup
+8110600;Attacks cause madness buildup
+8110700;Partially changes weapon's affinity to fire
+8110800;Partially changes weapon's affinity to magic
+8110900;Partially changes weapon's affinity to lightning
+8111000;Partially changes weapon's affinity to holy
+8120000;Attacks more likely to break stance of enemies
+8130000;Enhances critical hits
+8140000;Enhances stamina-reducing attacks against blockers
+8150000;Enhances attacks against lifeforms born of falling stars
+8150100;Enhances attacks against Those Who Live in Death
+8150300;Enhances attacks against dragons
+8200000;Boosts physical damage negation
+8200100;Boosts magical damage negation
+8200200;Boosts fire damage negation
+8200300;Boosts lightning damage negation
+8200400;Boosts holy damage negation
+8200500;Boosts magic, fire, lightning, and holy damage negation
+8210000;Raises resistance to poison
+8210100;Raises resistance to blood loss
+8210200;Raises resistance to sleep
+8210300;Raises resistance to death blight
+8210400;Raises resistance to scarlet rot
+8210500;Raises resistance to frost
+8210600;Raises resistance to madness
+8220000;Boosts guarding ability
+8220001;Greatly boosts guarding ability
+8220002;Vastly boosts guarding ability
+8230000;Raises poise
+8300000;Enhances attacks with two-handed weapons
+8300100;Attacks more capable of breaking enemy stance when two-handing armament
+8310000;Enhances left-handed light attacks when wielding two swords
+8310100;Attacks more capable of breaking enemy stance when wielding two armaments
+8320000;Enhances final hit of chain attacks
+8320100;Enhances charge attacks
+8320200;Enhances poise during strong attacks
+8320300;Enhances jump attacks
+8320400;Boosts damage negation upon landing charge attacks
+8330000;Raises potency of sorceries
+8330100;Raises potency of incantations
+8330200;Enhances charged sorceries
+8330300;Enhances charged incantations
+8330400;Shortens spell casting time
+8330500;Extends spell effect duration
+8330600;Lowers FP consumed by sorceries and incantations
+8330700;Dragon Communion incantations add anti-dragon effect to right hand armament
+8330900;Boosts damage negation while casting sorceries and incantations
+8340000;Raises attack power of arrows and bolts
+8340100;Reduces damage drop-off for projectiles traveling long distances
+8350000;Raises attack power of skills
+8350100;Enhances charged skills
+8350200;Lowers FP consumed by skills
+8350300;Enhances poise during skill activation
+8350400;Parry to dispel incoming sorceries and incantations, retaliating with golden power
+8360000;Faster auto-charging for Ultimate Art during combat
+8370000;Shortens Character Skill cooldown time
+8380000;Enhances roars and breath attacks
+8390000;Raises potency of throwing pots
+8400000;Raises potency of items employing perfume 
+8410000;Longer invincibility windows during evasive maneuvers
+8410100;Evasive maneuvers strike surroundings with lightning
+8420000;Enhances guard counters
+8420100;Guard counters trigger holy bursts
+8420200;Guard counters summon a group of Those Lost in Death that attack enemies
+8430000;Enhances counterattacks unique to thrusting weapons
+8440000;Boosts HP restoration from flasks
+8440100;Flask restores HP to self and nearby allies
+8440200;Flask slowly restores HP and provides increased HP restoration
+8450000;Produces magma at the starting point of surge sprint
+8450100;Produces ice storm at the starting point of surge sprint
+8460000;Become difficult to spot and silence footsteps while walking
+8460100;Pillars of flame rise one after another around the caster while walking
+8460200;Causes the yellow flame of frenzy to violently burst forth while walking
+8460300;Unleashes wraiths that chase down foes while walking
+8460400;Summons a dark cloud of stars overhead while walking. The cloud will release a violent deluge of star rain.
+8460500;Walking calls red lightning which strikes the vicinity
+8500000;Increases runes obtained from defeated enemies
+8510000;Raises likelihood of item discovery
+8520000;Enemies become likely to attack nearby allies
+8530000;Creates glintblades which automatically attack nearby foes at regular intervals
+8530100;Creates glintblades which automatically attack nearby foes at regular intervals
+8530200;Creates glintblades which automatically attack nearby foes at regular intervals
+8540000;Slowly restores HP
+8600100;Restores HP upon attacking enemies
+8600200;Restores FP upon attacking enemies
+8600300;On rare occasions, attacked enemies die instantly
+8610000;Successive attacks restore HP
+8610100;Successive attacks restore FP
+8610200;Raises attack power with successive attacks
+8610300;Hitting an enemy with a charged attack triggers a magic attack
+8610400;Hitting an enemy with a charged attack triggers a fire attack
+8610500;Hitting an enemy with a charged attack triggers a lightning attack
+8610600;Hitting an enemy with a charged attack triggers a holy attack
+8610700;Successive attacks boost damage negation once
+8620000;Restores FP upon receiving damage
+8620100;Boosts damage negation upon receiving damage
+8630000;Restores HP upon defeating enemies
+8630100;Restores FP upon defeating enemies
+8630200;Attacks have a chance to unleash wraiths that chase down foes
+8630300;Attacks have a chance to produce a mist that charms enemies
+8630400;Attacks have a chance to summon vengeful spirits that chase down foes
+8630500;Attacks have a chance to generate roiling lava
+8630600;Attacks have a chance to release a mist of frost
+8630700;Attacks have a chance to unleash a bolt of lightning
+8630800;Attacks have a chance to generate golden shockwaves
+8640000;Critical hits restore HP
+8640100;Critical hits restore FP
+8640200;Critical hits increase damage inflicted upon enemies
+8640300;Critical hits with holy affinity create an image of Order
+8640400;Critical hits with fire affinity spawn roiling lava
+8640500;Critical hits with lightning affinity call down a bolt of lightning into armament
+8640600;Critical hits with magic affinity create crystal shards
+8640700;Critical hits with poison release poison mist
+8640800;Critical hits with blood loss summon thorns of blood
+8640900;Critical hits with scarlet rot release pest threads
+8641000;Critical hits with frost cause an ice storm
+8641100;Critical hits with madness launch a flame of frenzy
+8641200;Critical hits with death blight strike surroundings with death lightning
+8650000;Successful guards restore HP
+8650100;Successful guards restore FP
+8652000;Successful guarding enhances poise
+8652100;Successful guarding enhances damage negation
+8660000;Raises attack power when HP is low
+8660101;Boosts damage negation when HP is low
+8660200;Armament inflicts blood loss and gains physical attack power after performing a critical hit
+8660300;At low HP, create holy ground, slowly restore HP, and improve damage negation
+8660400;Critical hits restore all HP when HP is low
+8670000;Raises attack power when HP is at maximum
+8670101;Boosts damage negation when HP is at maximum
+8690000;Creates a mist of poison when struck with poison
+8690100;Unleashes a concentrated blast of Frenzied Flame from the eyes when struck with madness
+8690200;Creates rot-inducing mist when struck with scarlet rot
+8690300;Launches a mist of frost when struck with frost
+8690400;Creates sleep-inducing mist when struck with sleep
+8700000;Increases attack power when struck with poison
+8710000;Increases attack power when struck with blood loss
+8720000;Increases attack power when struck with sleep
+8740000;Increases attack power when struck with frost
+8750000;Increases attack power when struck with madness
+8760000;Lowers maximum HP
+8760100;Lowers maximum FP
+8760200;Lowers maximum stamina
+8761000;Increases physical damage taken
+8761100;Lowers magic, fire, lightning, and holy damage negation
+8762000;Lowers resistance to all ailments
+8763000;Lowers HP restoration from flasks
+8764000;Surge sprinting consumes more stamina
+8765000;Reduces the charging speed of Ultimate Art gauge
+8766000;Slowly lowers HP
+8770000;More damage taken from the Night's tide
+8771000;As each day draws to its end, damage taken increases
+8800000;Evasions consume more stamina
+8800100;Damage negation is impaired after evading
+8800200;Evading repeatedly impairs damage negation
+8801000;Using flask reduces damage negation
+8801100;Using flask causes sleep buildup
+8801200;Using flask causes madness buildup
+8810000;Attack power reduced when below max HP
+8810200;Reduced Ultimate Art gain when below max HP
+8810300;Poison builds up when below max HP
+8810400;Rot builds up when below max HP
+8811000;Attack power reduced at max HP
+8811200;Reduced Ultimate Art gain at max HP
+8813100;Damage negation reduced at lower stamina
+8821000;On rare occasions, attacks do less damage
+8821100;Landed attacks afflict self with frost buildup
+8821200;Landed attacks afflict self with blood loss buildup
+8830000;Increases damage taken from ailments
+8831000;Nearing death partly depletes Art gauge
+8831100;Nearing death reduces flask by one
+8831200;Nearing death reduces max HP for some time
+8880000;Charge attacks produce ice storm.
+Weapon coated with frost.
+8880100;Charged slash produces a ring of light
+8880200;Charge attacks produce black flames.
+Weapon coated with black flame.
+8880300;Charge attacks trigger phantom attack
+8880400;Charged slash produces roaring flames
+8881000;Charge attacks produce a golden shockwave.
+Weapon coated with holy.
+8881100;Charged strike produces magic projectiles
+8881200;Charge attacks pull in enemies
+8881300;Charged strike produces a shockwave
+8881400;Charged strike triggers phantom attack
+8881500;Charge attacks produce magma.
+Weapon coated with fire.
+8881600;Charged strike produces magic bubbles
+8882000;Charged thrust triggers phantom attack
+8882100;Charge attacks produce a bolt of lightning.
+Weapon coated with lightning.
+8882200;Charged thrust releases acid mist
+8882300;Charged thrust releases pest threads
+8882400;Charged thrust releases poison mist
+8882500;Charge attacks release sleep-inducing mist.
+Weapon coated with sleep.
+8883000;Charge attacks create projectiles that inflict follow-up attacks
+8883100;Precision-aimed shot produces a bolt of lightning from the point of impact
+8883200;Precision-aimed shot produces poison mist from the point of impact
+8883300;Precision-aimed shot produces rot-inducing mist from the point of impact
+8883400;Precision-aimed shot releases a swarm of bloodflies from the point of impact
+8884000;Increases damage negation for magic, fire, lightning, holy, and ailments by keeping shield held up
+8884100;Become invincible for a moment by keeping shield held up
+8884200;Slowly restores HP by keeping shield held up and creates a holy ground that enhances damage negation
+8884300;Activates Endure to boost poise and damage negation when stance is broken
+8885000;Using flask also restores FP
+8885100;Failing in casting spell restores FP when FP is insufficient
+8885200;Continued guarding gradually enhances potency of sorceries and incantations and casting speed
+8920100;Enhances attack power of magic, fire, lightning, and holy affinities
+8921400;Critical hits raise attack power
+8960100;Strong attacks change to a different attack
+8960200;Strong jump attacks produce a shockwave at the landing point
+9021400;Skill activation adds attack power of magic or fire affinities
+9030900;Attacks lower enemies' magic damage negation
+9031000;Charge attacks produce waves of light
+9031400;Restores HP upon defeating enemies
+9031500;Raises attack power upon defeating enemies
+9031700;Charge attacks heal all ailments and dispel all temporary effects
+9040200;Attacking also wears down enemy HP for a moment afterwards
+9040500;The first blow of consecutive attacks creates a gravitational wave that pulls in enemies when wielding two swords
+9040800;Charge attacks cause a wave of gravitational force
+9041000;Enhances all attributes upon defeating enemies. This effect accumulates.
+9060400;Strong jump attacks transform the wielder into a thundercloud that plunges down with a lightning-infused blade
+9071000;Chance to instantly kill enemies attacked
+9081000;Critical hits produce a burst of flame
+9090200;Attacks after receiving damage partially recover HP
+9111500;Charge attacks cause a holy shockwave
+9122000;Restores HP upon defeating enemies
+9130300;Attacks send forth a dark cloud of stars on rare occasions that lingers briefly before exploding
+9150400;Charge attacks cause an earth-shaking shockwave
+9151100;Attacks lower enemies' damage negation on rare occasions
+9160900;Charged Skill activation adds attack power of lightning
+9170100;Blood loss in vicinity increases attack power
+9200600;Skill activation calls forth a barrage of flame pillars
+9210600;Critical hits make the dragon spew flames
+9230500;Charge attacks enhance attack power
+9330900;Casting spells dispel incoming sorceries, using their power to retaliate with glintblades
+9420000;Strong attack fires off a bundle of arrows
+9990100;The Wylder's grief enhances strength and dexterity
+9990200;The Guardian's grief enhances maximum HP and stamina
+9990300;The Ironeye's grief enhances maximum stamina and dexterity
+9990400;The Duchess' grief enhances dexterity and intelligence
+9990500;The Raider's grief enhances maximum HP and strength
+9990600;The Revenant's grief enhances faith and arcane
+9990700;The Recluse's grief enhances maximum FP and intelligence
+9990800;The Executor's grief enhances dexterity and arcane
+18000000;Raises maximum HP
+18010000;Raises maximum FP
+18010100;Lowers FP consumption
+18020000;Raises maximum stamina
+18020200;Raises stamina recovery speed
+18100000;Raises physical attack
+18100500;Enhances attack power of magic, fire, lightning, and holy affinities
+18120000;Attacks more likely to break stance of enemies
+18200000;Boosts physical damage negation
+18200500;Boosts magic, fire, lightning, and holy damage negation
+18210700;Raises resistance to all ailments
+18230000;Raises poise
+18330103;Raises potency of sorceries and incantations
+18330500;Extends spell effect duration
+18330700;Dragon Communion incantations add anti-dragon effect to right hand armament
+18350400;Parry to dispel incoming sorceries and incantations, retaliating with golden power
+18420100;Guard counters trigger holy bursts
+18420200;Activation summons a group of Those Lost in Death
+that attack enemies
+18430000;Enhances counterattacks unique to thrusting weapons
+18440000;Boosts HP restoration from flasks
+18500000;Increases number of runes obtained
+18640000;Critical hits restore HP
+18640100;Critical hits restore FP
+18640200;Critical hits increase damage inflicted upon enemies
+18650000;Successful guards restore HP
+18650100;Successful guards restore FP
+18660200;Armament inflicts blood loss after performing a critical hit
+18660300;At low HP, create holy ground, slowly
+restore HP, and improve defense
+18700000;Poisoning or scarlet rot in vicinity continuously restores HP
+18710000;Blood loss in vicinity increases attack power

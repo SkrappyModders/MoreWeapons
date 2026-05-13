@@ -1,0 +1,328 @@
+1;
+2;
+3;
+4;
+5;
+6;
+7;
+8;
+9;
+10;This armament has no skill.
+If the armament in the other hand has a skill, that skill will be used instead.
+100;Somersault forwards, striking foes with armament.
+101;Build power, then lunge forward for a strong thrust that pierces an enemy's guard.
+102;Starting with the blade held horizontally, make a powerful thrust that cannot be blocked.
+103;Slash foes as your body spins.
+Additional input allows for a follow-up attack.
+104;
+105;Quickly charge forward, carrying the momentum into a thrust.
+Hold to cover a greater distance.
+106;Brace armament and step into a low stance that briefly boosts poise.
+Follow up with a strong attack for an upward strike.
+107;Brace armament and step into a low stance that briefly boosts poise.
+Follow up with a strong attack for a sweeping strike.
+108;Unleash a flurry of thrusts that rob the target of both their blood and their HP.
+109;Unleash a flurry of thrusts.
+110;Swing armament with wild abandon.
+Hold to continue swinging. Can be followed up with a normal or strong attack.
+111;Perform continuous spinning attacks. Hold to continue the attack. Can be followed up with a normal or strong attack.
+112;Perform a crossing slash attack.
+Repeated inputs allow for up to two follow-up attacks.
+113;Slam armament into the ground to create a surge of flames, then charge in.
+Hold to continue the charge.
+114;Sheathe blade, holding it at the hip in a composed stance.
+Follow up with a normal or strong attack to perform a swift slash attack.
+115;This skill starts with the sword held level.
+Follow up with a normal attack to slash upwards through enemy's guard, or a strong attack to perform a running thrust.
+116;Step forward from a low stance, carrying the momentum into a sudden upward thrust.
+117;Thrust torch forward to set foes ablaze.
+118;Leap forward, imbuing the blade with magic, then descend, accelerating into a sweeping slash.
+119;Slash with a poison-infused blade.
+If the follow-up strike lands on a poisoned foe, deal significant damage.
+120;Lifts armament into mid-air, then makes it spin violently.
+121;
+122;Leap forward through surrounding storm winds and thrust armament downward. The attack will produce more storm winds at the point of impact.
+123;Spin armament to create surrounding storm winds. Repeated inputs allow for up to two follow-up attacks.
+124;Quickly close in to perform a series of spinning upward slashes.
+Follow up with an additional input to finish with a downward slash.
+125;Spins the striking part of a flail at high speed to attack. Follow up with a normal or strong attack to link the momentum of this skill into a successive attack.
+200;Form an arch of magic glintblades overhead, which will attack foes automatically.
+Follow up with a strong attack to chain this skill into a lunging thrust.
+201;Grants armament's attacks holy essence and fires off a golden blade projectile.
+The armament retains its holy essence for a while.
+202;Spin armament to release cold magic, then channel it into a piercing spear of ice.
+203;Employs the glintstone sorcery of the same name.
+Follow up with a strong attack to chain this skill into a lunging thrust.
+204;Coat the blade in your own blood to unleash a rending blood slash in a wide arc.
+205;A punch with an energy-infused fist that renders foes unconscious and steals their HP.
+Only effective against foes of human build.
+206;
+207;Slam armament into the ground, spawning roiling lava which spouts up upon release.
+208;Raise armament aloft in prayer, then slam it into the ground.
+This inspired blow restores HP to self and nearby allies if it successfully hits.
+209;Thrust the armament into the ground to create a gravity well and pull enemies in.
+210;Surround armament with shearing storm winds that can be fired forward.
+Can be fired in rapid succession.
+211;
+212;Thrust armament into the ground, then gather strength to unleash an earth-shaking shockwave.
+Follow up with a strong attack to swing the armament in a sweeping strike.
+213;Thrust armament into the ground, then gather strength to unleash a blast of sacred energy that coalesces into golden darts.
+Follow up with a strong attack to swing the armament in a sweeping strike.
+214;Emits flame in a wide frontward arc.
+Follow up with a strong attack to coat the armament in fire and perform a lunging, sweeping strike.
+215;
+216;Raise armament aloft to call down a bolt of lightning.
+Can be fired in rapid succession.
+217;Call down a bolt of lightning into armament, then swing it down to create an explosive shock. The armament retains the lightning enchantment for a while.
+218;Transform blade into a magical greatsword and swing it down.
+Can be charged to increase its power by up to two levels.
+219;Transform blade into a magical greatsword and swing it down.
+Can be charged to increase its power.
+220;Hold the armament aloft to surround it with a shearing vacuum, then launch it forwards as a blade-like projectile.
+221;Spin armament overhead and then plunge it into the ground to summon a raging vortex of black flames. Hold to create an initial flame tornado while spinning the armament.
+222;Gather a sacred ring of light in the armament, then fire it forwards.
+Can be fired in rapid succession.
+223;Blow into torch flame, spreading flames in a wide frontward arc.
+The flames on the ground will continue to burn for a short time.
+224;Wound self to coat the armament with blood, then unleash an airborne blood blade that causes hemorrhaging.
+Can be fired in rapid succession.
+225;Create an apparition who guides a joint lunging upward swing.
+Additional input allows for a follow-up attack.
+226;Hurl a phantasmic spear at foes.
+227;Coat armament in frost and then slash, spreading frigid mist forwards.
+The armament retains its frost for a while.
+228;Bathe armament in poison and then slash, spreading toxic mist forwards.
+The armament retains its poison for a while.
+300;Brace behind shield before using bodyweight to ram foes while maintaining guarding stance.
+301;Focus your energy into the shield, temporarily hardening it to deflect greater blows.
+302;Deflect an attack and break that foe's stance.
+This provides an opening to perform a critical hit.
+303;Deflect an attack and break that foe's stance.
+Activates faster than a regular parry.
+304;
+305;Dispel incoming sorceries and incantations, transforming the magic into retaliatory glintblades.
+Can also be used in the same way as a regular parry.
+306;Create a wall of storm winds in front of you, deflecting arrows and other such physical projectiles.
+Can also be used in the same way as a regular parry.
+307;Deflect enemy attacks and break their stance.
+Effective even at a slight distance.
+308;Two-hand the shield and charge forwards while maintaining guard. 
+Hold to extend the duration of the charge forwards.
+309;Deflect sorceries and incantations.
+Can also be used in the same way as a regular parry.
+400;Hold a greatbow in an oblique stance, then twist the bowstring to fire a mighty greatarrow that can penetrate through enemies.
+401;Hold a bow horizontally, then fire off a rapid succession of shots.
+402;Ready the bow in an oblique stance, then pull the bowstring to its limit to enhance the power of the shot, penetrating the enemy's guard.
+403;
+404;Enlivens the arrow with spiritual essence.
+The resulting shot will fly faster than regular shots and change its trajectory to follow the target.
+405;Ready the bow from a low stance, then fire an arrow high up into the air, arcing so as to strike the enemy from above when it comes down.
+406;Ready the bow from a low stance, then fire a burst of arrows into the sky to shower the enemy with projectiles.
+501;Stomp hard to spread a trail of freezing mist on the ground.
+The mist applies the frost status effect.
+502;Stomp hard on the ground to kick up a momentary storm.
+503;Push an enemy back with a high kick.
+Effective against enemies who are guarding, and can break a foe's stance.
+504;Let out a bleat, then tumble forwards, clad in lightning.
+Tumbles can be repeated in rapid succession.
+505;Produce a powerful burst of flames in a wide frontward arc.
+506;Jump up high into the air and crash down on the ground ahead.
+The resulting pratfall sends a powerful shockwave in all directions.
+507;Jump up high into the air and crash down on the ground ahead.
+The resulting pratfall sends golden shockwaves in all directions.
+508;Plunge armament into the ground to release three waves of darkness.
+Follow up with a strong attack to swing the armament in a sweeping strike.
+509;Slam both hands onto the ground to violently shake the earth and unleash a shockwave.
+Follow up with an additional input to slam the ground again.
+600;Pledge your resolve, powering up your next attack.
+601;Pledge your resolve, greatly powering up your next attack.
+602;Masks the user's presence at the cost of a self-inflicted wound.
+Grants near-invisibility and silences footsteps.
+603;Grants self and nearby allies increased attack power and damage negation.
+604;Perform a salute and grant the armament holy essence.
+Highly effective against Those Who Live in Death.
+605;Grant the armament and those of nearby allies holy essence.
+Highly effective against Those Who Live in Death.
+606;Plunge the blade into your stomach to stain it with blood. Increases attack power and improves ability to inflict blood loss.
+607;Bury the armament in the ground, pulling rocks from the earth to reinforce it.
+Increases attack power and makes it easier to break enemy stance.
+650;Let loose a bestial roar to rally the spirit and increase attack power.
+While active, strong attacks change to savage combo attacks.
+651;Give a war cry to rally the spirit and increase attack power.
+While active, strong attacks change to charging attacks.
+652;Unleash a beastly roar, rending the air as a forward-travelling projectile.
+653;Let out an intense roar, generating a powerful shockwave that blows back surrounding foes.
+Follow up with a strong attack to slam the armament down.
+654;A boastful roar that raises attack power, damage negation, and stamina recovery speed
+700;Brace for incoming attacks, briefly boosting poise.
+Damage taken while using this skill is reduced.
+701;Hold shield aloft to imbue yourself with golden power, granting momentary invincibility.
+702;Raise shield to create an Erdtree-consecrated area that continuously restores HP and boosts damage negation.
+800;Perform a quickstep maneuver that allows for circling around lock-on targets.
+801;Become temporarily invisible while dodging at high speed.
+This skill can be used to circle around lock-on targets.
+802;Duck into a low stance, momentarily vanishing.
+If an attack is received, nullify the attack and quickly take flight.
+850;Create a frontward-facing white shadow.
+The apparition lures in foes of human build, drawing their aggression.
+1000;Set flames of faith ablaze, then raise them aloft to rain down fireballs in all directions.
+Repeated inputs will continue to thrust the armament aloft, continuing the attack.
+1001;Ready the shield, then launch a fireball from the barrel.
+The fireball explodes on impact.
+1002;Ready the shield, then spray violent jets of fire.
+Hold to continue spraying fire.
+This skill can be used while walking.
+1003;Blow on the horn to release a magic bubble.
+The bubble floats gently through the air towards its target.
+1004;Blow on the horn to release a spume of magic bubbles.
+The bubbles float gently before raining down on the target.
+1005;Blow on the horn to release a massive magic bubble.
+The bubble floats gently through the air towards its target.
+1006;Swing a whip overhead to cover the surrounding area in a sea of magma.
+Hold to continue swinging the whip.
+1007;Bring the bronze viper to life, inciting it to lash out and bite foes.
+1008;Raise the sword aloft, bathing it in the light of the dark moon.
+Temporarily increases magic attack power and imbues blade with frost.
+Strong attacks release blasts of moonlight.
+1009;Thrust the weapon in a spiraling motion, surrounding it in a vortex of wind.
+Charged attacks can fire the tornado forwards.
+1010;Hoist the war banner aloft and give a rallying command.
+Raises attack power and damage negation for self and nearby allies.
+1011;Spew the flames of a small dragon over a wide frontward area.
+1012;Infuse the sword with energy, then fling it forwards in a corkscrew attack.
+Charge the attack to increase reach and duration of the spin.
+1013;Raise the greathorn's wings to summon a soul-sapping miasma.
+Enemies in the affected area will temporarily suffer from reduced damage negation.
+1014;Raise the sacred sword aloft to set it ablaze with blasphemous flames, then bring it down to fire off a forward blast.
+The flames steal HP from those they touch.
+1015;Lets out a horrific scream that reduces all damage negation for nearby foes.
+While active, strong attacks will change to a combo attack.
+1016;Launch blades that cause blood loss.
+Can be fired in rapid succession.
+1017;Launch glintstone pebbles.
+Charge the skill to launch glintstone darts. Follow up with a strong attack to chain this skill into a lunging thrust.
+1018;Temporarily transforms armament into its liquid form.
+Swing the armament like a whip to perform a sweeping slice over a wide area.
+1019;Hold the sword level and prepare to cast a sorcery.
+Follow up with a normal attack to cast the Night Comet sorcery, or a strong attack to sweep forward with a burst of flames.
+1020;Imbue the sword with bygone golden glory, then fire it at foes.
+A wide, golden wave fans out forwards.
+1021;Swing the sword to bathe its blade in ghostflame.
+1022;Raise the armament, releasing a golden explosion.
+Repeated inputs send out waves of golden light.
+1023;Releases a faint purple mist that spreads across a wide frontwards area.
+This mist inflicts the sleep ailment upon foes.
+1024;Thrust the spear high to summon a downpour of spectral spears.
+1025;Infuse the greatsword with frost, then leap forward and plunge it into the ground. Then, pull it out to release a cold blast.
+1026;Temporarily transform into a red thundercloud and fly through the air, then plunge down with a lightning-infused blade.
+Hold to increase the reach of the thundercloud form.
+1027;Brace, then charge forward to deliver a downward diagonal slice. The bloody trail of the blade is followed by a burst of flame.
+Additional input allows for a follow-up attack.
+1028;Perform a series of one-footed leaps to unleash a swift yet graceful slashing combo.
+Repeated inputs allow for up to two follow-up attacks.
+1029;Leap up high and imbue the rune shard with light before smashing it down hard upon the ground.
+1030;Repeatedly smash the Axe of Godrick into the ground, unleashing two earth-shaking shockwaves.
+Follow up with an additional input to produce a third shockwave.
+1031;Let loose a mighty war cry, raising attack power, while sending out a shockwave that cannot be guarded against by stomping the ground.
+While active, strong attack becomes a lunging slash.
+1032;Roar into the skies and pull in enemies with a gravitational wave.
+Follow up with an additional input to slam down with gravity-infused swords.
+1033;Raise the sword up high, then strike it against the ground to fire off a wave of gravitational force.
+1034;Raise the sacred spear and pierce the body of the Formless Mother. Stab up to three times, creating explosions of blood with each thrust.
+This skill will coat the armament with bloodflame for a while.
+1035;Temporarily transforms armament into its liquid form. Swing the armament like a whip to strike surroundings before slamming its teardrop-shaped head down.
+1036;Unleash the power of the Rune of Death to fire off a blade-like projectile.
+The blade reduces the enemy's maximum HP and continues to wear down HP for a while.
+1037;Leap into the air, shoot golden flames as a single, blade-like projectile.
+1038;Plunge the greatsword into the ground to summon a myriad of blades.
+This attack reduces the enemy's maximum HP and continues to wear down HP for a short time.
+1039;Strike the wheel against the ground to set it spinning at top speed. Hold to keep the wheel spinning.
+1040;Thrust the armament into the ground to create a gravity well that pulls enemies in.
+1041;Thrust the armament into the ground to create a gravity well that sends enemies flying away.
+1042;Temporarily raises all attributes for a certain duration. While the oath's effects are active, poise will also be increased.
+1043;Call down a bolt of ice lightning into the blade and bring it down upon a foe.
+The ice lightning effect will persist for a while.
+1044;Slam the hammer into the ground, rending the land asunder with the armament's five bestial claws.
+1045;Imbue the weapon with the Giants' Flame and lash out in a wide range with a series of agile swings.
+1046;Cause the finger to swell, then flex to give enemies an almighty flick.
+1047;Imbue the Naturalborn's stars with magic.
+This attack leaves a dark cloud of stars in its wake that lingers briefly before exploding.
+1048;Thrust out the barbed rod and set its tip alight with ghostflame.
+Follow up with a normal attack to set the ground ablaze with ghostflame, or a strong attack to trigger a massive explosion.
+1049;Imbue the armament with red lightning, then throw it as a spear.
+Can be charged to increase its power.
+1050;Imbue the spear with the flame of frenzy and leap forwards, plunging it into the ground and setting off a maddening explosion.
+The skill inflicts both the enemy and the user with madness.
+1051;Summon Miquella's shining halo and fire it forwards.
+Can be fired in rapid succession.
+1052;Cross the two swords to grant their attacks holy essence.
+While in effect, strong attack performs a dual-wielding combo attack.
+1053;Raise the weapon to grant the effect of Sacred Order to yourself and allies in the vicinity.
+Particularly effective at laying to rest Those Who Live in Death.
+1054;Imbue the blade with light, extending its length, then strike with a sudden sweeping attack.
+This attack cannot be blocked.
+1055;Infuse the sword with energy, then fling it forwards in a corkscrew attack.
+Charge the attack to increase reach and duration of the spin.
+1056;Slash with magic-enwreathed blade.
+The magic coating lasts for some time.
+1165;Leap forward, imbuing the blade with magic, then descend, accelerating into a sweeping slash.
+1166;Slash at foes in a twirling motion while imbuing weapon with ice lightning.
+Additional input allows for a follow-up attack.
+1167;Lift the sword up high to release the power of corpse wax and launch it forwards as a blade-like projectile.
+1168;Plunge the curved sword into the ground and unleash a freezing storm that batters the surroundings.
+1169;Ready the bow from a low stance and fire a sudden flurry of arrows up into the sky. The arrows will pour on foes like rain.
+1170;Set the blade ablaze with the god-slaying black flame before delivering a sweeping slash.
+Additional input allows for a follow-up attack. The black flames will continue to wear down HP for a while.
+1171;Nimbly avoid an attack, securing some distance from foes.
+Follow up with strong attack to perform a sudden lunge, and press strong attack again to perform a sweeping slice.
+1172;Slash at foes in a twirling motion while scattering magma all around.
+Additional input allows for a follow-up attack.
+1173;Imbue the Naturalborn's wings with magic to send forth a dark cloud of stars that lingers briefly before exploding.
+1174;Imbue the weapon with the Prince of Death's flames, inflicting the death ailment upon foes.
+Follow up with an additional input to bring down the armament, triggering an explosion.
+1175;Slash upwards to perform a backwards somersault and gain some distance from foes.
+Follow up with a strong attack to perform the Bloodhound's Step attack.
+1176;Leap forwards, smashing the weapon into the ground and triggering a blast of magma.
+Follow up with an additional input to perform a chopping attack.
+1177;Forms a blade of cursed blood for repeated, interweaving successive attacks.
+Follow up with an additional input for further successive attacks.
+1178;Sheathe blade, holding it at the hip in a composed stance. Follow up with either a normal or a strong attack to draw the blade at great speed for an instant slash attack.
+Both attacks fire off a wave of light.
+1179;Leap at foe to perform a flurry of tornado-like attacks.
+Follow up with an additional input to perform an attack that ends in an evasive maneuver.
+1180;
+1181;
+1182;Raise the scepter to manifest the realm of the All-Knowing. Enemy magic and holy damage negation will be reduced for all within the area, including the caster.
+1183;Strike the scepter against the ground to steal the HP of all nearby enemies.
+1184;Gently rattle the copper heads to summon vengeful spirits that chase down foes.
+1185;Raise the axe aloft to summon those lost in death.
+1186;Imbue the blade with lightning and swing it around to create a tempestuous lightning storm.
+Follow up with an additional input to perform up to two spinning attacks.
+The lightning will cling to the blade for a while.
+1187;Erect a palisade of golden spears frontwards.
+1188;Perform a powerful forward lunge and follow up with an upward thrust via additional input.
+1189;Jump and imbue the blade with light, then deliver a slashing attack upon the enemy.
+1190;Thrust the prosthetic leg blade into the ground, creating a storm.
+Follow up with a strong attack to perform a lightning-infused jumping attack.
+1191;Imbue the blade with light, then lunge forward with a sudden piercing attack.
+This attack cannot be blocked.
+1192;Channel magic into the glintstone to activate an ancient sorcery, producing floating magic projectiles that chase enemies automatically.
+1193;Jump up high into the air and crash down on the ground ahead. The resulting pratfall sends golden shockwaves in all directions.
+1194;Sends a bolt crashing down a short distance away.
+Can be fired in rapid succession.
+1195;Blow into the candlestick's flame, creating a stream of hazy purple fire to cover the ground ahead.
+The intoxicating flames inflict the sleep ailment upon foes.
+1196;Ready the shield to unleash its protective incantation.
+This will dispel sorceries and incantations, retaliating with golden power.
+1197;Incite the jellyfish's wrath and allow its fury to flow through you.
+Raises attack power for a certain duration.
+1198;Spin the entire sword in mid-air, building momentum before slamming the blade down onto the ground.
+This skill can be charged to increase its power.
+1199;Suspends the scepter in mid-air and cause it to spin violently.
+1200;Readying weapon gathers the power of the storm. Attacking unleashes the whirling tempest.
+1201;Readying weapon gathers the power of the storm. Attacking unleashes the whirling tempest.
+1202;Readying weapon gathers the power of the storm. Attacking unleashes the whirling tempest.
+1203;Readying weapon gathers the power of the storm. Attacking unleashes the whirling tempest.
+1204;Readying weapon gathers the power of the storm. Attacking unleashes the whirling tempest.
+1205;Readying weapon gathers the power of the storm. Attacking unleashes the whirling tempest.
+70000;

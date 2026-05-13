@@ -1,0 +1,53 @@
+126;Frayed Hold
+127;Quill Dart
+128;Blade of Peril
+129;Elfriede's stance
+130;Mad King's Folly
+131;Timeworn Spears Ember
+132;Timeworn Blades Ember
+133;Call to Stone
+134;Stamp (Thrust)
+135;Crystal Blade
+136;Timeworn Greatswords Ember
+137;Spin Slash
+138;Flame of Lorian
+139;Sacred Light and Flame
+140;Sacred Lothric Light
+141;Vordt's Perseverance
+142;Sever
+143;Quake
+144;Stamp (Overhead)
+145;Onikiri Hold
+146;Onislayer
+408;Radiant Rain of Arrows
+409;Stamp Hold (Sweep)
+2000;Dryleaf Whirlwind
+4010;Palm Blast
+4020;Piercing Throw
+4090;Blind Spot
+4110;Overhead Stance
+4120;Wing Stance
+4140;Flame Skewer
+4170;Flame Spear
+4180;Carian Sovereignty
+5000;Dragonwound Slash
+5010;Needle Piercer
+5020;Light
+5030;Darkness
+5040;Onze's Line of Stars
+5120;Dynastic Sickleplay
+5160;Shadow Sunflower Headbutts
+5170;Moon-and-fire Stance
+5180;Devonia's Vortex
+5190;Messmer's Assault
+5240;White Light Charge
+5260;Witching Hour Slash
+5270;Euporia Vortex
+5340;Repeating Fire
+5350;Deadly Dance
+5360;Fan Shot
+5430;Solitary Moon Slash
+5450;Weed Cutter
+5510;Scattershot Throw
+8000;Shield Strike
+9999;???

@@ -1,0 +1,360 @@
+606000;<?kgUD?>:スクロール <?kgLR?>:選択 <?kgOk?>:実行 <?kgRU?>:言語切り替え
+606001;同意する
+606002;同意しない
+606003;<?kgUD?>:選択 <?kgOk?>:実行 <?kgCancel?>:閉じる
+606004;言語変更
+606005;日本語
+606006;English
+606007;Français
+606008;Español
+606009;Italiano
+606010;Deutsch
+606011;한국어
+606012;繁體中文
+606013;简体中文
+606014;Polski
+606015;Русский
+606016;Português (Brasil)
+606017;Español (América Latina)
+606018;ภาษา​ไทย
+606019;اﻟﻌﺭﺑﻳﺔ
+606050;<?kgUD?>:スクロール <?kgOk?> <?kgCancel?>:閉じる <?kgRU?>:言語切り替え
+606100;利用規約
+606200;プライバシーポリシー
+606300;データ使用に関する同意
+607000;<?kgUD?>: Scroll <?kgLR?>: Select <?kgOk?>: Confirm <?kgRU?>: Change language
+607001;Accept
+607002;Decline
+607003;<?kgUD?>: Select <?kgOk?>: Confirm <?kgCancel?>: Close
+607004;Switch Language
+607005;日本語
+607006;English
+607007;Français
+607008;Español
+607009;Italiano
+607010;Deutsch
+607011;한국어
+607012;繁體中文
+607013;简体中文
+607014;Polski
+607015;Русский
+607016;Português (Brasil)
+607017;Español (América Latina)
+607018;ภาษา​ไทย
+607019;اﻟﻌﺭﺑﻳﺔ
+607050;<?kgUD?>: Scroll <?kgOk?> <?kgCancel?>: Close <?kgRU?>: Change language
+607100;Terms of Service
+607200;Privacy Policy
+607300;Allow usage of data
+608000;<?kgUD?> : Parcourir <?kgLR?> : Sélectionner <?kgOk?> : Confirmer <?kgRU?> : Changer la langue
+608001;Accepter
+608002;Refuser
+608003;<?kgUD?> : Sélectionner <?kgOk?> : Confirmer <?kgCancel?> : Fermer
+608004;Changer la langue
+608005;日本語
+608006;English
+608007;Français
+608008;Español
+608009;Italiano
+608010;Deutsch
+608011;한국어
+608012;繁體中文
+608013;简体中文
+608014;Polski
+608015;Русский
+608016;Português (Brasil)
+608017;Español (América Latina)
+608018;ภาษา​ไทย
+608019;اﻟﻌﺭﺑﻳﺔ
+608050;<?kgUD?> : parcourir <?kgOk?> <?kgCancel?> : fermer <?kgRU?> : changer la langue
+608100;Conditions d'utilisation
+608200;Politique de confident.
+608300;Autoriser l'utilisation des données
+609000;<?kgUD?>: Desplazar <?kgLR?>: Seleccionar <?kgOk?>: Confirmar <?kgRU?>: Cambiar idioma
+609001;Aceptar
+609002;Rechazar
+609003;<?kgUD?>: Seleccionar <?kgOk?>: Confirmar <?kgCancel?>: Cerrar
+609004;Cambiar idioma
+609005;日本語
+609006;English
+609007;Français
+609008;Español
+609009;Italiano
+609010;Deutsch
+609011;한국어
+609012;繁體中文
+609013;简体中文
+609014;Polski
+609015;Русский
+609016;Português (Brasil)
+609017;Español (América Latina)
+609018;ภาษา​ไทย
+609019;اﻟﻌﺭﺑﻳﺔ
+609050;<?kgUD?>: Desplazar <?kgOk?> <?kgCancel?>: Cerrar <?kgRU?>: Cambiar idioma
+609100;Términos de servicio
+609200;Política de privacidad
+609300;Permitir uso de datos
+610000;<?kgUD?>: Scorri <?kgLR?>: Seleziona <?kgOk?>: Conferma <?kgRU?>: Cambia lingua
+610001;Accetta
+610002;Rifiuta
+610003;<?kgUD?>: Seleziona <?kgOk?>: Conferma <?kgCancel?>: Chiudi
+610004;Cambia lingua
+610005;日本語
+610006;English
+610007;Français
+610008;Español
+610009;Italiano
+610010;Deutsch
+610011;한국어
+610012;繁體中文
+610013;简体中文
+610014;Polski
+610015;Русский
+610016;Português (Brasil)
+610017;Español (América Latina)
+610018;ภาษา​ไทย
+610019;اﻟﻌﺭﺑﻳﺔ
+610050;<?kgUD?>: Scorri <?kgOk?> <?kgCancel?>: Chiudi <?kgRU?>: Cambia lingua
+610100;Termini di servizio
+610200;Informativa sulla privacy
+610300;Consenti l'uso dei dati
+611000;<?kgUD?>: Scrollen <?kgLR?>: Auswählen <?kgOk?>: Bestätigen <?kgRU?>: Sprache ändern
+611001;Annehmen
+611002;Ablehnen
+611003;<?kgUD?>: Auswählen <?kgOk?>: Bestätigen <?kgCancel?>: Schließen
+611004;Sprache ändern
+611005;日本語
+611006;English
+611007;Français
+611008;Español
+611009;Italiano
+611010;Deutsch
+611011;한국어
+611012;繁體中文
+611013;简体中文
+611014;Polski
+611015;Русский
+611016;Português (Brasil)
+611017;Español (América Latina)
+611018;ภาษา​ไทย
+611019;اﻟﻌﺭﺑﻳﺔ
+611050;<?kgUD?>: Scrollen <?kgOk?> <?kgCancel?>: Schließen <?kgRU?>: Sprache ändern
+611100;Nutzungsbedingungen
+611200;Datenschutzrichtlinie
+611300;Datennutzung erlauben
+612000;<?kgUD?>: 스크롤 <?kgLR?>: 선택 <?kgOk?>: 실행 <?kgRU?>:언어 변경
+612001;동의하다
+612002;거절하다
+612003;<?kgUD?>: 선택 <?kgOk?>: 실행 <?kgCancel?>: 닫기
+612004;언어 변경
+612005;日本語
+612006;English
+612007;Français
+612008;Español
+612009;Italiano
+612010;Deutsch
+612011;한국어
+612012;繁體中文
+612013;简体中文
+612014;Polski
+612015;Русский
+612016;Português (Brasil)
+612017;Español (América Latina)
+612018;ภาษา​ไทย
+612019;اﻟﻌﺭﺑﻳﺔ
+612050;<?kgUD?>: 스크롤 <?kgOk?> <?kgCancel?>: 닫기 <?kgRU?>: 언어 변경
+612100;최종 사용자 라이선스 계약
+612200;개인정보처리방침
+612300;게임 분석
+613000;<?kgUD?>：滑動 <?kgLR?>：選擇 <?kgOk?>：執行 <?kgRU?>：切換語言
+613001;同意
+613002;不同意
+613003;<?kgUD?>：選擇 <?kgOk?>：執行 <?kgCancel?>：關閉
+613004;變更語言
+613005;日本語
+613006;English
+613007;Français
+613008;Español
+613009;Italiano
+613010;Deutsch
+613011;한국어
+613012;繁體中文
+613013;简体中文
+613014;Polski
+613015;Русский
+613016;Português (Brasil)
+613017;Español (América Latina)
+613018;ภาษา​ไทย
+613019;اﻟﻌﺭﺑﻳﺔ
+613050;<?kgUD?>：滑動 <?kgOk?> <?kgCancel?>：關閉 <?kgRU?>：切換語言
+613100;使用者授權合約
+613200;私隱政策
+613300;遊戲分析
+614000;<?kgUD?>：滑动 <?kgLR?>：选择 <?kgOk?>：执行 <?kgRU?>：切换语言
+614001;同意
+614002;不同意
+614003;<?kgUD?>：选择 <?kgOk?>：执行 <?kgCancel?>：关闭
+614004;变更语言
+614005;日本語
+614006;English
+614007;Français
+614008;Español
+614009;Italiano
+614010;Deutsch
+614011;한국어
+614012;繁體中文
+614013;简体中文
+614014;Polski
+614015;Русский
+614016;Português (Brasil)
+614017;Español (América Latina)
+614018;ภาษา​ไทย
+614019;اﻟﻌﺭﺑﻳﺔ
+614050;<?kgUD?>：滑动 <?kgOk?> <?kgCancel?>：关闭 <?kgRU?>：切换语言
+614100;使用者授权合约
+614200;私隐政策
+614300;游戏分析
+615000;<?kgUD?>: Przewiń <?kgLR?>: Wybierz <?kgOk?>: Zatwierdź <?kgRU?>: Zmień język
+615001;Akceptuj
+615002;Odrzuć
+615003;<?kgUD?>: Wybierz <?kgOk?>: Zatwierdź <?kgCancel?>: Zamknij
+615004;Zmień język
+615005;日本語
+615006;English
+615007;Français
+615008;Español
+615009;Italiano
+615010;Deutsch
+615011;한국어
+615012;繁體中文
+615013;简体中文
+615014;Polski
+615015;Русский
+615016;Português (Brasil)
+615017;Español (América Latina)
+615018;ภาษา​ไทย
+615019;اﻟﻌﺭﺑﻳﺔ
+615050;<?kgUD?>: Przewiń <?kgOk?> <?kgCancel?>: Zamknij <?kgRU?>: Zmień język
+615100;Regulamin
+615200;Polityka prywatności
+615300;Zezwalaj na użycie danych
+616000;<?kgUD?>: прокрутить <?kgLR?>: выбрать <?kgOk?>: подтвердить <?kgRU?>: изменить язык
+616001;Принять
+616002;Отклонить
+616003;<?kgUD?>: выбрать <?kgOk?>: подтвердить <?kgCancel?>: закрыть
+616004;Изменить язык
+616005;日本語
+616006;English
+616007;Français
+616008;Español
+616009;Italiano
+616010;Deutsch
+616011;한국어
+616012;繁體中文
+616013;简体中文
+616014;Polski
+616015;Русский
+616016;Português (Brasil)
+616017;Español (América Latina)
+616018;ภาษา​ไทย
+616019;اﻟﻌﺭﺑﻳﺔ
+616050;<?kgUD?>: Прокрутить <?kgOk?> <?kgCancel?>: закрыть <?kgRU?>: изменить язык
+616100;Условия предоставления услуг
+616200;Политика конфиденциальности
+616300;Разрешить использование данных
+617000;<?kgUD?>: Rolar <?kgLR?>: Selecionar <?kgOk?>: Confirmar <?kgRU?>: Mudar idioma
+617001;Aceitar
+617002;Recusar
+617003;<?kgUD?>: Selecionar <?kgOk?>: Confirmar <?kgCancel?>: Fechar
+617004;Mudar idioma
+617005;日本語
+617006;English
+617007;Français
+617008;Español
+617009;Italiano
+617010;Deutsch
+617011;한국어
+617012;繁體中文
+617013;简体中文
+617014;Polski
+617015;Русский
+617016;Português (Brasil)
+617017;Español (América Latina)
+617018;ภาษา​ไทย
+617019;اﻟﻌﺭﺑﻳﺔ
+617050;<?kgUD?>: Rolar <?kgOk?> <?kgCancel?>: Fechar <?kgRU?>: Alterar idioma
+617100;Termos de serviço
+617200;Política de privacidade
+617300;Permitir uso de dados
+618000;<?kgUD?>: Desplazar <?kgLR?>: Seleccionar <?kgOk?>: Confirmar <?kgRU?>: Cambiar idioma
+618001;Aceptar
+618002;Rechazar
+618003;<?kgUD?>: Seleccionar <?kgOk?>: Confirmar <?kgCancel?>: Cerrar
+618004;Cambiar idioma
+618005;日本語
+618006;English
+618007;Français
+618008;Español
+618009;Italiano
+618010;Deutsch
+618011;한국어
+618012;繁體中文
+618013;简体中文
+618014;Polski
+618015;Русский
+618016;Português (Brasil)
+618017;Español (América Latina)
+618018;ภาษา​ไทย
+618019;اﻟﻌﺭﺑﻳﺔ
+618050;<?kgUD?>: Desplazar <?kgOk?> <?kgCancel?>: Cerrar <?kgRU?>: Cambiar idioma
+618100;Términos de servicio
+618200;Política de privacidad
+618300;Permitir uso de datos
+619000;<?kgUD?>: ​เลือน <?kgLR?>: ​เลือก <?kgOk?>: ​ดําเนิน​การ <?kgRU?>: ​เปลียน​ภาษา
+619001;ยอมรับ
+619002;ไม่​ยอมรับ
+619003;<?kgUD?>: ​เลือก <?kgOk?>: ​ดําเนิน​การ <?kgCancel?>: ​ปด
+619004;เปลียน​ภาษา
+619005;日本語
+619006;English
+619007;Français
+619008;Español
+619009;Italiano
+619010;Deutsch
+619011;한국어
+619012;繁體中文
+619013;简体中文
+619014;Polski
+619015;Русский
+619016;Português (Brasil)
+619017;Español (América Latina)
+619018;ภาษา​ไทย
+619019;اﻟﻌﺭﺑﻳﺔ
+619050;<?kgUD?>: ​เลือน <?kgOk?> <?kgCancel?>: ​ปด <?kgRU?>: ​เปลียน​ภาษา
+619100;ข้อ​ตกลง​การ​บริการ​และ​ข้อ​ตกลง​ผู้​ใช้
+619200;นโยบาย​ความ​เปน​ส่วน​ตัว
+619300;ยอมรับ​การ​ใช้​งาน​ข้อมูล
+620000;<?kgUD?>: ﺗﻣﺭﻳﺭ <?kgLR?>: ﺗﺣﺩﻳﺩ <?kgOk?>: ﺗﺄﻛﻳﺩ <?kgRU?>: ﺗﻐﻳﻳﺭ اﻟﻠﻐﺔ
+620001;ﻗﺑﻭل
+620002;رﻓﺽ
+620003;<?kgUD?>: ﺗﺣﺩﻳﺩ <?kgOk?>: ﺗﺄﻛﻳﺩ <?kgCancel?>: إﻏﻼق
+620004;ﺗﺑﺩﻳﻝ اﻟﻠﻐﺔ
+620005;日本語
+620006;English
+620007;Français
+620008;Español
+620009;Italiano
+620010;Deutsch
+620011;한국어
+620012;繁體中文
+620013;简体中文
+620014;Polski
+620015;Русский
+620016;Português (Brasil)
+620017;Español (América Latina)
+620018;ภาษา​ไทย
+620019;اﻟﻌﺭﺑﻳﺔ
+620050;<?kgUD?>: ﺗﻣﺭﻳﺭ <?kgOk?> <?kgCancel?>: إﻏﻼق <?kgRU?>: ﺗﻐﻳﻳﺭ اﻟﻠﻐﺔ
+620100;ﺷﺭوط اﻟﺧﺩﻣﺔ
+620200;ﺳﻳﺎﺳﺔ اﻟﺧﺻﻭﺻﻳﺔ
+620300;اﻟﺳﻣﺎح ﺑﺎﺳﺗﺧﺩام اﻟﺑﻳﺎﻧﺎت

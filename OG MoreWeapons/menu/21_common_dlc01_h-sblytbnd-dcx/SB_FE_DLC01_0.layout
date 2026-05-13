@@ -1,0 +1,11 @@
+<TextureAtlas imagePath="W:\CL\data\Target\INTERROOT_win64\menu\ScaleForm\Tif\21_Common_DLC01\High\SB_FE_DLC01_0.tif" width="4096" height="2048">
+	<SubTexture name="MENU_FE_AnalyzeGauge_07.png" x="0" width="2116" y="0" height="1904" originalWidth="2116" originalHeight="1904" half="0"/>
+	<SubTexture name="MENU_FE_AnalyzeGauge_06.png" x="0" width="136" y="1908" height="136" originalWidth="136" originalHeight="136" half="0"/>
+	<SubTexture name="MENU_FE_AnalyzeGauge_01.png" x="2120" width="444" y="0" height="444" originalWidth="444" originalHeight="444" half="0"/>
+	<SubTexture name="MENU_FE_AnalyzeGauge_03.png" x="2568" width="336" y="0" height="336" originalWidth="336" originalHeight="336" half="0"/>
+	<SubTexture name="MENU_FE_AnalyzeGauge_04.png" x="2908" width="336" y="0" height="336" originalWidth="336" originalHeight="336" half="0"/>
+	<SubTexture name="MENU_FE_ResonanceCharge_01.png" x="3248" width="284" y="0" height="284" originalWidth="284" originalHeight="284" half="0"/>
+	<SubTexture name="MENU_FE_AnalyzeGaugeBG_00.png" x="3536" width="272" y="0" height="272" originalWidth="272" originalHeight="272" half="0"/>
+	<SubTexture name="MENU_FE_AnalyzeGauge_00.png" x="3812" width="272" y="0" height="272" originalWidth="272" originalHeight="272" half="0"/>
+	<SubTexture name="MENU_FE_ResonanceCharge_00.png" x="3536" width="256" y="276" height="256" originalWidth="256" originalHeight="256" half="0"/>
+</TextureAtlas>

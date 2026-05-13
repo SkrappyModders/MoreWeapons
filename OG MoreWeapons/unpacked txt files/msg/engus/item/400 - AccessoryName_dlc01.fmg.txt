@@ -1,0 +1,5 @@
+8000;Blessed Blue Dew Talisman
+8010;Fine Crucible Feather Talisman
+8040;Two-Handed Sword Talisman
+8060;Aged One's Exultation
+10000;

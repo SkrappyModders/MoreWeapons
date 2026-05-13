@@ -1,0 +1,428 @@
+2120000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+2130000;straight sword with a broken blade.
+
+A weapon with no exceptional qualities. Only a mad Hollow would choose to fight with this.
+2160000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+2530000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+2540000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+2550000;Sword of light, pulled from its stone scabbard at an altar.
+
+From the quick of the root, unswerving rays of light intersect and reflect to give the silver blade form.
+2560000;Sword of darkness, pulled from its stone scabbard at an altar.
+
+From the quick of the root, wandering coils of darkness coalesce and release, their eddies and vortices giving form to the dark blade.
+2570000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+2570500;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+2570600;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+2570700;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+2570800;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+2570900;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+2571000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+2571100;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+2590000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+3520000;Greatsword of Slave Knight Gael, the only weapon that he kept with him from beginning to end.
+
+Originally an executioner's sword made for decapitation, this blade is heavily chipped and stained with the blood of countless battles.
+3550000;Steel greatsword wielded by the Knights of the Solitary Gaol.
+
+Through a secret rite, they relinquished their hearts for heightened battle prowess. 
+Next, they engraved their blades with two crests: one depicting the light of birth, and the other, solitude.
+3560000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+4090000;This twisted sword, the heaviest of all ultra greatswords, resembles black slate.
+
+This weapon, said to belong to a traitor from long ago, was so heavy that it found no owner, and became a forgotten relic of history.
+4120000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+4130000;This twisted sword, the heaviest of all ultra greatswords, resembles black slate.
+
+This weapon, said to belong to a traitor from long ago, was so heavy that it found no owner, and became a forgotten relic of history.
+4130500;This twisted sword, the heaviest of all ultra greatswords, resembles black slate.
+
+This weapon, said to belong to a traitor from long ago, was so heavy that it found no owner, and became a forgotten relic of history.
+4130600;This twisted sword, the heaviest of all ultra greatswords, resembles black slate.
+
+This weapon, said to belong to a traitor from long ago, was so heavy that it found no owner, and became a forgotten relic of history.
+4130700;This twisted sword, the heaviest of all ultra greatswords, resembles black slate.
+
+This weapon, said to belong to a traitor from long ago, was so heavy that it found no owner, and became a forgotten relic of history.
+4130800;This twisted sword, the heaviest of all ultra greatswords, resembles black slate.
+
+This weapon, said to belong to a traitor from long ago, was so heavy that it found no owner, and became a forgotten relic of history.
+4130900;This twisted sword, the heaviest of all ultra greatswords, resembles black slate.
+
+This weapon, said to belong to a traitor from long ago, was so heavy that it found no owner, and became a forgotten relic of history.
+4131000;This twisted sword, the heaviest of all ultra greatswords, resembles black slate.
+
+This weapon, said to belong to a traitor from long ago, was so heavy that it found no owner, and became a forgotten relic of history.
+4500000;Greatsword of ancient meteoric ore, ending in a sharp point.
+
+Fashioned from an excavated shard of an arrowhead that once was a part of the old gods' arsenal. A capable piercing weapon that excels at thrusting attacks.
+4600000;Claws of a bottomless black from which no light can escape. Wielded by Anna, Swordhand of Night.
+
+Engraved with a smithscript enabling strong attack to launch all three claws at a target. The blades are only semicorporeal, and cannot be fully guarded against.
+4700000;Claws of a bottomless black from which no light can escape. Wielded by Anna, Swordhand of Night.
+
+Engraved with a smithscript enabling strong attack to launch all three claws at a target. The blades are only semicorporeal, and cannot be fully guarded against.
+5070000;Thrusting sword wielded by Corvian Knights, and a special paired weapon. When twin-handed, brandish four thin-edge blades in the left hand.
+
+In their infatuation with Sister Friede, the Corvian Knights swore to protect the painting from fire, and to this end, took to the execution of their own brethren.
+5750000;A thrusting sword with an intricately engraved silver handle. The coloring is nicely subdued after years of attentive care.
+
+When sheathed, the sword serves as a cane to ease a traveler's burden, like a companion who shares the trials encountered when traversing great distances.
+
+Graduates of the school all follow a similar path, readying themselves to be vessels to newfound knowledge.
+6250000;A "thrusting shield," or combined weapon and shield. Enables the wielder to attack and guard simultaneously.
+
+An armament once used in ritual combat performed to honor the Erdtree—a custom that had somehow remained within the realm of shadow.
+6260000;Silver thrusting shield embedded with glintstones.
+Enables the wielder to attack and guard simultaneously.
+
+Once wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat—a demonstration of fidelity to the Erdtree.
+6450000;Curved blade wielded with a backhand grip. A type of weapon wielded by hornsent for generations.
+
+The style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks.
+6450500;Curved blade wielded with a backhand grip. A type of weapon wielded by hornsent for generations.
+
+The style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks.
+6450600;Curved blade wielded with a backhand grip. A type of weapon wielded by hornsent for generations.
+
+The style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks.
+6450700;Curved blade wielded with a backhand grip. A type of weapon wielded by hornsent for generations.
+
+The style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks.
+6450800;Curved blade wielded with a backhand grip. A type of weapon wielded by hornsent for generations.
+
+The style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks.
+6450900;Curved blade wielded with a backhand grip. A type of weapon wielded by hornsent for generations.
+
+The style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks.
+6451000;Curved blade wielded with a backhand grip. A type of weapon wielded by hornsent for generations.
+
+The style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks.
+6451100;Curved blade wielded with a backhand grip. A type of weapon wielded by hornsent for generations.
+
+The style of combat associated with this weapon is marked by spinning slashes and gouging thrust attacks.
+6460000;Circular backhand blade engraved with a smithscript. A throwing weapon created through the smithing arts.
+
+Execute a strong attack to throw the backhand blade, causing it to fly in a curved trajectory.
+6470000;Weapon of the masked Curseblades. Circular backhand blade with wave-like cutting edges, sharpened into points that incite blood loss.
+
+Long ago, this was employed by the ascetics who strove to become tutelary deities as a ritualistic object in their self-flagellating dances.
+6650000;Large katana with a long, heavy blade. A weapon unique to warriors of the Land of Reeds.
+
+Designed for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss.
+6650500;Large katana with a long, heavy blade. A weapon unique to warriors of the Land of Reeds.
+
+Designed for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss.
+6650600;Large katana with a long, heavy blade. A weapon unique to warriors of the Land of Reeds.
+
+Designed for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss.
+6650700;Large katana with a long, heavy blade. A weapon unique to warriors of the Land of Reeds.
+
+Designed for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss.
+6650800;Large katana with a long, heavy blade. A weapon unique to warriors of the Land of Reeds.
+
+Designed for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss.
+6650900;Large katana with a long, heavy blade. A weapon unique to warriors of the Land of Reeds.
+
+Designed for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss.
+6651000;Large katana with a long, heavy blade. A weapon unique to warriors of the Land of Reeds.
+
+Designed for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss.
+6651100;Large katana with a long, heavy blade. A weapon unique to warriors of the Land of Reeds.
+
+Designed for aggression, this armament requires the wielder to throw their entire body into swinging it. The slashing attacks of its honed edge incite blood loss.
+6660000;Great katana with spines of gravel stone along its blade, wielded by the Ancient Dragon-Man of the Dragon's Pit. Has an anti-dragon effect. Formerly a Dragon Communion warrior, the Ancient Dragon-Man was once arbiter of those worthy to devour the Dreaded One.
+6670000;A great katana with the tempering pattern of its blade forever stained red with blood. Weapon of Rakshasa, who cuts down and devours.
+6750000;A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.
+
+Nicknamed after ladies of noble status for its refined appearance. With cultivated form, one can wield this weapon as swiftly as one might a straightsword.
+6750500;A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.
+
+Nicknamed after ladies of noble status for its refined appearance. With cultivated form, one can wield this weapon as swiftly as one might a straightsword.
+6750600;A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.
+
+Nicknamed after ladies of noble status for its refined appearance. With cultivated form, one can wield this weapon as swiftly as one might a straightsword.
+6750700;A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.
+
+Nicknamed after ladies of noble status for its refined appearance. With cultivated form, one can wield this weapon as swiftly as one might a straightsword.
+6750800;A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.
+
+Nicknamed after ladies of noble status for its refined appearance. With cultivated form, one can wield this weapon as swiftly as one might a straightsword.
+6750900;A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.
+
+Nicknamed after ladies of noble status for its refined appearance. With cultivated form, one can wield this weapon as swiftly as one might a straightsword.
+6751000;A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.
+
+Nicknamed after ladies of noble status for its refined appearance. With cultivated form, one can wield this weapon as swiftly as one might a straightsword.
+6751100;A light greatsword; that is, a sword whose blade matches the length of a greatsword, while being constrained to a minimal weight.
+
+Nicknamed after ladies of noble status for its refined appearance. With cultivated form, one can wield this weapon as swiftly as one might a straightsword.
+6760000;Light greatsword with gold inlaid. Weapon of Leda, the Needle Knight. Deals holy damage.
+
+Though polished to a mirror sheen, this blade still reeks with the stench of crusted blood that lingers from the cull of her knightly comrades.
+6770000;Carian light greatsword embedded with blue glintstone. Weapon of Rellana, the Twin Moon Knight.
+
+Two swords as a single armament. When two-handing, a straight sword engraved with golden flame will be carried in the left hand. Here, and here alone, were moon and fire ever together.
+7090000;Paired scimitars used by certain sellswords. The scimitars' sharp blades make for effective slashing attacks, but fare poorly against metal armor and tough scale-covered hides.
+
+With a scimitar in each hand, the wielder can vary their onslaught with unique left-handed attacks when in the proper stance.
+7090500;Paired scimitars used by certain sellswords. The scimitars' sharp blades make for effective slashing attacks, but fare poorly against metal armor and tough scale-covered hides.
+
+With a scimitar in each hand, the wielder can vary their onslaught with unique left-handed attacks when in the proper stance.
+7090600;Paired scimitars used by certain sellswords. The scimitars' sharp blades make for effective slashing attacks, but fare poorly against metal armor and tough scale-covered hides.
+
+With a scimitar in each hand, the wielder can vary their onslaught with unique left-handed attacks when in the proper stance.
+7090700;Paired scimitars used by certain sellswords. The scimitars' sharp blades make for effective slashing attacks, but fare poorly against metal armor and tough scale-covered hides.
+
+With a scimitar in each hand, the wielder can vary their onslaught with unique left-handed attacks when in the proper stance.
+7090800;Paired scimitars used by certain sellswords. The scimitars' sharp blades make for effective slashing attacks, but fare poorly against metal armor and tough scale-covered hides.
+
+With a scimitar in each hand, the wielder can vary their onslaught with unique left-handed attacks when in the proper stance.
+7090900;Paired scimitars used by certain sellswords. The scimitars' sharp blades make for effective slashing attacks, but fare poorly against metal armor and tough scale-covered hides.
+
+With a scimitar in each hand, the wielder can vary their onslaught with unique left-handed attacks when in the proper stance.
+7091000;Paired scimitars used by certain sellswords. The scimitars' sharp blades make for effective slashing attacks, but fare poorly against metal armor and tough scale-covered hides.
+
+With a scimitar in each hand, the wielder can vary their onslaught with unique left-handed attacks when in the proper stance.
+7091100;Paired scimitars used by certain sellswords. The scimitars' sharp blades make for effective slashing attacks, but fare poorly against metal armor and tough scale-covered hides.
+
+With a scimitar in each hand, the wielder can vary their onslaught with unique left-handed attacks when in the proper stance.
+7130000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+7160000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+8090000;This twisted sword, the heaviest of all ultra greatswords, resembles black slate.
+
+This weapon, said to belong to a traitor from long ago, was so heavy that it found no owner, and became a forgotten relic of history.
+8090500;This twisted sword, the heaviest of all ultra greatswords, resembles black slate.
+
+This weapon, said to belong to a traitor from long ago, was so heavy that it found no owner, and became a forgotten relic of history.
+8090600;This twisted sword, the heaviest of all ultra greatswords, resembles black slate.
+
+This weapon, said to belong to a traitor from long ago, was so heavy that it found no owner, and became a forgotten relic of history.
+8090700;This twisted sword, the heaviest of all ultra greatswords, resembles black slate.
+
+This weapon, said to belong to a traitor from long ago, was so heavy that it found no owner, and became a forgotten relic of history.
+8090800;This twisted sword, the heaviest of all ultra greatswords, resembles black slate.
+
+This weapon, said to belong to a traitor from long ago, was so heavy that it found no owner, and became a forgotten relic of history.
+8090900;This twisted sword, the heaviest of all ultra greatswords, resembles black slate.
+
+This weapon, said to belong to a traitor from long ago, was so heavy that it found no owner, and became a forgotten relic of history.
+8091000;This twisted sword, the heaviest of all ultra greatswords, resembles black slate.
+
+This weapon, said to belong to a traitor from long ago, was so heavy that it found no owner, and became a forgotten relic of history.
+8091100;This twisted sword, the heaviest of all ultra greatswords, resembles black slate.
+
+This weapon, said to belong to a traitor from long ago, was so heavy that it found no owner, and became a forgotten relic of history.
+9090000;A dragon weapon symbolizing Darkeater Midir.
+
+The once-exquisite blade is now stained black, and frayed at the hilt. Without its sheath, it will soon crumble into nothing.
+9100000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+9110000;Thrusting sword wielded by Corvian Knights, and a special paired weapon. When twin-handed, brandish four thin-edge blades in the left hand.
+
+In their infatuation with Sister Friede, the Corvian Knights swore to protect the painting from fire, and to this end, took to the execution of their own brethren.
+10180000;Thrusting sword wielded by Corvian Knights, and a special paired weapon. When twin-handed, brandish four thin-edge blades in the left hand.
+
+In their infatuation with Sister Friede, the Corvian Knights swore to protect the painting from fire, and to this end, took to the execution of their own brethren.
+10500000;Twinblade symbolizing abundance. The secret treasure of the tower.
+
+Though the blades, fashioned from golden shoots, are largely wilted and darkened, their luster can be restored by dealing damage to foes. However, damage dealt to Those Who Live in Death will have no such effect.
+10600000;
+11400000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+11750000;A strike weapon forged with black iron to conceal blood stains. The religious motif has been worn down by repeated bludgeoning.
+
+Originally a ceremonial tool meant for use upon the sacred dead to lay them in their coffins, but now the owner wields her hammer against the living, whom she prays will avoid a similar torment and rest in eternal peace.
+12220000;Great Hammer wielded by the Silver Knight Ledo. Ledo's hammer is by far the heaviest weapon amongst those wielded by the knights of Anor Londo.
+
+Ledo, an eccentric who traveled aross the outskirts, became a close friend to the giants and even Havel, the Rock.
+12300000;Dagger engraved with a smithscript.
+
+Reduced mass enhances the effects of the smithing arts, allowing this weapon to function as a throwing dagger for all attacks.
+
+Once thrown, the dagger instantly reappears in the wielder's hand.
+12400000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+14200000;Axe favored by Creighton the Wanderer, infamous deserter of the Knights of Mirrah.
+
+Called Dragonslayer's Axe for the lightning that pulsates within its blade, but Creighton used it to slay men.
+14200500;Axe favored by Creighton the Wanderer, infamous deserter of the Knights of Mirrah.
+
+Called Dragonslayer's Axe for the lightning that pulsates within its blade, but Creighton used it to slay men.
+14200600;Axe favored by Creighton the Wanderer, infamous deserter of the Knights of Mirrah.
+
+Called Dragonslayer's Axe for the lightning that pulsates within its blade, but Creighton used it to slay men.
+14200700;Axe favored by Creighton the Wanderer, infamous deserter of the Knights of Mirrah.
+
+Called Dragonslayer's Axe for the lightning that pulsates within its blade, but Creighton used it to slay men.
+14200800;Axe favored by Creighton the Wanderer, infamous deserter of the Knights of Mirrah.
+
+Called Dragonslayer's Axe for the lightning that pulsates within its blade, but Creighton used it to slay men.
+14200900;Axe favored by Creighton the Wanderer, infamous deserter of the Knights of Mirrah.
+
+Called Dragonslayer's Axe for the lightning that pulsates within its blade, but Creighton used it to slay men.
+14201000;Axe favored by Creighton the Wanderer, infamous deserter of the Knights of Mirrah.
+
+Called Dragonslayer's Axe for the lightning that pulsates within its blade, but Creighton used it to slay men.
+15150000;Greataxe of the black knights who wander the lands. Used to face chaos demons.
+
+The unique attack of this axe greatly reduces enemy poise, reflecting the tremendous size of the enemies that the knights have fearlessly faced.
+15150500;Greataxe of the black knights who wander the lands. Used to face chaos demons.
+
+The unique attack of this axe greatly reduces enemy poise, reflecting the tremendous size of the enemies that the knights have fearlessly faced.
+15150600;Greataxe of the black knights who wander the lands. Used to face chaos demons.
+
+The unique attack of this axe greatly reduces enemy poise, reflecting the tremendous size of the enemies that the knights have fearlessly faced.
+15150700;Greataxe of the black knights who wander the lands. Used to face chaos demons.
+
+The unique attack of this axe greatly reduces enemy poise, reflecting the tremendous size of the enemies that the knights have fearlessly faced.
+15150800;Greataxe of the black knights who wander the lands. Used to face chaos demons.
+
+The unique attack of this axe greatly reduces enemy poise, reflecting the tremendous size of the enemies that the knights have fearlessly faced.
+15150900;Greataxe of the black knights who wander the lands. Used to face chaos demons.
+
+The unique attack of this axe greatly reduces enemy poise, reflecting the tremendous size of the enemies that the knights have fearlessly faced.
+15151000;Greataxe of the black knights who wander the lands. Used to face chaos demons.
+
+The unique attack of this axe greatly reduces enemy poise, reflecting the tremendous size of the enemies that the knights have fearlessly faced.
+16200000;Black spear wielded by the Ringed Knights.
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these spears, and those who possessed them
+16300000;Dagger engraved with a smithscript.
+
+Reduced mass enhances the effects of the smithing arts, allowing this weapon to function as a throwing dagger for all attacks.
+
+Once thrown, the dagger instantly reappears in the wielder's hand.
+17040000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+18170000;A cross spear hung with a malformed corpse. 
+
+Once, a mad king was born to the pygmy royalty and Shira, knight of Filianore, put him to rest. But Shira's cross spear, unable to kill the undying king, only pinned itself to him. Shira delivered them together to the darkroom, where she stayed and held them close.
+18180000;Silver thrusting shield embedded with glintstones.
+Enables the wielder to attack and guard simultaneously.
+
+Once wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat—a demonstration of fidelity to the Erdtree.
+19500000;Signature weapon of the Pureblood Knight Ansbach. A viciously keen and slender scythe made for combat.
+
+The obsidian edge relies not upon trickery to fulfil its violent purpose—through skill alone the wielder can rip and rend through foes, sowing blossoms of red upon the battlefield.
+21800000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+21900000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+22500000;Claws of a bottomless black from which no light can escape. Wielded by Anna, Swordhand of Night.
+
+Engraved with a smithscript enabling strong attack to launch all three claws at a target. The blades are only semicorporeal, and cannot be fully guarded against.
+23500000;A "thrusting shield," or combined weapon and shield. Enables the wielder to attack and guard simultaneously.
+
+An armament once used in ritual combat performed to honor the Erdtree—a custom that had somehow remained within the realm of shadow.
+23510000;Silver thrusting shield embedded with glintstones.
+Enables the wielder to attack and guard simultaneously.
+
+Once wielded by Rellana, the Twin Moon Knight, during her sole entry into ritual combat—a demonstration of fidelity to the Erdtree.
+41080000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+43090000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+43100000;Straight sword wielded by the Ringed Knights.
+
+The arms of early men were forged in the Abyss, and betray a smidgen of life.
+
+For this reason the gods cast a seal of fire upon these swords, and those who possessed them.
+63500000;Dagger engraved with a smithscript.
+
+Reduced mass enhances the effects of the smithing arts, allowing this weapon to function as a throwing dagger for all attacks.
+
+Once thrown, the dagger instantly reappears in the wielder's hand.

@@ -1,0 +1,24 @@
+3030;Degree of stick tilt affects camera speed
+40000;Downloadable content
+130100;Cannot choose this target due to one or more team members not owning the downloadable content.
+
+All team members must have the following downloadable content:
+
+<?requiredDlcList?>
+130101;Certain targets are restricted due to team members not owning the downloadable content.
+
+All team members must have the following downloadable content:
+
+<?requiredDlcList?>
+131123;Event will not occur as relevant downloadable content not owned by all players.
+131124;Event will not occur as relevant downloadable content not owned by all players.
+401130;The following downloadable content cannot be found:
+
+<?requiredDlcList?>
+
+This profile cannot be loaded until the required downloadable content is reinstalled.
+401131;The Forsaken Hollows
+506080;Player without the downloadable content joined.
+Ready state cancelled.
+506081;One or more players do not have access to the downloadable content.
+Ready state cancelled.

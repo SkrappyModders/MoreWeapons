@@ -1,0 +1,152 @@
+8500;Primordial Nightlord's torn finger
+9660;Enables new relic rite
+9900;Enables new relic rite
+9901;Enables new relic rite
+9902;Enables new relic rite
+9903;Enables new relic rite
+9904;Enables new relic rite
+9905;Enables new relic rite
+9906;Enables new relic rite
+9907;
+9908;
+9909;
+9910;Enables new relic rite
+9911;Enables new relic rite
+9912;Enables new relic rite
+9913;Enables new relic rite
+9914;Enables new relic rite
+9915;Enables new relic rite
+9916;Enables new relic rite
+9917;
+9918;
+9919;
+9920;Enables new relic rite
+9921;Enables new relic rite
+9922;
+9923;
+9924;
+9925;Enables new relic rite
+9926;Enables new relic rite
+9927;
+9928;
+9929;
+9930;Enables new relic rite
+9931;Enables new relic rite
+9932;
+9933;
+9934;
+9935;Enables new relic rite
+9936;Enables new relic rite
+9937;
+9938;
+9939;
+9940;Enables new relic rite
+9941;Enables new relic rite
+9942;
+9943;
+9944;
+9945;Enables new relic rite
+9946;Enables new relic rite
+9947;
+9948;
+9949;
+9950;Enables new relic rite
+9951;Enables new relic rite
+9952;
+9953;
+9954;
+9955;Enables new relic rite
+9956;Enables new relic rite
+11027;Purifies the curse of the Lord of Blood
+40800;
+40801;
+40802;
+40803;
+40804;
+40805;
+40806;
+40807;
+40808;
+40809;
+40810;[Scholar] Acquire Dawn garb
+40811;
+40812;
+40813;
+40814;
+40815;
+40816;
+40817;
+40818;
+40819;
+40820;[Scholar] Acquire Darkness garb
+40821;
+40822;
+40823;
+40824;
+40825;
+40826;
+40827;
+40828;
+40829;
+40830;
+40850;[Scholar] Acquire Pardoner garb
+40851;
+40852;
+40853;
+40854;
+40855;
+40856;
+40857;
+40858;
+40859;
+40860;[Scholar] Acquire Xanthous garb
+40900;
+40901;
+40902;
+40903;
+40904;
+40905;
+40906;
+40907;
+40908;
+40909;
+40910;[Undertaker] Acquire Dawn garb
+40911;
+40912;
+40913;
+40914;
+40915;
+40916;
+40917;
+40918;
+40919;
+40920;[Undertaker] Acquire Darkness garb
+40921;
+40922;
+40923;
+40924;
+40925;
+40926;
+40927;
+40928;
+40929;
+40930;
+40950;[Undertaker] Acquire Brass garb
+40951;
+40952;
+40953;
+40954;
+40955;
+40956;
+40957;
+40958;
+40959;
+40960;[Undertaker] Acquire Lord's Blade garb
+10001000;A worn leather monocle case
+10001001;Core extracted from the Scholar
+10001002;A Night-smirched clear crystal
+10001003;A royal family vassal's journal
+10001004;Fast-acting Albinauric medicine
+10001005;Returned leather monocle case
+10001006;Headband worn by the denizens of the lands of Gold
+10001007;A note written by the Scholar

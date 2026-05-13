@@ -1,0 +1,3 @@
+<TextureAtlas imagePath="W:\CL\data\Target\INTERROOT_win64\menu\ScaleForm\Tif\21_Common_DLC01\High\SB_PropertyIcon_DLC01_0.tif" width="64" height="64">
+	<SubTexture name="MENU_PropertyIcon_33008.png" x="0" width="40" y="0" height="40" originalWidth="40" originalHeight="40" half="0"/>
+</TextureAtlas>

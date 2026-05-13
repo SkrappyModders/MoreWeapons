@@ -1,0 +1,386 @@
+11411;Max no. per slot
+11412;
+11413;
+11414;
+11415;
+11416;
+11417;
+11418;
+11419;
+11420;Item Category
+11508;Level
+20020;Scholar: Bagcraft
+65000;None
+65001;Darts
+65002;Pots
+65003;Boluses
+65004;Stones
+65005;Crystal Tears
+65006;Perfuming Arts
+65007;Greases
+65008;Food
+65009;Special Tools
+101013;Change Skill
+101014;Revert skill
+102018;Chapel
+104150;Before change
+104151;
+104152;
+104153;
+104154;
+104155;
+104156;
+104157;
+104158;
+104159;
+104160;After change
+110028;Analyse Camera Speed
+110029;Analyse Camera Speed
+131042;Salvation's Standard-Bearers
+131058;Balancers
+131059;Dreglord
+131060;
+131061;
+131062;
+131063;
+131064;
+131065;
+131066;
+131067;
+131068;Harmonia
+131069;Straghess
+131070;
+131071;
+131072;
+131073;
+131074;
+131075;
+131076;
+131077;
+131078;Seven valkyries clad in white armor. These servants of the heavens restore the balance of the world by wielding heroic weapons that purify chaos.
+
+But even heroines must one day sleep, so why not retire early to the annals of history?
+131079;A corpse fiend comprising countless bodies and discarded detritus. However they are torn apart or pulverized, their communal resentment writhes with determination, outwitting every form of annihilation.
+This obsessive mound of flesh, unlike any form of life ever to exist, has no obvious weakness.
+131114;The Great Hollow
+N.B. Only occurs with <?sysmsg@40000?> targets
+132553;Starting Placements
+136012;Sell
+136127;Starting Armaments (Spell)
+136200;Apply to current placement
+136201;Change name
+136202;Marker
+136203;Change order
+136204;Overwrite current placement
+136205;Save date and time display On/Off
+136220;Enter preset name
+138580;An academic who walks the Lands Between, and a member of the School of Hierodas who seeks knowledge through travel. He contracted a disease that causes abnormally rapid aging.
+
+Boasts impressive arcane levels but other attributes suffer. Has the potential to gain incredible battlefield advantages through observation.
+
+Preference: Thrusting swords
+138581;
+138582;
+138583;
+138584;
+138585;
+138586;
+138587;
+138588;
+138589;
+138590;An abbess who was mandated by her monastery to slay the Nightlord. Her uncanny strength belies her physique, leading others to keep her at a distance and eventually assign her to the unenviable task of burying the dead.
+
+Boasting impressive strength and faith, she is an unassuming gatekeeper to the afterlife who annihilates enemies with ruthless efficiency.
+
+Preference: Hammers
+144790;Carry more items, and level-up items by using them
+144791;
+144792;
+144793;
+144794;
+144795;Can activate Ultimate Art when allies or foes execute certain attacks
+144890;<?keyicon@127##10?>: Begin analysis
+144891;<?keyicon@120##10?>: Activate on enemy
+<?keyicon@118##10?>: Activate on self
+<?keyicon@127##10?>: Cancel
+144892;
+144893;
+144894;
+144895;<?keyicon@127##10?>: Activate
+Hold <?keyicon@127##10?> with max Art gauge: Enhanced attack
+*Or press <?keyicon@118##10?> while holding <?keyicon@127##10?>
+144896;<?keyicon@127##10?>: Cancel Character Skill
+144990;<?keyicon@126##10?>: Activate
+144991;
+144992;
+144993;
+144994;
+144995;<?keyicon@126##10?>: Activate
+146712;Changed skill for <?text1?> 
+146713;Reverted skill for <?text1?>
+148010;Reward for Secret of the Temple
+148011;
+148012;
+148013;
+148014;
+148015;
+148016;
+148017;
+148018;
+148019;
+148020;Reward for 1st victory
+238000;Change skill (1 time only)
+238001;Revert skill (1 time only)
+238020;Already changed
+238021;Unchanged
+288058;Scholar
+288059;Undertaker
+335080;Smithing table requires heat from a forge
+335081;Unable to examine now
+335082;Altar is sealed
+336012;BALANCE DISRUPTED
+336013;CALAMITY OVERCOME
+337420;The temple stirs ominously with fire
+337421;The temple is replete with magic
+337422;The temple rumbles with lightning
+337423;The temple is blessed by holy
+337424;The temple is thick with poison
+337425;The temple is corroded by divine scarlet rot
+337426;The temple thirsts for blood loss
+337427;The temple stings with frostbite
+337428;The temple quietly soothes any and all life
+337429;The temple steadily erodes any and all life
+337520;Item-handling level up [2]
+337521;Item-handling level up [3]
+337880;A new target appeared
+337881;A new target appeared
+337882;
+337883;
+337884;
+337885;Entry added to the Guide
+337886;Entry added to the Handbook
+337887;Entry added to the Guide and Handbook
+337888;
+337889;
+337890;Changed skill
+337891;Reverted skill
+337892;Cannot change this weapon's skill
+337893;Cannot revert this weapon's skill
+337954;Earth is shifting: The Great Hollow
+337955;
+337956;
+337957;
+337958;
+337959;Shifting earth has settled
+337960;
+337961;
+337962;
+337963;
+337964;
+337965;
+337966;
+337967;
+337968;Personal Objective in Progress
+337969;Personal Objective in Progress
+337987;Objective location can now be examined
+337988;Objective location can now be examined
+337989;Objective location can now be examined
+337990;
+337991;
+337992;
+337993;
+337994;
+337995;One power of the Favor of the Rotted Woods was lost
+338490;Replication altar unlocked
+338491;
+338492;
+338493;
+338494;
+338495;
+338496;
+338497;
+338498;
+338499;
+338500;Fire-summoning beasts appeared
+338501;
+338502;
+338503;
+338504;
+338505;
+338506;
+338507;
+338508;
+338509;
+338510;All fire-summoning beasts felled
+338511;Fire-summoning beast felled
+338512;Fire-summoning beast felled
+338513;
+338514;
+338515;
+338516;
+338517;
+338518;
+338519;
+338520;Fire-summoning beasts repelled
+338521;
+338522;
+338523;
+338524;
+338525;Fire-summoning beasts grow stronger
+338526;Fire-summoning beasts located
+338527;
+338528;
+338529;
+338530;Skill-changing smithing table opened
+338600;A chill mist rolls in, and hail begins to rain...
+338601;
+338602;
+338603;
+338604;
+338605;
+338606;
+338607;
+338608;
+338609;
+338610;The chill mist has lifted
+338611;
+338612;
+338613;
+338614;
+338615;
+338616;
+338617;
+338618;
+338619;
+338620;The chill mist has lifted
+338700;The Balancers will judge
+338701;
+338702;
+338703;
+338704;
+338705;
+338706;
+338707;
+338708;
+338709;
+338710;Sacred flask charges lost
+338711;
+338712;
+338713;
+338714;
+338715;
+338716;
+338717;
+338718;
+338719;
+338720;Partially restored sacred flask charges
+338721;
+338722;
+338723;
+338724;
+338725;
+338726;
+338727;
+338728;
+338729;
+338730;Restored all sacred flask charges
+338731;
+338732;
+338733;
+338734;
+338735;
+338736;
+338737;
+338738;
+338739;
+338740;A Balancer has withdrawn
+338741;
+338742;
+338743;
+338744;
+338745;
+338746;
+338747;
+338748;
+338749;
+338750;All Balancers have withdrawn
+338800;The great crystal cracks
+338801;The great crystal shatters
+338802;Resonating crystals located
+338803;
+338804;
+338805;A variant has invaded!
+338806;Variant felled
+338807;
+338808;
+338809;
+338810;Seal broken
+338811;
+338812;
+338813;
+338814;
+338815;
+338816;
+338817;
+338818;
+338819;
+338820;Disturbance in the heights of the fort
+338821;Variant felled
+411008;Analyse
+411009;Trance
+411010;
+411011;
+411012;
+411013;
+411014;
+411015;
+411016;
+411017;
+411018;Analyse
+411019;Trance
+412008;See target with monocle and note findings which linger as spirit symbols to various effect.
+412009;Bloodletting triggers the power of the loathsome hex
+412108;Continue observing to advance Analysis. Improve rate of progress by using Analyse on more enemy specimens, discovering special notes, and including allies in analysis.
+412109;Agility is increased, and repeated attacks boost attack power. Exhausting Ultimate Art gauge activates an additional loathsome hex.
+413008;Communion
+413009;Loathsome Hex
+413010;
+413011;
+413012;
+413013;
+413014;
+413015;
+413016;
+413017;
+413018;Communion
+413019;Loathsome Hex
+414008;Scatter pages of taboo tome to thread enemies and damage simultaneously.
+414009;Pull out uncanny bone from body, speed toward target, and strike.
+414108;Damage inflicted on threaded enemy affects other enemies. Also, can heal HP of threaded allies. Attacks received from threaded enemy also damage attacker.
+414109;Attacks quickly and allows for airborne movement
+415008;Bagcraft
+415009;Confluence
+415010;
+415011;
+415012;
+415013;
+415014;
+415015;
+415016;
+415017;
+415018;Bagcraft
+415019;Confluence
+416008;Carry more items, and level-up items by using them
+416009;Ally's execution of art enables additional art activation regardless of gauge.
+416010;
+416011;
+416012;
+416013;
+416014;
+416015;
+416016;
+416017;
+416018;Each item category is leveled up independently.
+Level 2: Effect strengthened.
+Level 3: Bonus effect added.
+416019;Absorbing power of darkness-imbued attacks executed by certain enemies allows activation of art.

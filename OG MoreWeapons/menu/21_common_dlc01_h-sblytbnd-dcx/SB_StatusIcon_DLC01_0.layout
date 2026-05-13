@@ -1,0 +1,19 @@
+<TextureAtlas imagePath="W:\CL\data\Target\INTERROOT_win64\menu\ScaleForm\Tif\21_Common_DLC01\High\SB_StatusIcon_DLC01_0.tif" width="512" height="256">
+	<SubTexture name="MENU_StatusIcon_20097.png" x="0" width="80" y="0" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_StatusIcon_20271.png" x="0" width="80" y="84" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_StatusIcon_20316.png" x="0" width="80" y="168" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_StatusIcon_20497.png" x="84" width="80" y="0" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_StatusIcon_20690.png" x="84" width="80" y="84" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_StatusIcon_20724.png" x="84" width="80" y="168" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_StatusIcon_20725.png" x="168" width="80" y="0" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_StatusIcon_20726.png" x="168" width="80" y="84" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_StatusIcon_20850.png" x="168" width="80" y="168" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_StatusIcon_20851.png" x="252" width="80" y="0" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_StatusIcon_20852.png" x="252" width="80" y="84" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_StatusIcon_20853.png" x="252" width="80" y="168" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_StatusIcon_20854.png" x="336" width="80" y="0" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_StatusIcon_20855.png" x="420" width="80" y="0" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_StatusIcon_20856.png" x="336" width="80" y="84" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_StatusIcon_20857.png" x="336" width="80" y="168" height="80" originalWidth="80" originalHeight="80" half="0"/>
+	<SubTexture name="MENU_StatusIcon_21297.png" x="420" width="80" y="84" height="80" originalWidth="80" originalHeight="80" half="0"/>
+</TextureAtlas>

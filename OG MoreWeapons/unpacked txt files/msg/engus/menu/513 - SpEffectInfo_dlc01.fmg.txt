@@ -1,0 +1,98 @@
+120750;Lowers resistance to frost
+120751;
+120752;
+120753;
+120754;
+120755;
+120756;
+120757;
+120758;
+120759;
+120760;Purifies the curse of the Lord of Blood
+121144;Rise from defeat a single time
+121145;Slowly restores HP
+121177;Effect of Favor of Noklateo, the Shrouded City
+121178;
+121179;
+121180;
+121181;
+121182;
+121183;
+121184;Lowers maximum HP
+121185;Passive Effect
+121186;Passive Effect
+121187;Effect of Cold Mirage
+121188;Effect of Favor of Underground Temple
+121189;Effect of Favor of Underground Temple
+121190;Effect of Favor of Underground Temple
+121191;Effect of Favor of Underground Temple
+121192;Effect of Favor of Underground Temple
+121193;Effect of Favor of Underground Temple
+121194;Effect of Favor of Underground Temple
+121195;Effect of Favor of Underground Temple
+121196;Effect of Favor of Underground Temple
+121197;Effect of Favor of Underground Temple
+121198;Effect of Favor of Underground Temple
+121199;Effect of Favor of Underground Temple
+121200;Effect of Favor of Underground Temple
+121201;Effect of Favor of Underground Temple
+121202;Effect of Aeonian Butterfly
+121203;Effect of Aeonian Butterfly
+121204;Effect of Nectarblood Burgeon
+121205;Effect of Nectarblood Burgeon
+121206;Effect of Bagcraft
+121207;Effect of Bagcraft
+121208;Effect of Bagcraft
+121209;Effect of Bagcraft
+121210;Effect of Bagcraft
+121211;Effect of Bagcraft
+121212;Effect of Bagcraft
+121213;Effect of Analyse
+121214;Effect of Analyse
+121215;Effect of Analyse
+121216;Effect of Analyse
+121217;Effect of Communion
+121218;Effect of Bagcraft
+121219;Effect of Bagcraft
+121220;Effect of Bagcraft
+121221;Effect of Bagcraft
+121222;Effect of Bagcraft
+121223;Effect of Bagcraft
+121224;Effect of Bagcraft
+121225;Effect of Relic
+121226;Effect of Relic
+121227;Effect of Relic
+121228;Effect of Relic
+121229;Effect of Favor of the Great Hollow
+121230;
+121231;Effect of Trance
+121232;Effect of Trance
+121233;Effect of Trance
+121234;Effect of Trance
+121235;Effect of Confluence
+121236;Effect of Bagcraft
+121237;Effect of Bagcraft
+121238;Restored through revival from death
+or passing through a Site of Grace
+123400;Effect of Beast's Hunt
+123401;
+123402;
+123403;
+123404;
+123405;
+123406;
+123407;
+123408;
+123409;
+123410;Reduces sacred flask charges
+123411;Effect of the Power to Balance the World
+123412;Effect of Analyse
+123413;Effect of Relic
+123414;
+123415;
+123416;
+123417;
+123418;
+123419;
+123420;Raises attack power
+123421;Lowers damage negation

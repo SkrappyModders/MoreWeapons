@@ -1,0 +1,27 @@
+9000;Continue analysis in chapel
+9001;Search the underground chamber below the marsh.
+N.B. Only occurs with <?sysmsg@40000?> targets.
+9002;Talk to the Undertaker
+9003;Continue analysis in chapel
+9004;Talk to the Undertaker
+9005;Conclude the remembrance
+9006;Talk to the Small Jar Merchant
+9007;Continue analysis in chapel
+9008;Talk to the Undertaker
+9009;Continue analysis in chapel
+9010;Defeat the Dreglord in Limveld
+9011;Talk to the Undertaker
+9012;Check dresser mirror
+9013;Rewrite copy of research
+9100;Talk to the Iron Menial
+9101;Check disturbance in chapel
+9102;Check disturbance in chapel
+9103;Talk to the Scholar
+9104;Conclude the remembrance
+9105;Talk to the Priestess
+9106;Offer prayer in chapel
+9107;Talk to the Iron Menial
+9108;Search for the Scholar in Limveld
+N.B. Only occurs with <?sysmsg@40000?> targets
+9109;Talk to the Scholar
+9110;Determine source of footsteps

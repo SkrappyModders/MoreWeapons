@@ -1,0 +1,36 @@
+252910;Analyse
+302100;New Character: The Scholar
+302101;
+302102;
+302103;
+302104;
+302105;
+302106;
+302107;
+302108;
+302109;
+302110;New Character: The Undertaker
+403147;Map: Finding Armaments and Items [2]
+403240;Map: Key Locations [4]
+403241;
+403242;
+403243;
+403244;
+403245;
+403246;
+403247;
+403248;
+403249;
+403250;Map: Key Locations [5]
+403440;Shifting Earth: The Great Hollow
+403460;Change Skill Menu
+403461;
+403462;
+403463;
+403464;
+403465;
+403466;
+403467;
+403468;
+403469;
+403470;Dormant Power

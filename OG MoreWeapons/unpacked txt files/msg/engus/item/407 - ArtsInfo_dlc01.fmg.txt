@@ -1,0 +1,64 @@
+126;Assume a holding stance in which a normal attack commences a series of slashes, and a strong attack sends a shockwave along the earth.
+127;Simultaneously throw temporarily substantial illusions of the four thin-edged blades wielded in the left hand.
+128;Leap in any direction, slamming the greatsword to the ground, then follow with normal attack for a large spinning slash, or strong attack to back-step and jump foward in an overhead slam.
+129;Conjure a magic bladed support scythe into the left hand while the great scythe remains in the right, use normal attack to coat the earth with running frost, or strong attack to leap forward and swing twice.
+Being close increases damage dealt by the skill.
+130;Slam malformed corpse into the ground to briefly awaken it, then fillet with strong attack to trigger a damaging roar, a blessing to endure, or an explosive vexation.
+131;Thrust the timeworn spear and watch it restore its ancient brilliance and reignite a short-lived flame, whose dull aftermath will carry on..
+132;Stand ready with the timeworn blade as it restores its ancient brilliance and reignites a short-lived flame. From this stance transition to normal or strong attack.
+133;Spin to lure stones to the steel hammer, and use strong attack to transition into an earth slam that shatters the stones in a shockwave.
+134;Brace armament and step into a low stance that briefly boosts poise.
+Follow up with a strong attack for an advancing thrust.
+135;Release magic for the aquamarine crystals, creating a fleeting blue crystal blade, lengthy enough to swing as a straight sword.
+136;Cross the twin timeworn greatswords to reignite a short-lived flame. A lightning-quick upward heave slices the very air, and transitions into normal or strong attacks.
+137;Slash foes as your body spins.
+Additional input allows for a follow-up attack.
+138;Lunge forward to transform smolder into flame, and follow with strong attack to launch flame across ground.
+139;While in stance, use normal attack to cast Sacred Lothric Light, and strong attack to cast Flame of Lorian.
+140;Assume stance to imbue sword with sacred light.
+
+Use strong attack to release light together with a great thrust of the sword.
+141;Brace for incoming attacks, briefly boosting poise.
+Damage taken while using this skill is reduced.
+Increases attack power when hit while active.
+142;Hold the giant blade with both hands and slash repeatedly at foe's feet.
+Follow-up with a normal attack to slash further or a strong attack to perform a jumping slam. 
+143;Burrow hammer head into the ground with a great slam.
+Use strong attack to upheave earth, creating a shockwave that rumbles like a mighty warcry.
+144;Brace armament and step into a low stance that briefly boosts poise, and puts your weapon infront of you allowing you to block attacks.
+Follow up with a strong attack for an overhead slam.
+145;Use normal attack to Slash mercilessly with both blades, or strong attack perform a parry.
+146;Leap forward and slash mercilessly with both blades, cutting open foes.
+408;Ready the bow from a low stance, then fire a burst of arrows into the sky to shower the enemy with a storm of projectiles. The storm will home onto the closest 3 enemies and hover over them.
+409;Brace armament and step into a low stance that briefly boosts poise. Holding the button will keep you in the stance.
+Follow up with a strong attack for a sweeping strike.
+2000;
+4010;
+4020;
+4090;
+4110;
+4120;
+4140;
+4170;
+4180;
+5000;
+5010;
+5020;
+5030;
+5040;
+5120;
+5160;
+5170;
+5180;
+5190;
+5240;
+5260;
+5270;
+5340;
+5350;
+5360;
+5430;
+5450;
+5510;
+8000;
+9999;Change to reveal skill

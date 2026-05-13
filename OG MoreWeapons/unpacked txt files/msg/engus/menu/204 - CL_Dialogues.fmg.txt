@@ -1,0 +1,462 @@
+1;OK
+2;CANCEL
+3;YES
+4;NO
+15;RETRY
+16;CONTINUE
+17;RETURN TO TITLE
+40200;Insufficient runes
+40201;
+40202;
+40203;
+40204;
+40205;
+40206;
+40207;
+40208;
+40209;
+40210;Out of stock.
+Cannot purchase any more.
+40300;Returning to default settings.
+Proceed?
+40500;Restoring all default settings.
+Proceed?
+110000;Save the game and return to title menu?
+110001;Returning to title screen during session will incur a penalty.
+Proceed?
+110002;Leave session and return to title menu?
+110003;Leave session and return to title menu?
+
+If you leave now, any personal objective progress made will be lost.
+110004;Returning to title screen during session will affect Depth rating depending on progress.
+Proceed?
+
+N.B. Rating penalty will be waived due to the premature exit of another player.
+110005;
+110006;
+110007;
+110008;
+110009;
+110010;Save the game and return to the desktop?
+110011;Returning to desktop during session will incur a penalty.
+Proceed?
+110012;Leave session and return to the desktop?
+110013;Leave session and return to the desktop?
+
+If you leave now, any personal objective progress made will be lost.
+110014;Returning to desktop during session will affect Depth rating depending on progress.
+Proceed?
+
+N.B. Rating penalty will be waived due to the premature exit of another player.
+110015;
+110016;
+110017;
+110018;
+110019;
+110020;Ending tutorial.
+Do you wish to proceed?
+
+N.B. Tutorial can be resumed later.
+110021;
+110022;
+110023;
+110024;
+110025;
+110026;
+110027;
+110028;
+110029;
+110030;End battle and travel to Roundtable.
+Proceed?
+110031;
+110032;
+110033;
+110034;
+110035;
+110036;
+110037;
+110038;
+110039;
+110040;Ending battle.
+Proceed?
+110041;
+110042;
+110043;
+110044;
+110045;
+110046;
+110047;
+110048;
+110049;
+110050;Postponing remembrance.
+Proceed?
+110051;
+110052;
+110053;
+110054;
+110055;
+110056;
+110057;
+110058;
+110059;
+110060;Postpone remembrance and travel to Roundtable.
+Proceed?
+110061;
+110062;
+110063;
+110064;
+110065;
+110066;
+110067;
+110068;
+110069;
+110070;Conclude remembrance and switch
+character to <?DisplayHero?>?
+110071;
+110072;
+110073;
+110074;
+110075;
+110076;
+110077;
+110078;
+110079;
+110080;Postpone remembrance and switch
+character to <?DisplayHero?>?
+110316;Return to the title menu to change language settings
+110570;Skip this scene and move on to the next?
+111100;Settings have been changed.
+This will revert to the previous setting in <?remainingSec?> seconds.
+Keep current settings?
+111101;Keep current settings?
+111102;Some settings will only be applied after returning to title menu
+111103;This setting will be applied after restarting the game
+111104;Settings have been changed.
+This will revert to the previous setting in <?remainingSec?> seconds.
+Keep current settings?
+111105;Some settings will only be applied after returning to title menu
+111106;HDR turned off
+111107;HDR turned on
+111108;
+111109;
+111110;Some setting changes have not been applied.
+To apply these changes, return to title menu.
+130000;Depth rating will be reduced to 0.
+Once reduced, a rating cannot be restored.
+
+Proceed anyway?
+130001;Depth rating will be reduced by 1 (and set to the middle of that depth).
+Once reduced, one's rating cannot be restored.
+
+Proceed anyway?
+134000;Change active character to <?DisplayHero?>?
+136000;Identical relics cannot be placed together
+136001;
+136002;Select something to sell
+136003;Current selection will be discarded.
+Leave this screen?
+136004;Selling <?itemName?> for <?sellLobbyCurrency?> murk.
+Proceed?
+136005;Selling selected relics for a total of <?sellLobbyCurrency?> murk.
+Proceed?
+136006;Selling <?itemName?> for <?sellLobbyCurrency?> murk will exceed maximum murk.
+Murk exceeding maximum will be forfeited.
+Proceed?
+
+136007;Selling selected relics for a total of <?sellLobbyCurrency?> will exceed maximum murk.
+Murk exceeding maximum will be forfeited.
+Proceed?
+136008;Cannot sell.
+Includes equipped or favorited relics.
+136009;This will apply the selected preset.
+The present placement will be lost.
+Proceed?
+136010;Deleting selected preset.
+Proceed?
+136011;Maximum no. of presets saved.
+Cannot save additional presets.
+136012;Preset saved
+136013;Some effects have been canceled out due to their conflicting natures
+138160;This will restart tutorial.
+Proceed?
+138161;Cannot replay tutorial while matchmaking 
+or while assigned to a team
+138200;Cannot show result history in offline mode
+138262;Cannot replay tutorial while reliving a remembrance
+140000;Cannot conclude remembrance while matchmaking
+140001;Cannot postpone remembrance while matchmaking
+140100;Beginning remembrance.
+Proceed?
+140101;Concluding remembrance.
+Proceed?
+140102;Postponing remembrance.
+Proceed?
+140103;Resuming remembrance.
+Proceed?
+142000;Purchase <?itemName?>
+for <?buyLobbyCurrency?> murk?
+142020;Insufficient murk
+142021;
+142022;
+142023;
+142024;
+142025;
+142026;
+142027;
+142028;
+142029;
+142030;Exchange Sovereign Sigil x<?buyCampaignCurrency?>
+for <?itemName?>?
+144000;Restoring equipment to character's original loadout.
+Proceed?
+146000;Unable to load footprint data
+146001;Cannot show effect details for old results
+146002;
+146003;
+146004;
+146005;
+146006;
+146007;
+146008;
+146009;
+146010;Communicating...
+146011;
+146012;
+146013;
+146014;
+146015;
+146016;
+146017;
+146018;
+146019;
+146020;Rating penalty was waived due to the premature exit of another player.
+146100;Send report with selected reasons
+146101;
+146102;
+146103;
+146104;
+146105;
+146106;
+146107;
+146108;
+146109;
+146110;Send report with the reasons you selected?
+146111;
+146112;
+146113;
+146114;
+146115;
+146116;
+146117;
+146118;
+146119;
+146120;Reporting...
+146121;
+146122;
+146123;
+146124;
+146125;
+146126;
+146127;
+146128;
+146129;
+146130;Your report has been sent.
+
+If you wish to provide us with additional details regarding this
+report, please make a note of the below report ID and include it
+when contacting Bandai Namco's Customer Support in your region.
+
+Report ID: <?reportId?>
+146199;Report failed.
+146200;Could not acquire data from server
+150000;No more result histories can be added to favorites.
+To add a new result history, it is necessary to first remove an old one.
+152000;Exchange Sovereign Sigil x<?buySpecialCurrency?>
+for <?itemName?>?
+152001;
+152002;
+152003;
+152004;
+152005;
+152006;
+152007;
+152008;
+152009;
+152010;Insufficient Sovereign Sigils.
+231000;Purchase <?itemName?>
+for <?demandSoul?> runes
+231020;Cannot purchase due to inventory maximum
+280001;Restoring all default settings.
+Proceed?
+280002;Restoring game options settings to defaults.
+Proceed?
+280003;Restoring camera options settings to defaults.
+Proceed?
+280004;Restoring display settings to defaults.
+Proceed?
+280005;Restoring sound settings to defaults.
+Proceed?
+280006;Restoring network settings to defaults.
+Proceed?
+280007;
+280008;Restoring keyboard and mouse settings to defaults.
+Proceed?
+280009;Restoring graphics settings to defaults.
+Proceed?
+280010;Restoring key bindings to defaults.
+Proceed?
+280011;Restoring brightness to default.
+Proceed?
+280012;Restoring image quality to default.
+Proceed?
+280013;Restoring advanced graphics settings to defaults.
+Proceed?
+290004;Failed to save character information
+290100;This button cannot be assigned as a map control
+401701;<?sysmsg@401701?>
+401702;Starting with the following name.
+<?InsertName?>
+401703;Restoring player name to default.
+Proceed?
+404010;Discard present changes and return to previous page?
+404011;
+404012;
+404013;
+404014;
+404015;
+404016;
+404017;
+404018;
+404019;
+404020;With HDR setting ON:
+Picture can be adjusted from the in-game system menu
+406011;Starting with selected profile
+406012;Delete selected profile and begin a new game?
+406013;Deleting selected profile.
+Proceed?
+506011;Matchmaking has been canceled
+506012;Cancel matchmaking?
+506013;
+506014;No multiplayer password history
+506015;No group password history
+506016;
+506017;Expedition standby cancelled.
+506018;Cancel expedition standby?
+506019;
+506020;Matchmaking failed
+506021;Matchmaking failed.
+Unable to create session.
+506022;Matchmaking failed.
+Unable to join session.
+506023;Cannot start multiplayer session in offline mode.
+Select "One player" in the "Number of Players" expedition setting.
+506024;Cannot set off on expedition to the Deep of Night in offline mode.
+506025;
+506026;
+506027;
+506028;
+506029;
+506030;Connection to Steam has been lost.
+Unable to commence expedition.
+506031;
+506032;
+506033;
+506034;
+506035;
+506036;
+506037;
+506038;
+506039;
+506040;Cannot embark on expedition until game is fully installed
+506041;
+506042;
+506043;
+506044;
+506045;
+506046;
+506047;
+506048;
+506049;
+506050;Team disbanded
+506051;Disband team?
+506052;Left team
+506053;Leave team?
+506054;Failed to create team
+506055;Failed to join team
+506056;
+506057;
+506058;
+506059;
+506060;Failed to enter multiplayer session.
+Unable to join matched players.
+Returning to Roundtable Hold.
+506061;
+506062;
+506063;
+506064;
+506065;
+506066;
+506067;
+506068;
+506069;
+506070;Cannot launch expedition: Too many relics in possession.
+Please use the relic rite menu to sell off spares.
+506100;Multiplayer Password History
+506101;Group Password History
+620100;As this product is still in development, some functionality
+(including features that use the Xbox network) may not
+be working as intended, and may result in a forced
+closure of the game.
+
+Additionally, support is not offered for this product.
+620101;
+620102;
+620103;
+620104;
+620105;
+620106;
+620107;
+620108;
+620109;
+620110;The functionality of this product differs from the final release in this manner:
+-This product cannot be played without a network connection
+700000;Postponing remembrance.
+Proceed?
+700001;
+700002;
+700003;
+700004;
+700005;
+700006;
+700007;
+700008;
+700009;
+700010;Postpone remembrance and travel to Roundtable.
+Proceed?
+700011;
+700012;
+700013;
+700014;
+700015;
+700016;
+700017;
+700018;
+700019;
+700020;Postpone remembrance and switch
+character to <?DisplayHero?>?
+20002002;YES
+20002003;NO
+21012001;Eat 
+21012002;Do not eat
+21032001;YES
+21032002;NO
+21082001;Accept
+21082002;Refuse
+22092010;Take
+22092011;Leave
+23092013;YES
+23092014;NO
+23112000;Eliminate
+23112001;Leave alone
+26092000;YES
+26092001;NO

@@ -1,0 +1,399 @@
+1000;Examine
+1851;Level up
+1852;Add charge to flask
+1853;Already at highest level
+1854;
+1855;Purchase
+1870;Learn about locale
+1882;Commence expedition
+1883;Change character
+1884;Perform Relic Rites
+1885;Open Visual Codex
+1886;Open journal
+1887;Change sparring equipment
+1888;Replicate armament
+1889;Change sparring settings
+1890;Take hold of Spectral Hawk
+1891;Change garb
+1892;Examine sign
+2000;Pick up item
+2001;Acquire runes
+2002;
+2003;
+2004;
+2005;Gain power
+2006;
+2007;
+2008;
+2009;
+2010;Loot items
+2011;
+2012;
+2013;
+2014;
+2015;
+2016;
+2017;
+2018;
+2019;
+2020;Loot items
+2021;
+2022;
+2023;
+2024;
+2025;
+2026;
+2027;
+2028;
+2029;
+2030;Loot items
+2031;
+2032;
+2033;
+2034;
+2035;
+2036;
+2037;
+2038;
+2039;
+2040;Take armament
+2041;
+2042;
+2043;
+2044;
+2045;
+2046;
+2047;
+2048;
+2049;
+2050;Take staff
+2051;
+2052;
+2053;
+2054;
+2055;
+2056;
+2057;
+2058;
+2059;
+2060;Take sacred seal
+2061;
+2062;
+2063;
+2064;
+2065;
+2066;
+2067;
+2068;
+2069;
+2070;Gain the power of the mountains
+2071;
+2072;
+2073;
+2074;
+2075;Gain the power of the forest
+2076;
+2077;
+2078;
+2079;
+2080;Gain the power of the city
+2100;OK
+2500;Use
+2501;Pin
+2502;Hold <?keyicon@123?>
+2810;Gain effect of materials
+2811;Restore HP
+2812;Heal ailments
+2813;Summon foe-chasing vengeful spirits
+2814;Restore FP
+2815;Boost rune acquisition
+2816;Boost damage negation
+2817;Boost physical and fire damage
+2818;Cure rot
+2819;Restore HP
+3100;Open
+3400;Sit
+7000;Talk
+7030;Strengthen armament
+7050;Strengthen armament
+7080;Gain effect of materials
+7300;Examine
+7301;
+7302;
+7303;
+7304;
+7305;
+7306;
+7307;
+7308;
+7309;
+7310;Paint picture
+7311;
+7312;
+7313;
+7314;
+7315;
+7316;
+7317;
+7318;
+7319;
+7320;Inspect Vestige of Night
+7321;
+7322;
+7323;
+7324;
+7325;
+7326;
+7327;
+7328;
+7329;
+7330;Hold up earring
+7331;
+7332;
+7333;
+7334;
+7335;
+7336;
+7337;
+7338;
+7339;
+7340;Hold up both earrings
+7360;Sit
+7361;
+7362;
+7363;
+7364;
+7365;
+7366;
+7367;
+7368;
+7369;
+7370;Touch monument
+7371;
+7372;
+7373;
+7374;
+7375;
+7376;
+7377;
+7378;
+7379;
+7380;Examine
+7381;
+7382;
+7383;
+7384;
+7385;
+7386;
+7387;
+7388;
+7389;
+7390;Sit
+7391;
+7392;
+7393;
+7394;
+7395;
+7396;
+7397;
+7398;
+7399;
+7400;Pick up
+7401;
+7402;
+7403;
+7404;
+7405;
+7406;
+7407;
+7408;
+7409;
+7410;Examine
+7411;
+7412;
+7413;
+7414;
+7415;
+7416;
+7417;
+7418;
+7419;
+7420;Offer
+7421;
+7422;
+7423;
+7424;
+7425;
+7426;
+7427;
+7428;
+7429;
+7430;Open
+7431;
+7432;
+7433;
+7434;
+7435;
+7436;
+7437;
+7438;
+7439;
+7440;Pick up
+7441;
+7442;
+7443;
+7444;
+7445;
+7446;
+7447;
+7448;
+7449;
+7450;Read
+7451;
+7452;
+7453;
+7454;
+7455;
+7456;
+7457;
+7458;
+7459;
+7460;Examine
+7461;
+7462;
+7463;
+7464;
+7465;
+7466;
+7467;
+7468;
+7469;
+7470;Examine
+7471;
+7472;
+7473;
+7474;
+7475;
+7476;
+7477;
+7478;
+7479;
+7480;Read
+7481;
+7482;
+7483;
+7484;
+7485;
+7486;
+7487;
+7488;
+7489;
+7490;Bless iron coin
+7491;
+7492;
+7493;
+7494;
+7495;
+7496;
+7497;
+7498;
+7499;
+7500;Read
+7501;
+7502;
+7503;
+7504;
+7505;
+7506;
+7507;
+7508;
+7509;
+7510;Read
+7511;
+7512;
+7513;
+7514;
+7515;
+7516;
+7517;
+7518;
+7519;
+7520;Touch memory
+7521;
+7522;
+7523;
+7524;
+7525;
+7526;
+7527;
+7528;
+7529;
+7530;Examine
+7531;
+7532;
+7533;
+7534;
+7535;
+7536;
+7537;
+7538;
+7539;
+7540;Touch phantom
+7900;Obtain whetstone
+7901;Obtain tear of silver
+7902;Obtain golden dew
+7903;Examine
+7904;Obtain blessed flowers
+7905;Obtain golden sprout
+7906;Obtain golden seeds
+7907;Examine
+7908;Examine
+7950;Touch Nightlord
+7951;Lay hand upon infant
+7952;
+7953;
+7954;
+7955;
+7956;
+7957;
+7958;
+7959;
+7960;
+7961;Animate
+7962;
+7963;
+7964;
+7965;
+7966;
+7967;
+7968;
+7969;
+7970;Pass time
+8200;View victor's record
+8201;View victor's record for <?codenameIcon?>
+9100;Travel into the Spirit Shelter
+9101;Open
+9790;Conclude remembrance
+9791;
+9792;
+9793;
+9794;
+9795;
+9796;
+9797;
+9798;
+9799;
+9800;Touch corpse
+9801;
+9802;
+9803;
+9804;
+9805;
+9806;
+9807;
+9808;
+9809;
+9810;Open Evergaol
+50000100;Acquire belongings
+50000101;Acquire belongings of <?codenameIcon?>
+50000200;Retrieve lost runes

@@ -1,0 +1,277 @@
+120300;Cheat death a single time
+120301;Depleted until next contact with grace
+1000000;A natural whetstone of high quality with a fine grain
+1000001;A kernel of life that straddles the living and inanimate
+1000002;Plant extract highly fit for repairing armaments
+1000003;Last words of a scallywag apprentice
+1000004;Altus flowers flush with nutrients and grace
+1000005;A golden seed, found at the base of an illusory tree
+1000006;A golden seed harboring a warm blessing
+1000007;A crystallized form of the power of Night
+1000008;A clear sign of the Nightlord's presence
+1000009;A finely-crafted streamlined arrowhead
+1000010;An invitation from the traitor
+1000011;A fragment of the spear of Fulghor
+1000012;A doll adored by a young child
+1000013;A stone stake that opens a sealed-away lock
+1000014;Annals detailing cursed weapons
+1000015;A brooch imbued with potent magic
+1000016;Blade fragment imbued with the power of Night
+1000017;Power of Night that failed to acquire a host
+1000018;An earring with a restored pin
+1000019;Iron coins of a faraway land received from the Wylder
+1000020;A hand-crafted charm that is somehow unsettling
+1000021;A dubious ledger used by a merchant
+1000022;A torn magic-warding braided cord
+1000023;
+1000024;Necklace made from a thick rugged claw
+1000025;A coin given by an all-or-nothing pirate 
+1000026;A medal adorning a doll resembling a young girl
+1000027;Flatbread with a freshly baked aroma
+1000028;Annals detailing cursed weapons
+1000029;
+1000030;A scrap of paper with a note on the White Horn
+1000031;An iron coin imbued with a small blessing
+1000032;A cracked brooch bereft of its former magic
+1000033;Small key featuring fine ornamentation
+1000034;A scrap of paper detailing the "New Night"
+1000035;A single earring belonging to the Wylder
+1000036;A disturbing stone with a distinct lifelessness
+1000100;An object found within the Primordial Nightlord
+1000101;The qualities of the Nightlord
+1000102;The qualities of the Nightlord
+1000103;The qualities of the Nightlord
+8000000;Maximum HP raised
+8010000;Maximum FP raised
+8010100;Lowers FP consumption
+8020000;Maximum stamina raised
+8020100;Lowers stamina consumption
+8020200;Raises stamina recovery speed
+8100000;Raises physical attack
+8100500;Raises attacks of magic, fire, lightning, holy affinities
+8100600;Raises attack power of slashing physical attacks
+8100700;Raises attack power of striking physical attacks
+8100800;Raises attack power of thrusting physical attacks
+8100900;Raises attack power of standard physical attacks
+8120000;Attacks more likely to break stance of enemies
+8150000;Enhances attacks against blockers lifeforms born of falling stars
+8150100;Enhances attacks against Those Who Live in Death
+8150300;Enhances attacks against dragons
+8160000;Raises attack power of daggers
+8160100;Raises attack power of straight swords
+8160200;Raises attack power of greatswords
+8160300;Raises attack power of colossal swords
+8160400;Raises attack power of curved swords
+8160500;Raises attack power of curved greatswords
+8160600;Raises attack power of katana
+8160700;Raises attack power of twinblades
+8160800;Raises attack power of thrusting swords
+8160900;Raises attack power of heavy thrusting swords
+8161000;Raises attack power of axes
+8161100;Raises attack power of greataxes
+8161200;Raises attack power of hammers
+8161300;Raises attack power of great hammers
+8161400;Raises attack power of flails
+8161500;Raises attack power of spears
+8161600;Raises attack power of pikes
+8161700;Raises attack power of great spears
+8161800;Raises attack power of halberds
+8161900;Raises attack power of reapers
+8162000;Raises attack power of fists
+8162100;Raises attack power of claws
+8162200;Raises attack power of whips
+8162300;Raises attack power of colossal weapons
+8162400;Raises attack power of bows
+8200000;Boosts physical damage negation
+8200500;Boosts magic, fire, lightning, and holy damage negation
+8210700;Raises resistance to all ailments
+8230000;Raises poise
+8330103;Raises potency of sorceries and incantations
+8330500;Extends spell effect duration
+8330700;Dragon Communion incantations add anti-dragon effect to right hand armament
+8330800;Boosts Stonedigger sorcery
+8330900;Boosts Carian sword sorcery
+8331000;Boosts Glintblade sorcery
+8331100;Boosts invisibility sorcery
+8331200;Boosts Crystalian sorcery
+8331300;Boosts gravity sorcery
+8331400;Boosts thorn sorcery
+8331500;Boosts night sorcery
+8331600;Boosts Fundamentalist incantations
+8331700;Boosts Dragon Cult incantations
+8331800;Boosts Giants' Flame incantations
+8331900;Boosts godslayer incantations
+8332000;Boosts bestial incantations
+8332100;Boosts Frenzied Flame incantations
+8332200;Boosts Dragon Communion incantations
+8350100;Enhances charged skills
+8350400;Parry to dispel incoming sorceries and incantations, retaliating with golden power
+8360000;Faster auto-charging for Ultimate Art during combat
+8370000;Shortens Character Skill cooldown time
+8380000;Enhances roars and breath attacks
+8390000;Raises potency of throwing pots
+8400000;Raises potency of items employing perfume 
+8410000;Longer invincibility windows during evasive maneuvers
+8410100;Evasive maneuvers strike surroundings with lightning
+8420100;Guard counters trigger holy bursts
+8420200;Activation summons a group of Those Lost in Death
+that attack enemies
+8430000;Enhances counterattacks unique to thrusting weapons
+8440000;Boosts HP restoration from flasks
+8440100;Flasks restore HP to self and nearby allies
+8440200;Flask slowly restores HP and provides increased HP restoration
+8450100;Produces ice storm at the starting point of surge sprint
+8460000;Become difficult to spot and silence footsteps while walking
+8460200;Causes the yellow flame of frenzy to
+violently burst forth while walking
+8460400;Summons a dark cloud of stars overhead while walking.
+The cloud will release a violent deluge of star rain.
+8500000;Increases number of runes obtained
+8500100;Gain 10000 runes
+8500101;Gain 20000 runes
+8500102;Gain 30000 runes
+8530200;Creates glintblades which automatically attack nearby foes
+at regular intervals
+8600101;Restores HP upon attacking enemies with a dagger
+8600102;Restores HP upon attacking enemies with a straight sword
+8600103;Restores HP upon attacking enemies with a greatsword
+8600104;Restores HP upon attacking enemies with a colossal sword
+8600105;Restores HP upon attacking enemies with a curved sword
+8600106;Restores HP upon attacking enemies with a curved greatsword
+8600107;Restores HP upon attacking enemies with a katana
+8600108;Restores HP upon attacking enemies with a twinblade
+8600109;Restores HP upon attacking enemies with a thrusting sword
+8600110;Restores HP upon attacking enemies with a heavy thrusting sword
+8600111;Restores HP upon attacking enemies with an axe
+8600112;Restores HP upon attacking enemies with a greataxe
+8600113;Restores HP upon attacking enemies with a hammer
+8600114;Restores HP upon attacking enemies with a great Hammer
+8600115;Restores HP upon attacking enemies with a flail
+8600116;Restores HP upon attacking enemies with a spear
+8600117;Restores HP upon attacking enemies with a pike
+8600118;Restores HP upon attacking enemies with a great spear
+8600119;Restores HP upon attacking enemies with a halberd
+8600120;Restores HP upon attacking enemies with a reaper
+8600121;Restores HP upon attacking enemies with a fist
+8600122;Restores HP upon attacking enemies with a claw
+8600123;Restores HP upon attacking enemies with a whip
+8600124;Restores HP upon attacking enemies with a colossal weapon
+8600125;Restores HP upon attacking enemies with a bow
+8600201;Restores FP upon attacking enemies with a dagger
+8600202;Restores FP upon attacking enemies with a straight sword
+8600203;Restores FP upon attacking enemies with a greatsword
+8600204;Restores FP upon attacking enemies with a colossal sword
+8600205;Restores FP upon attacking enemies with a curved sword
+8600206;Restores FP upon attacking enemies with a curved greatsword
+8600207;Restores FP upon attacking enemies with a katana
+8600208;Restores FP upon attacking enemies with a twinblade
+8600209;Restores FP upon attacking enemies with a thrusting sword
+8600210;Restores FP upon attacking enemies with a heavy thrusting sword
+8600211;Restores FP upon attacking enemies with an axe
+8600212;Restores FP upon attacking enemies with a greataxe
+8600213;Restores FP upon attacking enemies with a hammer
+8600214;Restores FP upon attacking enemies with a great hammer
+8600215;Restores FP upon attacking enemies with a flail
+8600216;Restores FP upon attacking enemies with a spear
+8600217;Restores FP upon attacking enemies with a pike
+8600218;Restores FP upon attacking enemies with a great spear
+8600219;Restores FP upon attacking enemies with a halberd
+8600220;Restores FP upon attacking enemies with a reaper
+8600221;Restores FP upon attacking enemies with a fist
+8600222;Restores FP upon attacking enemies with a claw
+8600223;Restores FP upon attacking enemies with a whip
+8600224;Restores FP upon attacking enemies with a colossal weapon
+8600225;Restores FP upon attacking enemies with a bow
+8600300;Attacked enemies die instantly on rare occasions
+8610000;Successive attacks restore HP
+8610100;Successive attacks restore FP
+8610200;Raises attack power with successive attacks
+8640000;Critical hits restore HP
+8640100;Critical hits restore FP
+8640200;Critical hits increase damage inflicted upon the same enemy
+8650000;Successful guards restore HP
+8650100;Successful guards restore FP
+8660200;Armament inflicts blood loss and gains physical attack power after performing a critical hit
+8660300;At low HP, create holy ground, slowly
+restore HP, and improve defense
+8660400;Critical hits restore all HP when HP is low
+8680000;Increases attack power and defense for the caster and nearby allies
+8680100;Enhances physical and fire-affinity attack power
+8680200;Raises attack deflection and resistance to all ailments but reduces lightning damage negation
+8680300;Boosts sorceries of those within a sigil
+8700000;Poisoning or scarlet rot in vicinity continuously restores HP
+8710000;Nearby blood loss increases attack power
+8970000;Newly found Sites of Grace raise attack power
+8970001;
+8970002;
+8970003;
+8970004;
+8970005;
+8970006;
+8970007;
+8970008;
+8970009;
+8970010;Attacks obtain a great amount of runes from enemies on rare occasions
+8970011;
+8970012;
+8970013;
+8970014;
+8970015;
+8970016;
+8970017;
+8970018;
+8970019;
+8970020;Using flask also restores FP
+8970021;
+8970022;
+8970023;
+8970024;
+8970025;
+8970026;
+8970027;
+8970028;
+8970029;
+8970030;Enhances attack power depending on runes in possession
+9990000;Faster auto-charging for Ultimate Art during combat
+9990001;
+9990002;
+9990003;
+9990004;
+9990005;
+9990006;
+9990007;
+9990008;
+9990009;
+9990010;Rise from near-death, unaided, a single time and become
+more powerful for a short time
+9990011;
+9990012;
+9990013;
+9990014;
+9990015;
+9990016;
+9990017;
+9990018;
+9990019;
+9990020;Nullifies scarlet rot and increases max HP. Attacks after receiving damage partially recover HP.
+9990021;
+9990022;
+9990023;
+9990024;
+9990025;
+9990026;
+9990027;
+9990028;
+9990029;
+9990030;Halves frostbite damage and frost buildup.
+Nearby frostbite boosts attack.
+9990031;Reduces damage caused by frostbite, as well as frost accumulation
+9990032;Adds anti-dragon effect
+9990033;Slows frost accumulation and adds anti-dragon effect
+9990034;Slightly slows frost accumulation
+9990035;
+9990036;
+9990037;
+9990038;
+9990039;
+9990040;Increases damage taken

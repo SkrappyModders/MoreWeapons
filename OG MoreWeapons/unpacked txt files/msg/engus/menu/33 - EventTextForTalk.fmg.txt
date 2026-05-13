@@ -1,0 +1,807 @@
+20000009;Leave
+20000010;Purchase
+20000100;Talk
+20002000;Offer the Nightlord's Rune
+20002001;Clench dagger
+20002002;
+20002003;
+20002004;Truly make this offering?
+20002005;Truly wield the blade?
+20002006;Concluding remembrance and returning. Proceed?
+20011030;Insufficient runes
+21010003;Let us defeat the Nightlord
+21010004;Give Golden Dew
+21011001;It looks to be risen to perfection. Help yourself?
+21011002;The taste is a wistful reminder of childhood
+21011003;Light shines through the earring, projecting a pattern. It made little sense to him, however.
+21011004;With both earrings together, a depiction of wind is projected, along with a short passage:
+"Two horses gallop side by side. May the wind spur us on our path."
+21011005;A short passage, on the passing of the Night:
+"Hark, warriors! Fell the Lord and thy sins absolve.
+Upon the breaking of the Night the Hold shall crumble, and thou too shalt be unbound."
+21011006;A short passage, on the priestess of the Roundtable:
+"The priestess, mouthpiece of the formless master. Rooted to the
+Roundtable, she must share its fate."
+21011007;A short passage, on the underground crypt:
+"We lie the condemned of the first nightfall, whose sin is too great for absolution
+by our own deeds. Thus we shall ever guide our progeny, until the Night breaks."
+21011008;From somewhere, the sound of a heavy door opening rings out
+21011009;The note attached to the key reads:
+"Take this, warrior. I apologize for mine intrusion."
+21011010;Some manner of powder has been spilled. Footprints can be seen, leading on.
+21011011;The work surface still feels faintly warm
+21011012;A rich aroma drifts from somewhere nearby
+21011013;To atone for the first sin,
+we elect to become the foundation
+21011014;The Ways of Cutting point to Windwail Knoll.
+Bestow branches to those who wander and roam.
+21011015;The Ways of Cutting point to the Deep Woods.
+Bestow branches to those who are worthy and wise.
+21020001;About the Roundtable Hold
+21020002;
+21020003;
+21020004;About Underlings
+21020005;About Sin
+21020006;About the Dusk Lord
+21020007;Are you trapped here?
+21020008;About leaving
+21020009;Always comes to the rescue
+21020010;About what you spoke of...
+21020011;Give Mended Earring
+21020012;About my memories
+21020013;
+21020014;
+21020015;Accept task
+21020016;About the Fellowship
+21020017;About the traitor
+21020018;About the delicate arrowhead
+21020019;Accept another task
+21020020;
+21020021;About an Edge of Order
+21020022;Why have other Nightlords appeared?
+21020023;What's happening here?
+21020024;Show her the old pocketwatch
+21020025;Why did you bring me here?
+21020026;Ask about the Night's corrosion
+21020027;Assent
+21020028;"Us"?
+21020029;What does "our formless master" have to say?
+21020030;Ask about the Nightlord
+21020031;Ask about Traces of Night
+21021000;"Before returning the earring, there is something I would like
+to try—passing light through the pair when put together..."
+21021001;A note from the Priestess.
+"The one you await has arrived. Do not delay, come to the crypt below."
+21022001;Show her the Traitor's Letter
+21022002;I’m not afraid of the Night
+21022003;Give it to her
+21022004;Keep it
+21022005;Explain
+21030001;Maybe we shouldn't defeat the Nightlord
+21030002;Share Weathervane's message
+21030003;About Weathervane
+21031001;Travel to the battlegrounds?
+21031002;
+21031003;No response
+21031004;
+21031005;
+21031006;Engraved with names of challengers and their records
+"The Black Claw defeated the White Horn to achieve victory"
+"Ye souls felled in battle, be proud of thine exploits"
+21031007;Records of countless battles are cut into the stone monument
+21032001;Yes
+21032002;No
+21041000;The Executor focuses solely upon his painting
+21041001;The Executor appears to be facing his inner self
+21041002;He appears to be sharpening his spirit. From his stance a certain
+tension can be perceived, like a blade drawn from its sheathe.
+21041003;There is a tenderness that was not apparent before, as he focuses upon his painting
+21041004;The Executor simply stares quietly up at the sky
+21041005;The Executor gazes at the commingling of the clouds
+21041006;He appears to be thinking about a place far, far away
+21041007;He appears to be thinking about what lies beyond the Night's end
+21041008;The Executor faces his canvas with purpose
+21041009;The Executor makes bold strokes with his brush
+21041010;He paints a depiction of the Erdtree. It does not yet look finished.
+21041011;He paints a depiction of the Erdtree. He seems somewhat satisfied.
+21050010;Are you the maker of the curse?
+21050011;Today's lesson, master
+21050012;About taking the Nightlord's power
+21051000;The note attached to the key reads:
+"Take this, warrior. I apologize for mine intrusion."
+21052001;It does
+21052002;It matters little to me
+21052003;They achieved enlightenment
+21052004;They were attacked by brigands
+21052005;Show the Ragged Doll
+21052006;Punish her for her misdeed
+21052007;Forgive her misdeed
+21052008;Bury the Nightlord
+21070003;Speak of your request
+21071000;A familiar helmet rests here
+21071001;I cannot ignore a danger to the flock
+21072001;Affirm
+21072002;Deny
+21080003;Maybe defeating the Nightlord isn't the right thing to do
+21081001;A black pool wishes to share its power
+21081002;An ordinary doll, carved with inexpert letters that read:
+"My darling little Daphne"
+21081003;A hastily written scribble that reads:
+"Cowardice ill becomes you. I await you at the shore."
+21081004;A scrap of paper, left by the Revenant that reads:
+"The study—third shelf of the rightmost book-case. A history of
+the ritual implement known as the Ictarus."
+21081005;A passage on the ritual usage of the Ictarus that reads:
+"Imbued with the magic of a long-lived witch; once used to quell the storm, and save lives.
+But repurposed as a vicious weapon; now used to pluck feathers from the sky, and take lives."
+21081006;Touch phantom?
+21081007;
+21081008;
+21081009;
+21081010;Edgar "Blackcoat" Northerncroft
+Esteemed Patriarch of House Northerncroft
+21082001;Ready armament
+21082002;Leave
+23090001;What explains your appearance?
+23090002;About this place...
+23090003;Whether we should topple the Nightlord
+23090004;About the strange power
+23090005;
+23090006;
+23090007;
+23090008;
+23090009;
+23090010;
+23090011;
+23090012;
+23090013;About that whetstone...
+23090014;About tears of silver
+23090015;About the Tourney Between
+23090016;
+23090017;
+23090018;An earring. The ornamentation seems to change with the intensity of the light.
+23090019;
+23090020;I have a favor to ask
+23090021;
+23090022;About the investigation...
+23090023;
+23090024;
+23090025;
+23090026;About the Witch of the Wheel
+23090027;About my decision
+23090028;
+23090029;
+23090030;About the Wylder
+23090031;Give blessed iron coin
+23090032;
+23090033;
+23090034;
+23090035;
+23090036;
+23090037;
+23090038;
+23090039;About the Recluse
+23090040;
+23090041;About the question posed by the Recluse
+23090042;
+23090043;About the cursed weapon
+23090044;
+23090045;About the crypt...
+23090046;About the pita bread
+23090047;I'll take the Night Shard back now
+23090048;About the Priestess of the Roundtable
+23090049;Explain the situation
+23091003;Recalibrate the doll's magic root?
+23091004;A note from the Iron Menial, which reads:
+"The Night Shard seems to be reacting to something, almost as if pointing in a direction.
+I return the shard, certain now it will lead to something connected to the infant."
+23091005;A note from the Iron Menial, which reads:
+"I am gone to tidy up the crypt below. I hope you too are making
+the occasional visit, my lady Priestess."
+23092001;Understood
+23092002;I refuse
+23092003;Yes
+23092004;I refuse
+23092005;My adoptive mother
+23092006;My mother
+23092007;You're the only one I can ask
+23092008;Show Torn Braided Cord
+23092009;Give Blessed Flowers
+23092010;Show Night Shard
+23092011;Give Night Shard
+23092012;Show Vestige of Night
+23092013;
+23092014;
+23092015;Go with the intent to use
+23092016;Go with the intent to destroy
+23092017;I lost my flock
+23092018;Our wings were clipped, we couldn't fly
+23092019;I’m the sole survivor
+23092020;I eliminated him
+23092021;It was to protect the flock
+23092022;Show Merchant's Ledger
+23092023;About the whereabouts of a silver tear
+23092024;It's because of the curse
+23092025;About the Wylder's condition
+23112000;Eliminate
+23112001;Leave alone
+23120000;About your resurrection
+23140001;About the secret
+23140002;About the traitor
+23142001;Execute him
+26091000;Pass time until shifting earth has passed?
+26100000;View catalog
+26100001;
+26100002;
+26100003;
+26100004;
+26100005;
+26100006;
+26100007;
+26100008;
+26100009;
+26100010;Give Witch's Brooch
+26100011;Give Cracked Witch's Brooch
+26100012;
+26100013;
+26100014;
+26100015;
+26100016;
+26100017;
+26100018;
+26100019;
+26100020;Conjure a shift in the earth
+26100021;Crater
+26100022;Mountaintop
+26100023;Rotted Woods
+26100024;Noklateo, the Shrouded City
+26100025;
+26100026;
+26100027;
+26100028;
+26100029;Cancel
+26100030;Alter Great Site of Grace
+26101010;Give Witch's Brooch
+and receive Cracked Witch's Brooch?
+Required Sovereign Sigils: 3
+26101011;Give Cracked Witch's Brooch
+and receive Witch's Brooch?
+Required Sovereign Sigils: 3
+26101012;
+26101013;
+26101014;
+26101015;
+26101016;
+26101017;
+26101018;
+26101019;
+26101020;
+26101021;Conjure Shifting Earth: Crater?
+Required Sovereign Sigils: 1
+N.B. If you are currently matchmaking, this will be cancelled.
+26101022;Conjure Shifting Earth: Mountaintop?
+Required Sovereign Sigils: 1
+N.B. If you are currently matchmaking, this will be cancelled.
+26101023;Conjure Shifting Earth: Rotted Woods?
+Required Sovereign Sigils: 1
+N.B. If you are currently matchmaking, this will be cancelled.
+26101024;Conjure Shifting Earth: Noklateo, the Shrouded City?
+Required Sovereign Sigils: 1
+N.B. If you are currently matchmaking, this will be cancelled.
+26101025;
+26101026;
+26101027;
+26101028;
+26101029;
+26101030;Restore Great Site of Grace to former illuminated state?
+Required Sovereign Sigils: 1 (1st time only)
+26101031;Restore Great Site of Grace to darkened state?
+26101032;Restore Great Site of Grace to illuminated state?
+26101033;
+26101034;
+26101035;
+26101036;
+26101037;
+26101038;
+26101039;
+26101040;
+26101041;Shifting Earth: Crater is already in effect.
+Conjure this event regardless?
+Required Sovereign Sigils: 1
+26101042;Shifting Earth: Mountaintop is already in effect.
+Conjure this event regardless?
+Required Sovereign Sigils: 1
+26101043;Shifting Earth: Rotted Woods is already in effect.
+Conjure this event regardless?
+Required Sovereign Sigils: 1
+26101044;Shifting Earth: Noklateo, the Shrouded City is already in effect.
+Conjure this event regardless?
+Required Sovereign Sigils: 1
+26101090;Insufficient Sovereign Sigils
+27570000;Pay <?evntAcquittalPrice?> runes
+to lift the heretical curse?
+27570020;I desire a flask
+27570021;
+27570022;
+27570023;
+27570024;
+27570025;
+27570026;
+27570027;
+27570028;
+27570029;
+27570030;I desire a powerful weapon
+27570031;
+27570032;
+27570033;
+27570034;
+27570035;
+27570036;
+27570037;
+27570038;
+27570039;
+27570040;I want resistance to ailments
+27570041;
+27570042;
+27570043;
+27570044;
+27570045;
+27570046;
+27570047;
+27570048;
+27570049;
+27570050;I want more runes
+27570051;
+27570052;
+27570053;
+27570054;
+27570055;
+27570056;
+27570057;
+27570058;
+27570059;
+27570060;I wish to have great strength
+27570061;
+27570062;
+27570063;
+27570064;
+27570065;
+27570066;
+27570067;
+27570068;
+27570069;
+27570070;I wish to expand my intellect
+27570071;
+27570072;
+27570073;
+27570074;
+27570075;
+27570076;
+27570077;
+27570078;
+27570079;
+27570080;I wish to have great dexterity
+27570081;
+27570082;
+27570083;
+27570084;
+27570085;
+27570086;
+27570087;
+27570088;
+27570089;
+27570090;I wish to have deep faith
+27570091;
+27570092;
+27570093;
+27570094;
+27570095;
+27570096;
+27570097;
+27570098;
+27570099;
+27570100;I wish to be in touch with the arcane 
+27570101;
+27570102;
+27570103;
+27570104;
+27570105;
+27570106;
+27570107;
+27570108;
+27570109;
+27570110;Alter self to gain proficiency with strength?
+27570111;
+27570112;
+27570113;
+27570114;
+27570115;
+27570116;
+27570117;
+27570118;
+27570119;
+27570120;Alter self to gain proficiency with intellect? 
+27570121;
+27570122;
+27570123;
+27570124;
+27570125;
+27570126;
+27570127;
+27570128;
+27570129;
+27570130;Alter self to gain proficiency with dexterity? 
+27570131;
+27570132;
+27570133;
+27570134;
+27570135;
+27570136;
+27570137;
+27570138;
+27570139;
+27570140;Alter self to gain proficiency with faith? 
+27570141;
+27570142;
+27570143;
+27570144;
+27570145;
+27570146;
+27570147;
+27570148;
+27570149;
+27570150;Alter self to gain proficiency with the arcane? 
+27570151;
+27570152;
+27570153;
+27570154;
+27570155;
+27570156;
+27570157;
+27570158;
+27570159;
+27570160;Sacrifice maximum HP as payment?
+27570161;
+27570162;
+27570163;
+27570164;
+27570165;
+27570166;
+27570167;
+27570168;
+27570169;
+27570170;Sacrifice level as payment?
+27570171;
+27570172;
+27570173;
+27570174;
+27570175;
+27570176;
+27570177;
+27570178;
+27570179;
+27570180;Sacrifice stamina as payment?
+27570181;
+27570182;
+27570183;
+27570184;
+27570185;
+27570186;
+27570187;
+27570188;
+27570189;
+27570190;Pay <?evntAcquittalPrice?> runes
+to acquire a Symbol of Avarice?
+27570191;
+27570192;
+27570193;
+27570194;
+27570195;
+27570196;
+27570197;
+27570198;
+27570199;
+27570200;Higher level required
+27570201;
+27570202;
+27570203;
+27570204;
+27570205;
+27570206;
+27570207;
+27570208;
+27570209;
+27570210;I want to break the curse
+27570211;
+27570212;
+27570213;
+27570214;
+27570215;
+27570216;
+27570217;
+27570218;
+27570219;
+27570220;I refuse to make a deal
+27570221;
+27570222;
+27570223;
+27570224;
+27570225;
+27570226;
+27570227;
+27570228;
+27570229;
+27570230;Begin battle without making a deal?
+27570231;
+27570232;
+27570233;
+27570234;
+27570235;
+27570236;
+27570237;
+27570238;
+27570239;
+27570240;I want the tome
+27570241;
+27570242;
+27570243;
+27570244;
+27570245;
+27570246;
+27570247;
+27570248;
+27570249;
+27570250;Pay <?evntAcquittalPrice?> runes
+to purchase tome?
+27570251;
+27570252;
+27570253;
+27570254;
+27570255;
+27570256;
+27570257;
+27570258;
+27570259;
+27570260;I want the power of a demon
+27570261;
+27570262;
+27570263;
+27570264;
+27570265;
+27570266;
+27570267;
+27570268;
+27570269;
+27570270;Offers a hand in battle here and there, but builds up madness.
+Acquire the power of a demon?
+27570271;
+27570272;
+27570273;
+27570274;
+27570275;
+27570276;
+27570277;
+27570278;
+27570279;
+27570280;I want to hold death at bay
+27570281;
+27570282;
+27570283;
+27570284;
+27570285;
+27570286;
+27570287;
+27570288;
+27570289;
+27570290;When HP is low, restore all HP at the cost of reduced max HP.
+Accept this gentle death-blessing?
+27570291;
+27570292;
+27570293;
+27570294;
+27570295;
+27570296;
+27570297;
+27570298;
+27570299;
+27570300;I want to rescue an ally
+27570301;
+27570302;
+27570303;
+27570304;
+27570305;
+27570306;
+27570307;
+27570308;
+27570309;
+27570310;When an ally is near death, you die in their place one time.
+Carry out this ritual of self-sacrifice?
+27570311;
+27570312;
+27570313;
+27570314;
+27570315;
+27570316;
+27570317;
+27570318;
+27570319;
+27570320;I want to gain many levels
+27570321;
+27570322;
+27570323;
+27570324;
+27570325;
+27570326;
+27570327;
+27570328;
+27570329;
+27570330;In exchange for gaining levels, a level will be lost for each
+flask use. Accept this false blessing?
+27570331;
+27570332;
+27570333;
+27570334;
+27570335;
+27570336;
+27570337;
+27570338;
+27570339;
+27570340;I wish for eventual greatness
+27570341;
+27570342;
+27570343;
+27570344;
+27570345;
+27570346;
+27570347;
+27570348;
+27570349;
+27570350;Max HP, FP, and stamina will be lowered until the day ends.
+Accept this ascetic path?
+27570351;
+27570352;
+27570353;
+27570354;
+27570355;
+27570356;
+27570357;
+27570358;
+27570359;
+27570360;I wish for eventual greatness
+27570361;
+27570362;
+27570363;
+27570364;
+27570365;
+27570366;
+27570367;
+27570368;
+27570369;
+27570370;Max HP, FP, and stamina will be lowered for some time.
+Accept this ascetic path?
+27570371;
+27570372;
+27570373;
+27570374;
+27570375;
+27570376;
+27570377;
+27570378;
+27570379;
+27570380;I want to fight at utmost strength
+27570381;
+27570382;
+27570383;
+27570384;
+27570385;
+27570386;
+27570387;
+27570388;
+27570389;
+27570390;Shall we both fight at our greatest?
+27570391;
+27570392;
+27570393;
+27570394;
+27570395;
+27570396;
+27570397;
+27570398;
+27570399;
+27570400;Take sacred flask
+27570401;
+27570402;
+27570403;
+27570404;
+27570405;
+27570406;
+27570407;
+27570408;
+27570409;
+27570410;Take enhanced armament
+27570411;
+27570412;
+27570413;
+27570414;
+27570415;
+27570416;
+27570417;
+27570418;
+27570419;
+27570420;Take resistance to status ailments
+27570421;
+27570422;
+27570423;
+27570424;
+27570425;
+27570426;
+27570427;
+27570428;
+27570429;
+27570430;Take runes
+27570431;
+27570432;
+27570433;
+27570434;
+27570435;
+27570436;
+27570437;
+27570438;
+27570439;
+27570440;The demon is satisfied and seeks no further remuneration.
+Take the sacred flask?
+27570441;
+27570442;
+27570443;
+27570444;
+27570445;
+27570446;
+27570447;
+27570448;
+27570449;
+27570450;The demon is satisfied and seeks no further remuneration.
+Take the enhanced armament?
+27570451;
+27570452;
+27570453;
+27570454;
+27570455;
+27570456;
+27570457;
+27570458;
+27570459;
+27570460;The demon is satisfied and seeks no further remuneration.
+Take the resistance to status ailments?
+27570461;
+27570462;
+27570463;
+27570464;
+27570465;
+27570466;
+27570467;
+27570468;
+27570469;
+27570470;The demon is satisfied and seeks no further remuneration.
+Take the Symbol of Avarice?
+27570471;
+27570472;
+27570473;
+27570474;
+27570475;
+27570476;
+27570477;
+27570478;
+27570479;
+27570480;Take improved physique
+27570481;
+27570482;
+27570483;
+27570484;
+27570485;
+27570486;
+27570487;
+27570488;
+27570489;
+27570490;The demon is satisfied and seeks no further remuneration. 
+You can improve your physique, after some time.
+Will you undertake the trial of the ascetic?

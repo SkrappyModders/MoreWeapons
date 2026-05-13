@@ -1,0 +1,27 @@
+1893;Change skill
+1894;Revert skill
+2820;Boost physical and scarlet rot damage
+2821;Restore FP
+2822;Create arch of magic glintblades
+2823;Restore HP
+7910;Take primal core
+7911;Pick up journal
+7980;Open door
+7981;Touch light
+7982;Examine
+7983;Smash
+7984;Absorb Night's power
+7985;Examine
+7986;Offer prayer
+7987;Read
+7988;Examine
+7989;Read
+7990;Rewrite
+7991;Talk
+7992;Look at self in mirror
+9200;Resonate
+9201;Gain the power of the great crystal
+9202;Travel to another location
+9203;Break seal
+9204;Touch false vision of a Great Rune
+9820;Light flame

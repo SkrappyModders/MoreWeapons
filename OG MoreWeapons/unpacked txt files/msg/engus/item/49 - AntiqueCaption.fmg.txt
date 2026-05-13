@@ -1,0 +1,1704 @@
+1;
+2;
+3;
+4;
+5;
+6;
+7;
+8;
+9;
+10;
+11;
+12;
+13;
+14;
+15;
+16;
+17;
+18;
+19;
+20;A Scenic Flatstone yet to be polished.
+Purchase to reveal its precious gift.
+21;
+22;
+23;
+24;
+25;
+26;
+27;
+28;
+29;
+30;A Scenic Flatstone yet to be polished.
+Purchase to reveal its precious gift.
+This piece was chosen for its remarkable size.
+60;A Deep Scenic Flatstone yet to be polished.
+Purchase to reveal its precious gift.
+2000;The night belonging to Gladius, left upon its defeat.
+
+The power of its namesake can be unlocked by performing a relic rite.
+
+The wolf pup, born with its three heads, was feared by its peers and driven out of the pack, but its will to live was strong indeed.
+
+Upon a rainswept night, it seized a man's sword with its great jaws, but he showed no fear. He did not seek to harm the wolf, but instead took it in his arms. It has remained at his side ever since, always carrying that very sword.
+2001;The dark night belonging to Gladius, left upon its defeat.
+
+The power of its namesake can be unlocked by performing a relic rite.
+
+The wolf pup, born with its three heads, was feared by its peers and driven out of the pack, but its will to live was strong indeed.
+
+Upon a rainswept night, it seized a man's sword with its great jaws, but he showed no fear. He did not seek to harm the wolf, but instead took it in his arms. It has remained at his side ever since, always carrying that very sword.
+2002;
+2003;
+2004;
+2005;
+2006;
+2007;
+2008;
+2009;
+2010;The night belonging to Adel, left upon his defeat.
+
+The power of its namesake can be unlocked by performing a relic rite.
+
+The dragon was nothing less than a wonder of the natural world. Majestic in size and bearing, it was the apex predator of the old island upon which it roosted.
+
+But when the sky began to weep in hues of azure, all was lost. There was nothing left to feed upon, leaving only hunger, which grew into madness. A ravening unending.
+2011;The dark night belonging to Adel, left upon his defeat.
+
+The power of its namesake can be unlocked by performing a relic rite.
+
+The dragon was nothing less than a wonder of the natural world. Majestic in size and bearing, it was the apex predator of the old island upon which it roosted.
+
+But when the sky began to weep in hues of azure, all was lost. There was nothing left to feed upon, leaving only hunger, which grew into madness. A ravening unending.
+2012;
+2013;
+2014;
+2015;
+2016;
+2017;
+2018;
+2019;
+2020;The night belonging to Gnoster, left upon its defeat.
+
+The power of its namesake can be unlocked by performing a relic rite.
+
+The secluded forest was being eaten away by the surrounding desert, and when the blessing of water passed over its many leaves and boughs, thus began a great exodus of its creatures.
+
+To survive, the insects would have to adapt. So began their prolonged and perilous journey.
+2021;The dark night belonging to Gnoster, left upon its defeat.
+
+The power of its namesake can be unlocked by performing a relic rite.
+
+The secluded forest was being eaten away by the surrounding desert, and when the blessing of water passed over its many leaves and boughs, thus began a great exodus of its creatures.
+
+To survive, the insects would have to adapt. So began their prolonged and perilous journey.
+2022;
+2023;
+2024;
+2025;
+2026;
+2027;
+2028;
+2029;
+2030;The night belonging to Maris, left upon its defeat.
+
+The power of its namesake can be unlocked by performing a relic rite.
+
+For the first time in its existence, the drifting ancient being realized its interest had been piqued. Indeed, it had been roused from its aimless life of floating, camouflaged within its surroundings.
+
+The strange taste of this night was all too lonely, and more vast than it could ever know.
+2031;The dark night belonging to Maris, left upon its defeat.
+
+The power of its namesake can be unlocked by performing a relic rite.
+
+For the first time in its existence, the drifting ancient being realized its interest had been piqued. Indeed, it had been roused from its aimless life of floating, camouflaged within its surroundings.
+
+The strange taste of this night was all too lonely, and more vast than it could ever know.
+2032;
+2033;
+2034;
+2035;
+2036;
+2037;
+2038;
+2039;
+2040;The night belonging to Libra, left upon its defeat.
+
+The power of its namesake can be unlocked by performing a relic rite.
+
+The demon was obsessed with the concepts of impartiality, fairness, and equanimity. For anything to reach a higher plane each side must elevate the other.
+
+The goat-eyed being gazed into the darkness. If it is true, that the night swallows all, then the night is impartial. The night is a thing of fairness, of equanimity. The night is a champion of balance.
+2041;The dark night belonging to Libra, left upon its defeat.
+
+The power of its namesake can be unlocked by performing a relic rite.
+
+The demon was obsessed with the concepts of impartiality, fairness, and equanimity. For anything to reach a higher plane each side must elevate the other.
+
+The goat-eyed being gazed into the darkness. If it is true, that the night swallows all, then the night is impartial. The night is a thing of fairness, of equanimity. The night is a champion of balance.
+2042;
+2043;
+2044;
+2045;
+2046;
+2047;
+2048;
+2049;
+2050;The night belonging to Fulghor, left upon his defeat.
+
+The power of its namesake can be unlocked by performing a relic rite.
+
+The left arm of the loyal and brave servant of the gods had been severed from behind. As he turned back to look, he fell to despair.
+
+It seemed his companions, who had walked with him upon the same perilous path, had now forsworn the very gods they once served.
+2051;The dark night belonging to Fulghor, left upon his defeat.
+
+The power of its namesake can be unlocked by performing a relic rite.
+
+The left arm of the loyal and brave servant of the gods had been severed from behind. As he turned back to look, he fell to despair.
+
+It seemed his companions, who had walked with him upon the same perilous path, had now forsworn the very gods they once served.
+2052;
+2053;
+2054;
+2055;
+2056;
+2057;
+2058;
+2059;
+2060;The night belonging to Caligo, left upon her defeat.
+
+The power of its namesake can be unlocked by performing a relic rite.
+
+From the phantasmal peak upon which she hid herself, she peered down into the world, committing to memory what she perceived. Then, her eye drawn to a certain cataclysm, from out of hiding she leapt with wings unfurled.
+
+For she wished to know and to understand, first hand, just what fortunes and misfortunes the disaster would bring upon the world.
+2061;The dark night belonging to Caligo, left upon her defeat.
+
+The power of its namesake can be unlocked by performing a relic rite.
+
+From the phantasmal peak upon which she hid herself, she peered down into the world, committing to memory what she perceived. Then, her eye drawn to a certain cataclysm, from out of hiding she leapt with wings unfurled.
+
+For she wished to know and to understand, first hand, just what fortunes and misfortunes the disaster would bring upon the world.
+2100;The night belonging to Heolstor, left upon its defeat.
+
+The power of its namesake can be unlocked by performing a relic rite.
+
+The country lay in ruin. The man who once was knight had challenged the hero, but he too was no match. He fell, just another body in a great pile.
+
+But eventually he awoke, crawling out from underneath the others. Though he had failed to protect anything or anyone, he yet lived. And so he cursed the world.
+
+It was the dead of night, and from the sky poured down a great rain.
+10000;A well-kept antique pocketwatch engraved with an intricate design, likely a prized possession.
+
+The influence of the encroaching Night clung to the expecting woman, preventing her from ever giving birth. The only means to break it meant the sacrifice of her life.
+
+But the curse of Night lived on, in both the orphan and in this keepsake, whose hands tell only twisted time.
+
+This dark power is both a badge of lost innocence, and the very thing that allows its owner to fight back.
+10001;A small frame that is missing its picture. Whatever precious memory it once enshrined, now is home only to dust and grime.
+
+A voice is heard that beckons one to seek the owner.
+
+"Peer into this window, and revisit the first glimpse of night..."
+10002;A fetish bathed in golden magic.
+
+Shackles were used to bind the accursed people called the Omen, and these ones were made to keep a particular Omen under strictest confinement.
+
+But the magic has long faded, leaving only a dark stain in its wake.
+
+The protector of gold yet stands guard over the realm, even after being swallowed by Night.
+11000;A natural whetstone of high quality with a fine grain. A precious sharpening stone mined in Limveld.
+
+The clash with Night has spanned eons. And yet now, precious little time remains.
+11001;A single earring belonging to the Wylder. Rusted and encrusted with grime.
+
+Such ornaments were worn for generations by a distant tribe. They are delicately embellished to cast a pattern when held up to light.
+
+A relic of the Lord who lumbered ever onward, clutching tight this single ornament.
+11002;A kernel of life that straddles the living and inanimate. Also known as a Larval Tear.
+
+Once, in the Lands Between, it was said to have granted one a new form.
+12000;Annals detailing the histories of certain cursed weapons speak of a conflict far to the west.
+
+An account mentions one such accursed weapon called an Ictarus.
+
+"The blades shared an identical engraving. A symbol of the sorcery of a distant land. A script put down in blood."
+12001;A stone stake that opens a sealed-away lock.
+
+Crafted by an ancient civilization and claimed from a Guardian Golem.
+
+Still imbued with an old yet fading magic. Can open locks sealed in a similar manner to the golem.
+12002;A brooch imbued with potent magic, made from the blood magic crystal received from the Recluse.
+
+This brooch powered the accursed Ictarus weapons that once robbed the Pinionfolk of flight.
+
+At first, this magic brooch, with its aura of unknowable power, was intended as a ceremonial tool to calm violent winds. But the war, for better or worse, demanded that it be employed otherwise, as a magic artifact to bring a swift end to the conflict.
+12003;A cracked brooch, bereft of its former magic. A blood magic crystal received from the Recluse.
+
+This brooch powered the accursed Ictarus weapons that once robbed the Pinionfolk of flight.
+
+The Guardian smashed the jewel at the core of this magic implement. To think it was once a mere ceremonial tool to calm violent winds.
+13000;A finely-crafted streamlined arrowhead. Used by sellswords of the Fellowship.
+
+Said to be the choice weapon of the Monster, an inhuman assassin. A single word is written on each arrow, and when an arrow deals a death blow, the word becomes the epitaph of the fallen.
+
+To this day, the Monster lurks somewhere, unseen and unknown.
+13001;Sealing wax removed from an opened letter. Used by sellswords of the Fellowship.
+
+The stamp signifies an assassin's oath. Once a target is agreed upon, there is no going back.
+
+Such contracts are said to have their origin in the Lands Between.
+13002;A fragment of the spear of Fulghor, Champion of Nightglow. Imbued with holy essence through battles in Limveld.
+
+Can briefly, and only with very limited potency, grant its power to other armaments.
+
+When Those Who Live in Death are felled by the Order, they will never rise again.
+14000;Liquid plant extract that is highly effective at repairing armaments. Harvested in indeterminate locations across the Lands Between, but only by those who are aware of its useful properties.
+
+This viscous oil can be extracted by squeezing the flower, seeds and all. Some call the liquid golden dew, owing to its lustrous yellow hue.
+14001;A medal adorning a doll resembling a young girl. An extra decoration for the Revenant's garb.
+
+The silver shines with a brilliance that is both ceremonial and dignified.
+
+It recalls the girl's words.
+"With strength comes the burden of duty."
+14002;An iron coin imbued with a small blessing by the priestess. Emits a faint warmth.
+
+The girl made a wish to the mechanical doll... That a blessing would reach him—a blessing that could open the eyes of one who is already dead but refuses to accept it.
+15000;A torn magic-warding braided cord. Worn by warriors for good luck on the eve of battle.
+
+The distinctive stone clasp suggests that it belonged to glory-seeking pirates.
+
+The legends surrounding the competing seafaring factions, who divided the seas into east and west, have been spoken of for generations in places near and far.
+15001;
+15002;A necklace made from a thick rugged claw, with a shining black luster that instils fear in any who gaze upon it.
+
+Long ago, the Raider fought the king of the archipelago forest. He grappled the hulking beast with his iron grip, and flung him away, proving his strength. He claimed the king's broken claw as a trophy and testament to his victory.
+
+For a time, the Raider devoted himself to exploits on the high seas, but he tired of the unending struggle that never seemed to determine a clear victor. And so, he delivered the claw to his arch nemesis as an invitation to duel to the death.
+16000;A blade fragment imbued with the power of Night. Crystals have formed on the broken edge.
+
+The dark substance slowly spread, as if to restore the lost portion of the blade, or to sharpen the existing blade beyond its natural properties.
+
+16001;Tool for accentuating the beauty of people and things. One of the Iron Menial's favorite items.
+
+Though plain it is a reliable tool, with a soft-bristled brush that delicately applies ceruse to skin or other surfaces.
+
+"Your beauty deserves nothing less."
+16002;An intricate painting of a girl of pure heart and an elderly companion that conveys both trust and affection.
+
+On that night, the doll understood—the young girl wished to live. And with that understanding, the doll found her purpose.
+
+On the back of the painting is a hurriedly scrawled, fading message.
+
+"Chloe, seek happiness, for you deserve it more than anyone."
+17000;A crystallized form of the power of Night. A strange, translucent thing with a corrosive shadow that appears to writhe.
+
+The reach of the Night is limitless; its potential, immeasurable. Its touch indiscriminate, affecting any and all things. Whether one fears the Night, or welcomes it, depends upon the manner of contact.
+
+But as for the Night, here and now, it is the unquestioned enemy of the Condemned.
+17001;A clear sign of the Nightlord's presence, in the form of a terribly tattered rag.
+
+Burned and worn down over a span of time untold, the hint of an impression once made by the engraving of an old sealing stone can be seen, but it is no longer legible.
+
+The menial asked about an engraving. But how did he know there was one, before setting eyes upon it?
+17002;A disturbing stone with a distinct lifelessness.
+
+The bone of an outer god with the power to expunge divine essence, but that can also be destroyed by the same essence.
+
+The choice was left to the witch. As per the wishes of the one who bestowed it.
+18000;Altus flowers flush with nutrients and grace. Before, such flowers were commonplace on the Altus Plateau.
+
+The vibrant hues suggest that the flowers received plenty of sunlight, and appear to shine in an ode to the resplendent Erdtree.
+18001;A golden seed that has exhausted its grace. Such seeds were once found at the base of illusory trees.
+
+The seed was sapped of its grace by the priestess, but not entirely. Although very little remains, its grace will one day return, like trees that grow back in a celebration of life.
+18002;A golden seed harboring a warm blessing. This one was found on a steep and snowy peak.
+
+This seed sprouted despite the harshness of its environment, like youthful potential blossoming in the crucible of adversity. 
+
+Or, what may be called a miracle.
+20000;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+20001;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+20002;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+20003;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+20004;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+20005;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+20006;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+20007;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+20008;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+20009;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+20010;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+20011;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+20012;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+20013;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+20014;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+20015;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+20016;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+20017;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+20018;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+20019;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+20020;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+20021;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+20022;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+20023;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+20024;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+20025;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+20026;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+20027;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+20028;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+20029;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+20030;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+20031;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+20032;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+20033;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+20034;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+20035;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+30000;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+30001;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+30002;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+30003;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+30004;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+30005;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+30006;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+30007;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+30008;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+30009;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+30010;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+30011;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+30012;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+30013;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+30014;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+30015;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+30016;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+30017;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+30018;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+30019;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+30020;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+30021;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+30022;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+30023;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+30024;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+30025;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+30026;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+30027;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+30028;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+30029;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+30030;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+30031;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+30032;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+30033;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+30034;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+30035;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+1000000;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+1000001;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+1000002;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+1000003;
+1000004;
+1000005;
+1000006;
+1000007;
+1000008;
+1000009;
+1000010;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+1000011;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+1000012;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+1000013;
+1000014;
+1000015;
+1000016;
+1000017;
+1000018;
+1000019;
+1000020;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+1000021;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+1000022;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's red sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A burning red scene recalls the pitched battles where the threads of life and death intertwined.
+1000100;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+1000101;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+1000102;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+1000103;
+1000104;
+1000105;
+1000106;
+1000107;
+1000108;
+1000109;
+1000110;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+1000111;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+1000112;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+1000113;
+1000114;
+1000115;
+1000116;
+1000117;
+1000118;
+1000119;
+1000120;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+1000121;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+1000122;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's blue sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A water-draped blue scene recalls places enveloped by the larger flow of the world.
+1000200;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+1000201;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+1000202;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+1000203;
+1000204;
+1000205;
+1000206;
+1000207;
+1000208;
+1000209;
+1000210;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+1000211;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+1000212;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+1000213;
+1000214;
+1000215;
+1000216;
+1000217;
+1000218;
+1000219;
+1000220;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+1000221;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+1000222;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's yellow sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light recalls galloping journeys across majestic lengths of earth.
+1000300;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+1000301;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+1000302;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+1000303;
+1000304;
+1000305;
+1000306;
+1000307;
+1000308;
+1000309;
+1000310;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+1000311;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+1000312;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+1000313;
+1000314;
+1000315;
+1000316;
+1000317;
+1000318;
+1000319;
+1000320;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+1000321;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+1000322;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's green sand.
+
+The scenes within are the memories of warriors, that allow one to draw upon their minds for strength.
+
+A tranquil scene recalls strolls through lush tracts of deep green.
+2000000;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2000001;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2000002;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2000003;
+2000004;
+2000005;
+2000006;
+2000007;
+2000008;
+2000009;
+2000010;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2000011;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2000012;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2000013;
+2000014;
+2000015;
+2000016;
+2000017;
+2000018;
+2000019;
+2000020;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2000021;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2000022;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2000100;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2000101;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2000102;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2000103;
+2000104;
+2000105;
+2000106;
+2000107;
+2000108;
+2000109;
+2000110;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2000111;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2000112;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2000113;
+2000114;
+2000115;
+2000116;
+2000117;
+2000118;
+2000119;
+2000120;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2000121;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2000122;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2000200;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2000201;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2000202;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2000203;
+2000204;
+2000205;
+2000206;
+2000207;
+2000208;
+2000209;
+2000210;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2000211;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2000212;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2000213;
+2000214;
+2000215;
+2000216;
+2000217;
+2000218;
+2000219;
+2000220;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2000221;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2000222;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2000300;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2000301;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2000302;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2000303;
+2000304;
+2000305;
+2000306;
+2000307;
+2000308;
+2000309;
+2000310;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2000311;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2000312;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2000313;
+2000314;
+2000315;
+2000316;
+2000317;
+2000318;
+2000319;
+2000320;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2000321;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2000322;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2001001;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2001002;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2001003;
+2001004;
+2001005;
+2001006;
+2001007;
+2001008;
+2001009;
+2001010;
+2001011;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2001012;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2001013;
+2001014;
+2001015;
+2001016;
+2001017;
+2001018;
+2001019;
+2001020;
+2001021;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2001022;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2001101;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2001102;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2001103;
+2001104;
+2001105;
+2001106;
+2001107;
+2001108;
+2001109;
+2001110;
+2001111;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2001112;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2001113;
+2001114;
+2001115;
+2001116;
+2001117;
+2001118;
+2001119;
+2001120;
+2001121;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2001122;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2001201;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2001202;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2001203;
+2001204;
+2001205;
+2001206;
+2001207;
+2001208;
+2001209;
+2001210;
+2001211;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2001212;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2001213;
+2001214;
+2001215;
+2001216;
+2001217;
+2001218;
+2001219;
+2001220;
+2001221;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2001222;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2001301;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2001302;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2001303;
+2001304;
+2001305;
+2001306;
+2001307;
+2001308;
+2001309;
+2001310;
+2001311;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2001312;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2001313;
+2001314;
+2001315;
+2001316;
+2001317;
+2001318;
+2001319;
+2001320;
+2001321;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2001322;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2002002;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2002003;
+2002004;
+2002005;
+2002006;
+2002007;
+2002008;
+2002009;
+2002010;
+2002011;
+2002012;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2002013;
+2002014;
+2002015;
+2002016;
+2002017;
+2002018;
+2002019;
+2002020;
+2002021;
+2002022;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2002102;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2002103;
+2002104;
+2002105;
+2002106;
+2002107;
+2002108;
+2002109;
+2002110;
+2002111;
+2002112;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2002113;
+2002114;
+2002115;
+2002116;
+2002117;
+2002118;
+2002119;
+2002120;
+2002121;
+2002122;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2002202;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2002203;
+2002204;
+2002205;
+2002206;
+2002207;
+2002208;
+2002209;
+2002210;
+2002211;
+2002212;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2002213;
+2002214;
+2002215;
+2002216;
+2002217;
+2002218;
+2002219;
+2002220;
+2002221;
+2002222;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2002302;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2002303;
+2002304;
+2002305;
+2002306;
+2002307;
+2002308;
+2002309;
+2002310;
+2002311;
+2002312;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2002313;
+2002314;
+2002315;
+2002316;
+2002317;
+2002318;
+2002319;
+2002320;
+2002321;
+2002322;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2003000;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2003001;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2003002;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2003003;
+2003004;
+2003005;
+2003006;
+2003007;
+2003008;
+2003009;
+2003010;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2003011;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2003012;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2003013;
+2003014;
+2003015;
+2003016;
+2003017;
+2003018;
+2003019;
+2003020;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2003021;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2003022;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark red sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A burning red scene of deep night recalls the pitched battles where the threads of life and death intertwined.
+2003100;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2003101;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2003102;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2003103;
+2003104;
+2003105;
+2003106;
+2003107;
+2003108;
+2003109;
+2003110;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2003111;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2003112;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2003113;
+2003114;
+2003115;
+2003116;
+2003117;
+2003118;
+2003119;
+2003120;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2003121;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2003122;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark blue sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A water-draped blue scene of deep night recalls places enveloped by the larger flow of the world.
+2003200;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2003201;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2003202;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2003203;
+2003204;
+2003205;
+2003206;
+2003207;
+2003208;
+2003209;
+2003210;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2003211;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2003212;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2003213;
+2003214;
+2003215;
+2003216;
+2003217;
+2003218;
+2003219;
+2003220;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2003221;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2003222;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark yellow sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A dazzling scene of cascading rays of light in the deep night recalls galloping journeys across majestic lengths of earth.
+2003300;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2003301;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2003302;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2003303;
+2003304;
+2003305;
+2003306;
+2003307;
+2003308;
+2003309;
+2003310;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2003311;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2003312;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2003313;
+2003314;
+2003315;
+2003316;
+2003317;
+2003318;
+2003319;
+2003320;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2003321;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.
+2003322;A relic that grants its favor upon departure on an expedition. Can be placed on the pedestal's dark green sand.
+
+The scenes within are the memories of warriors, allowing one to draw upon their minds for strength.
+
+A tranquil scene of deep night recalls strolls through lush tracts of deep greenery.

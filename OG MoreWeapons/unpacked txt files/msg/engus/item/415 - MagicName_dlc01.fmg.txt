@@ -1,0 +1,12 @@
+5111;Old Moonlight
+6905;Lightning Stake
+6906;Lightning Arrow
+6907;Lifehunt Scythe
+6908;Black Serpent
+7540;Aspects of the Crucible: Thorns
+7550;Aspects of the Crucible: Bloom
+10000;
+2004320;Rellana's Twin Moons
+2004710;Gravitational Missile
+2006900;Knight's Lightning Spear
+2007210;Pest-Thread Spears

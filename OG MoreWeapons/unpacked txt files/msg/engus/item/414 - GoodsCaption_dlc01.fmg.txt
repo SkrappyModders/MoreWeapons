@@ -1,0 +1,149 @@
+8500;A finger torn from the Primordial Nightlord. Lacking the life-giving spark of blood, it is instead saturated with Night.
+
+The Undertaker held a faint glimmer of hope. That she might finally shed the dreadful power that enshrouds her.
+
+But she knew her hopes were only fantasies. And so she became determined to at least find comfort.
+
+The Night was brought to an end, but the loathsome hex would be hers forever.
+9660;
+9900;
+9901;
+9902;
+9903;
+9904;
+9905;
+9906;
+9907;
+9908;
+9909;
+9910;
+9911;
+9912;
+9913;
+9914;
+11027;A crystal tear formed slowly over the ages where the Erdtree's bounty falls to the ground.
+
+Purifies the curse from the Lord of Blood's terrifying rite of blood.
+40800;
+40801;
+40802;
+40803;
+40804;
+40805;
+40806;
+40807;
+40808;
+40809;
+40810;Acquire Dawn garb
+40811;
+40812;
+40813;
+40814;
+40815;
+40816;
+40817;
+40818;
+40819;
+40820;Acquire Darkness garb
+40821;
+40822;
+40823;
+40824;
+40825;
+40826;
+40827;
+40828;
+40829;
+40830;
+40850;Acquire Pardoner garb
+40851;
+40852;
+40853;
+40854;
+40855;
+40856;
+40857;
+40858;
+40859;
+40860;Acquire Xanthous garb
+40900;
+40901;
+40902;
+40903;
+40904;
+40905;
+40906;
+40907;
+40908;
+40909;
+40910;Acquire Dawn garb
+40911;
+40912;
+40913;
+40914;
+40915;
+40916;
+40917;
+40918;
+40919;
+40920;Acquire Darkness garb
+40921;
+40922;
+40923;
+40924;
+40925;
+40926;
+40927;
+40928;
+40929;
+40930;
+40950;Acquire Brass garb
+40951;
+40952;
+40953;
+40954;
+40955;
+40956;
+40957;
+40958;
+40959;
+40960;Acquire Lord's Blade garb
+10001000;A well-worn leather case for storing a monocle. The scuffs and crease marks are proof of its owner's adoration.
+
+The Scholar left evidence of his own death to the Undertaker. It was the always-candid Scholar's form of a farewell.
+
+"Now...what do I do?"
+10001001;The primal core extracted from the Scholar's body. A silver organ with pulsing veins.
+
+Still pumping despite its detachment, its flesh writhes with desire for a new host.
+
+The core is undeniable evidence that the Scholar is an entirely different form of life.
+10001002;A wondrously clear crystal received from the Scholar. Inside are the floating, wavering signs of Night.
+
+The spread of the blotches has neatly ceased, as if the crystal has found its peace.
+
+Perhaps there is no longer anything to fear. Presuming his words can be trusted.
+10001003;A journal written by a man who served the royal family
+and enlisted in the army to survey the frontlines firsthand.
+
+It describes the status of the regiment at the garrison.
+Two words are scribbled haphazardly in the field tactics report:
+
+MEDICINE    ALBINAURICS
+10001004;Fast-acting medicine for a disease that afflicted the Albinaurics that works by removing invasive contaminants.
+
+The vassal who developed the medicine did so by testing it on his own body. It was successful, and used to treat patients, but the vassal himself passed, his sickness already too advanced.
+
+Both the disease and the cure are not mentioned in the annals of history, and the person responsible for their omission is unknown.
+
+10001005;A small leather case for storing the Scholar's monocle. Handed to the Undertaker, and later returned.
+
+When the case was handed back to him, it reminded him of his mentor's words, spoken to him on the day that the monocle was first given to him to take on his travels.
+
+"This lens reveals the truth."
+10001006;A headband worn by the denizens of the lands of Gold. This commonplace accessory in the Lands Between signifies one's faith and gratitude for the Grace of Gold.
+
+The Scholar was certain of the purpose that lay before him. To weave the past into being.
+10001007;A note left by the Scholar for someone, intended to summarize the events that transpired in Limveld.
+
+Normally he would have taken the notes back himself, but the subtle smile on his wrinkled face betrayed the impossibility of such a wish.

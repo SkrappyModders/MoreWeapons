@@ -1,0 +1,23 @@
+8000;Talisman depicting the blessed boon that is a droplet of the blue, luminescent sap of the Erdtree.
+
+Gradually restores FP.
+
+It was once thought that the blessed sap of the Erdtree would drip from its boughs forever—but that age of plenty swiftly came to a close, and with time, the Erdtree became more an object of faith.
+8010;A talisman fashioned from thin feathers that embody the aspects of various creatures.
+Said to have grown on the human body long ago.
+
+Improves backsteps but increases damage taken at all times.
+
+Hornsent view the Crucible as sacred for the refinement wrought through its evolutionary gifts. Most prominently, their tangled horns.
+8040;A talisman depicting a warrior two-handing a sword.
+Enhances attacks with two-handed weapons.
+
+The horned warriors were fitting figureheads for the military might of the tower they kept watch over, their deft attacks slashing through any and all foes.
+8060;A talisman depicting the exultation of the aging untouchable, whose head resembles a sprig of ripe grapes.
+
+Raises attack power when madness is triggered in the vicinity.
+
+"Gift your madness to our Lord.
+Bless our brethren with grapes.
+Take care that they fully ripen."
+10000;

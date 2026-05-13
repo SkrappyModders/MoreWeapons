@@ -1,0 +1,1477 @@
+1;
+101090;Hold <?keyicon@106?> + <?keyMove?>: Dash
+101110;<?keyicon@112?>: Lock-on to target / Unlock from target
+<?keyControlCamera?> while locked-on: Change target
+101111;
+101112;
+101113;
+101114;
+101115;
+101116;
+101117;
+101118;
+101119;
+101120;<?keyicon@119?>: Guard
+<?keyMove?> + <?keyicon@106?>: Dodge
+101200;<?keyMove?>: <?keyActName@101?>
+<?keyControlCamera?>: Move camera
+101201;
+101202;
+101203;
+101204;
+101205;
+101206;
+101207;
+101208;
+101209;
+101210;<?keyicon@117?>: Attack
+<?keyicon@118?>: Strong attack
+101211;
+101212;
+101213;
+101214;
+101215;
+101216;
+101217;
+101218;
+101219;
+101220;<?keyicon@107?>: <?keyActFullName@107?>
+<?keyMove?> while jumping toward ledge: Climb up
+101240;<?keyMove?> + <?keyicon@105?>: Surge sprint
+101241;
+101242;
+101243;
+101244;
+101245;
+101246;
+101247;
+101248;
+101249;
+101250;<?keyicon@107?> while facing wall during jump : Wall jump
+101251;
+101252;
+101253;
+101254;
+101255;
+101256;
+101257;
+101258;
+101259;
+101260;<?keyicon@121?>: <?keyActFullName@121?>
+101261;
+101262;
+101263;
+101264;
+101265;
+101266;
+101267;
+101268;
+101269;
+101270;<?keyicon@113?>: <?keyActFullName@113?>
+<?keyicon@114?>: <?keyActFullName@114?>
+<?keyicon@130?>: <?keyActFullName@130?>
+101271;
+101272;
+101273;
+101274;
+101275;Acquired items are equipped in item slots.
+
+Some grant special effects, others can be used in combat, and more.
+
+Most items are consumed with use, but some are reusable, and instead consume FP.
+
+Some items can be used while airborne.
+
+<?keyicon@113?>: <?keyActFullName@113?>
+<?keyicon@114?>: <?keyActFullName@114?>
+<?keyicon@130?>: <?keyActFullName@130?>
+101276;
+101277;
+101278;
+101279;
+101280;Character skills are special abilities unique to each player character.
+
+Each character executes their skill with a special action, that can only be repeated after a period of cooldown.
+
+The Wylder's skill is Claw Shot:
+Launch grappling claw to rope in foes or move swiftly by retracting.
+
+<?keyicon@127?>: <?keyActFullName@127?>
+101281;
+101282;
+101283;
+101284;
+101285;<?keyicon@127?>: <?keyActFullName@127?>
+101286;
+101287;
+101288;
+101289;
+101290;When a character's HP is fully depleted, they will enter a near-death state. They will be unable to perform any actions other than basic movement, and do not have long to live.
+
+The near-death gauge appears when a character enters this state. Attacking will deplete the gauge and revive the ally.
+
+The near-death gauge is extended by each brush with death, but an extended near-death gauge shortens while the character remains alive. Passing through a Site of Grace will also reset the gauge to its original length.
+101291;
+101292;
+101293;
+101294;
+101295;Attack ally near death: Rescue
+101296;
+101297;
+101298;
+101299;
+101300;Upon death, a character revives nearby at the cost of 1 level.
+
+The character's runes, including the runes for the lost level, are dropped at the location of death, where they can be retrieved. However, if a character dies before retrieving dropped runes, they are permanently lost.
+
+Nearby foes sometimes snatch up dropped runes, but the runes can still be retrieved by defeating the offending foe.
+101301;
+101302;
+101303;
+101304;
+101305;
+101306;
+101307;
+101308;
+101309;
+101310;Ultimate Arts are powerful special abilities that are unique to each character.
+
+An Ultimate Art can be executed once the Ultimate Art gauge is full. Ultimate Arts have the power to turn the tide of battle.
+
+The Wylder's Ultimate Art is Onslaught Stake, a powerful single attack that launches an iron stake with a great explosion.
+
+<?keyicon@126?>: <?keyActFullName@126?>
+101311;
+101312;
+101313;
+101314;
+101315;<?keyicon@126?>: <?keyActFullName@126?>
+101316;
+101317;
+101318;
+101319;
+101320;Losing all HP will put the player character in a near-death state.
+
+The only action a near-death character can execute is movement.
+
+A near-death character does not have long to live.
+101321;
+101322;
+101323;
+101324;
+101325;
+101326;
+101327;
+101328;
+101329;
+101330;<?keyicon@1?>: Open equipment menu
+<?keyicon@116?>/<?keyicon@115?>: Switch armament
+101331;
+101332;
+101333;
+101334;
+101335;
+101336;
+101337;
+101338;
+101339;
+101340;The map is not the only place to use pins.
+
+When an allied player places a pin, the location is highlighted. Center the pin in the middle of the screen to directly place your own pin at the same location.
+
+Hold <?keyicon@311?> while an ally's pin is centered on the screen: Stack pin
+
+When necessary, you can quickly transmit your present location.
+<?keyicon@128?>: Place a quick pin at your present location
+101341;
+101342;
+101343;
+101344;
+101345;
+101346;
+101347;
+101348;
+101349;
+101350;Pins are used to mark locations.
+Use them to coordinate with allies or share information.
+
+Pins are placed on the map, and appear visually on the field as a column of light.
+
+Pins also appear on the compasses of all allies.
+
+To remove a pin, use the place pin command on the same location.
+
+On the map:
+<?keyControlCamera?>: Move cursor
+<?keyicon@311?>: Place pin
+201020;Every area has a number of key locations.
+
+Key locations may be protected by enemies or traps, but they often house equipment and runes.
+
+While exploring the field, use the map to track key locations, which can offer a great boost to character power.
+
+<?keyicon@2?>: <?keyActFullName@2?>
+201021;
+201022;
+201023;
+201024;
+201025;<?keyicon@2?>: Open <?keyActFullName@2?> menu
+201100;Each hand can be equipped with up to three armaments, allowing you to toggle between them.
+
+By holding the same type of weapon in both the right and left hands, dual-wielding is enabled, and dual-wielded attacks are possible.
+
+Armaments can also be two-handed, making attacks more difficult to repel with shields and boosting damage inflicted (with some exceptions).
+
+<?keyicon@116?>: <?keyActFullName@116?>
+<?keyicon@115?>: <?keyActFullName@115?>
+<?keyicon@119?> while dual-wielding: Dual-wielded attack
+<?keyicon@124?>/<?keyicon@125?>: Wield with two hands
+201101;
+201102;
+201103;
+201104;
+201105;<?keyicon@120?>: <?keyActFullName@120?>
+<?keyicon@124?>: Two-hand right weapon
+<?keyicon@125?>: Two-hand left weapon
+201106;
+201107;
+201108;
+201109;
+201110;Areas afflicted by the Night's tide deplete HP.
+
+Avoid staying in such places for long.
+201111;Areas afflicted by the Night's tide deplete HP.
+
+As the Night deepens, the effect grows more severe.
+
+Extended exposure to rain results in perilous HP depletion.
+
+Avoid staying in such places for long.
+201112;
+201113;
+201114;
+201115;
+201116;
+201117;
+201118;
+201119;
+201120;All acquired equipment has a rarity and a passive effect.
+
+Items of higher rarity are of higher quality. At lower player levels, some equipment has greatly reduced effectiveness.
+
+Passive effects are active while an item is in one's possession, and the passive effects of multiple items stack (with some exceptions). Learn about acquired equipment from the equipment menu:
+
+<?keyicon@1?>: Open equipment menu
+
+201250;After jumping, jump again while facing a wall to perform a wall jump.
+
+Use <?keyMove?> to jump in a designated direction when wall jumping. Depending on the height of the wall, it may also be possible to climb it.
+
+<?keyicon@107?> while facing wall during jump : Wall jump
+252520;You can perform a counterattack immediately after blocking an enemy attack.
+
+Guard counters make it easy to break an enemy's stance.
+
+<?keyicon@118?> immediately after blocking an attack: Guard Counter
+252550;Certain foes execute powerful attacks imbued with darkness.
+
+Dodge these attacks with a roll to absorb the darkness and replenish the Ultimate Art gauge, precipitating chances to counter-attack.
+
+In response to an enemy's attack with a dark blue shine:
+<?keyMove?> + <?keyicon@106?>: Absorbing dodge
+252570;Equip a staff, sacred seal, or other catalyst to cast sorceries and incantations at the cost of FP.
+
+Each catalyst can cast two distinct spells.
+
+With catalyst equipped in right hand:
+<?keyicon@117?>: Cast 1st sorcery/incantation
+<?keyicon@118?>: Cast 2nd sorcery/incantation
+
+N.B. <?keyicon@119?> and <?keyicon@120?> when equipped in the left hand.
+252571;
+252572;
+252573;
+252574;
+252575;
+252576;
+252577;
+252578;
+252579;
+252580;Equip a bow to fire arrows. Arrow stock is unlimited.
+
+Wielding a bow with both hands enables precision aiming.
+
+Greatbows, crossbows, and ballistas are handled identically to bows.
+
+While holding a bow with both hands:
+Hold <?keyicon@119?>: Precision aiming 
+<?keyControlCamera?>: Move precision aiming sight
+
+252581;
+252582;
+252583;
+252584;
+252585;
+252586;
+252587;
+252588;
+252589;
+252590;Nearby items can be quickly selected and used.
+
+Item slots can be expanded up to a total of 8
+by utilizing a special method.
+
+<?keyicon@122?>: Acquire item
+<?keyicon@132?>/<?keyicon@131?>: Cycle acquired items
+<?keyicon@129?>: Use item immediately
+252591;
+252592;
+252593;
+252594;
+252595;
+252596;
+252597;
+252598;
+252599;
+252600;Some attacks may break an enemy's stance, giving you the chance to perform a critical hit.
+
+Charge attacks, jump attacks, and affinity attacks selected to target enemy vulnerabilities all make it easier to break an enemy's stance.
+
+There are also ways to reduce the likelihood of recoiling from enemy attacks. For example, two-handing a heavy weapon increases poise and reduces the risk of recoiling.
+
+Hold <?keyicon@118?>: Charge attack
+<?keyicon@118?> while jumping: Jump attack
+Approach stance-broken foes and <?keyicon@117?>: Critical hit
+252601;
+252602;
+252603;
+252604;
+252605;
+252606;
+252607;
+252608;
+252609;
+252610;Armaments, magic, items, and enemy attacks can cause status ailments.
+
+Receiving noxious attacks causes the relevant ailment gauge to fill. A full gauge triggers the corresponding ailment.
+
+There are 7 types of status ailments:
+<?image@4300##11?>Poison: Continuous damage
+<?image@4301##11?>Scarlet Rot: Continuous damage
+<?image@4302##11?>Blood Loss: Higher damage with higher max HP
+<?image@4303##11?>Frostbite: Higher damage with higher max HP.
+Also, receive more damage for some time.
+<?image@4304##11?>Sleep: Lose FP and enter a state of high vulnerability
+<?image@4305##11?>Madness: High loss of HP and FP
+<?image@4306##11?>Death: Player dies
+
+Each player and enemy has unique levels of resistance to status ailments.
+252611;
+252612;
+252613;
+252614;
+252615;
+252616;
+252617;
+252618;
+252619;
+252620;Armaments, magic, items, and enemy attacks all possess different damage affinities.
+
+Damage can be physical or non-physical.
+
+Physical damage is divided into the following categories:
+Standard / Striking / Slashing / Piercing
+The type of damage dealt depends on the weapon used and how it is wielded.
+
+The remaining types of damage can be divided into four categories:
+<?image@4401##12?>Fire
+<?image@4400##12?>Magic
+<?image@4402##12?>Lightning
+<?image@4403##12?>Holy
+
+Some enemies are especially vulnerable to certain damage affinities, which are also more likely to cause stagger. Awareness of damage types can make the difference in battle.
+252640;HP is the life force of the player.
+
+Damage depletes HP, and fully depleting HP results in a kill. For player characters, however, losing all HP results in near-death.
+
+Lost HP can be restored by using the Sacred Flask or by passing through a Site of Grace.
+
+<?keyicon@121?>: Use Sacred Flask
+252641;
+252642;
+252643;
+252644;
+252645;
+252646;
+252647;
+252648;
+252649;
+252650;Stamina is required to perform several actions in a row.
+
+Attacks, dodges, and various actions deplete the stamina gauge. Without sufficient stamina, these actions cannot be performed.
+
+Stamina is automatically restored over time.
+
+Stamina is only depleted by actions taken during battle.
+252651;
+252652;
+252653;
+252654;
+252655;
+252656;
+252657;
+252658;
+252659;
+252660;FP is the energy used to cast sorceries and incantations, and to execute skills.
+
+Sorceries, incantations, and skills deplete FP. Without sufficient FP, these actions are ineffective.
+
+Lost FP can be restored with certain items, or by passing through a Site of Grace.
+252661;
+252662;
+252663;
+252664;
+252665;
+252666;
+252667;
+252668;
+252669;
+252670;Characters are defined by 8 attributes.
+
+Each character has a unique distribution of attribute values, making them more or less able to handle certain armaments or magic.
+
+Leveling-up raises attribute values, affecting the character's proficiency with different armaments and magic.
+
+Vigor: boosts HP
+Mind: boosts FP
+Endurance: boosts stamina
+Strength: boosts attack power of heavy armaments
+Dexterity: boosts attack power of advanced armaments
+Intelligence: boosts attack power of sorceries
+Faith: boosts attack power and healing potency of incantations
+Arcane: increases the buildup of enemies' status ailments
+252671;
+252672;
+252673;
+252674;
+252675;
+252676;
+252677;
+252678;
+252679;
+252680;Each player character possesses a unique passive ability.
+
+The passive ability of a character is effective at all times, and can complement various strategies.
+252681;
+252682;
+252683;
+252684;
+252685;
+252686;
+252687;
+252688;
+252689;
+252690;Characters can utilize many movement options.
+
+Dashing only requires a small amount of stamina, but surge sprinting consumes a great deal.
+
+<?keyMove?>: <?keyActName@101?>
+Hold <?keyicon@106?>+<?keyMove?>: Dash
+<?keyMove?>+<?keyicon@105?>: Surge sprint
+252691;
+252692;
+252693;
+252694;
+252695;
+252696;
+252697;
+252698;
+252699;
+252700;You can use the camera to look around freely, or fix it upon a specific target.
+
+<?keyControlCamera?>: Move camera
+<?keyicon@112?>: Lock-on to target / Unlock from target
+<?keyControlCamera?> while locked-on: Change target
+252701;
+252702;
+252703;
+252704;
+252705;
+252706;
+252707;
+252708;
+252709;
+252710;Use jumps to cover uneven terrain or gain elevation.
+
+You can make it to higher ground which can't quite be reached by jumping alone by using the 'climb up' command.
+
+After jumping, jumping again while facing a wall will perform a wall jump.
+
+Use <?keyMove?> to jump in a designated direction when wall jumping. Depending on the height of the wall, it may also be possible to climb it.
+
+<?keyicon@107?>: <?keyActFullName@107?>
+<?keyMove?> while jumping toward ledge: Climb up
+<?keyicon@107?> while facing wall during jump : Wall jump
+252711;
+252712;
+252713;
+252714;
+252715;
+252716;
+252717;
+252718;
+252719;
+252720;A sacred flask modelled after a golden holy chalice that was once graced by a tear of blessing.
+
+Carried by all player characters, this flask filled with crimson tears restores HP with use.
+
+It is fully replenished after dying, or by reaching a Site of Grace. It also replenishes itself slowly over time, though it is unable to do so during certain combat encounters, or during the small hours of the night.
+
+<?keyicon@121?>: <?keyActFullName@121?>
+252721;
+252722;
+252723;
+252724;
+252725;
+252726;
+252727;
+252728;
+252729;
+252730;Every playable character is capable of performing several different kinds of attack.
+
+These attacks vary in several ways—depending on the armaments they wield, the speed with which they recover after each strike, the damage they deal and their capacity to break stances.
+
+Some attacks can be performed while dashing or jumping, and can even connect smoothly from other actions the character can perform too. Don't forget that the left-hand armament can also be used to attack!
+
+<?keyicon@117?>: <?keyActFullName@117?>
+<?keyicon@118?>: <?keyActFullName@118?>
+Hold <?keyicon@118?>: Charge attack
+<?keyicon@119?>: Attack with left-hand weapon
+252731;
+252732;
+252733;
+252734;
+252735;
+252736;
+252737;
+252738;
+252739;
+252740;You can avoid enemy attacks with a dodge roll or backstep.
+Both of these actions consume stamina.
+
+<?keyMove?>+<?keyicon@106?>: Dodge roll
+<?keyicon@106?>: Backstep
+
+
+Certain foes execute powerful attacks imbued with darkness. A successful dodge will absorb this darkness and replenish the Ultimate Art gauge.
+
+In response to an enemy's attack with a dark blue shine:
+<?keyMove?>+<?keyicon@106?>: Dodge roll
+252741;
+252742;
+252743;
+252744;
+252745;
+252746;
+252747;
+252748;
+252749;
+252750;Use an armament in your left hand or both hands to guard against incoming attacks.
+
+Guarding is especially effective when done with a shield.
+
+Guarding consumes stamina.
+If your stamina runs out, your stance will be broken.
+
+<?keyicon@119?>: Guard
+252751;
+252752;
+252753;
+252754;
+252755;
+252756;
+252757;
+252758;
+252759;
+252760;Character skills are special abilities unique to each player character.
+
+Each character executes their skill with a special action, that can only be repeated after a period of cooldown.
+
+Learn more in the character selection menu or by selecting characters in the Visual Codex.
+
+<?keyicon@127?>: <?keyActFullName@127?>
+252761;
+252762;
+252763;
+252764;
+252765;
+252766;
+252767;
+252768;
+252769;
+252770;Ultimate Arts are powerful special abilities that are unique to each character. An Ultimate Art can be executed once the Ultimate Art gauge is full.
+
+Learn more in the character selection menu or by selecting characters in the Visual Codex.
+
+<?keyicon@126?>: <?keyActFullName@126?>
+252810;
+252811;
+252812;
+252813;
+252814;
+252815;
+252816;
+252817;
+252818;
+252819;
+252820;
+252821;
+252822;
+252823;
+252824;
+252825;
+252826;
+252827;
+252828;
+252829;
+252830;
+252831;
+252832;
+252833;
+252834;
+252835;
+252836;
+252837;
+252838;
+252839;
+252840;
+252841;
+252842;
+252843;
+252844;
+252845;
+252846;
+252847;
+252848;
+252849;
+252850;
+252851;
+252852;
+252853;
+252854;
+252855;
+252856;
+252857;
+252858;
+252859;
+252860;
+252861;
+252862;
+252863;
+252864;
+252865;
+252866;
+252867;
+252868;
+252869;
+252870;
+252871;
+252872;
+252873;
+252874;
+252875;
+252876;
+252877;
+252878;
+252879;
+252880;
+252900;The Recluse's Magic Cocktail skill can be used after collecting 3 affinity residues. The resulting spell depends upon the affinities collected.
+
+<?image@4201##9?> Pure Magic
+Enwreathe an enemy in magic that deals damage for some time, encircling and attacking the target.
+
+<?image@4200##9?> Pure Fire
+Throw a whirlwind of flame. Flame spreads across a small area upon contact, and burns for some time.
+
+<?image@4202##9?> Pure Lightning
+Enwreathe oneself in lightning, bolstering dodging actions.
+
+<?image@4203##9?> Pure Holy
+Enwreathe oneself in holy light, bolstering poise and increasing damage negation.
+252901;
+252902;
+252903;The Recluse's Magic Cocktail skill can be used after collecting 3 affinity residues. The resulting spell depends upon the affinities collected.
+
+<?image@4204##9?> Magic/Fire
+Launch a wraith flame that pursues enemies.
+
+<?image@4207##9?> Magic/Lightning
+Execute broad forward slash with magic blade. Hold to move with sword drawn.
+
+<?image@4208##9?> Magic/Holy
+Cover nearby area with a magic veil, fully conserving FP for self and allies for a short time.
+252904;The Recluse's Magic Cocktail skill can be used after collecting 3 affinity residues. The resulting spell depends upon the affinities collected.
+
+<?image@4205##9?> Fire/Lightning
+Become fireball and barrel forward, raining lightning on nearby foes.
+
+<?image@4206##9?> Fire/Holy
+Raise a torch for a limited time that raises max HP and reduces status ailment gauge buildup for nearby allies, and lowers max HP of nearby enemies.
+
+<?image@4209##9?> Lightning/Holy
+Weave a layer of lightning that parries enemy attacks for a short time.
+252905;
+252906;
+252907;The Recluse's Magic Cocktail skill can be used after collecting 3 affinity residues. The resulting spell depends upon the affinities collected. Residues can be acquired in any order.
+
+<?image@4210##9?> Magic/Fire/Lightning
+Conjure frontwards exploding gravity orb. Gravity orb pulls enemies inward, expands, and explodes, inflicting heavy damage.
+
+<?image@4211##9?>  Magic/Fire/Holy
+Spew a mixed affinity breath that inflicts damage upon enemies, and restores HP and FP of allies with contact.
+
+<?image@4212##9?> Fire/Lightning/Holy
+Create lightning rod and thrust forward into terrain. White lightning strikes rod after a short delay.
+
+<?image@4213##9?> Magic/Lightning/Holy
+Create cold storm with area effect and retreat inside ice block, gaining invulnerability.
+301020;Merely passing through a Site of Grace replenishes HP and FP, heals all status ailments, and replenishes the Sacred Flask.
+
+Sites of Grace can also be used for leveling up.
+301900;The Roundtable Hold is a nexus for launching expeditions.
+Travel to the Lands Between from the Great Site of Grace, change characters, conduct relic rites, and otherwise prepare for expeditions.
+
+Use the Roundtable Hold menu to travel directly to a facility of interest.
+<?keyicon@2?>: Roundtable Hold menu
+
+N.B. This explanation can be accessed at any time from the Visual Codex in the Roundtable Hold.
+301901;The network test behooves the player to travel to the Lands Between and defeat the Tricephalos.
+
+At the Roundtable Hold, travel to the Lands Between from the Great Site of Grace, change characters, and otherwise prepare for expeditions.
+
+Use the Roundtable Hold menu to travel directly to a facility of interest.
+<?keyicon@2?>: Roundtable Hold menu
+
+N.B. This explanation can be accessed at any time from the Visual Codex in the Roundtable Hold.
+301902;Thank you for playing.
+
+This concludes the play range of the network test version of the game. We humbly implore you to return, one day, for the full experience.
+
+N.B. Feel free to continue playing this version while the network test remains in operation.
+301903;
+301904;
+301905;Use the Sparring Grounds to learn controls and practice fighting.
+
+Use the Sparring Equipment menu to change loadout settings, and the Sparring Settings menu to change conditions for sparring.
+
+Upon departing on an expedition, any equipment borrowed from the Sparring Grounds is automatically returned.
+
+<?keyicon@2?>: Sparring Settings menu
+301920;"The Deep of Night" has been added to the Expeditions menu.
+
+Targets cannot be chosen, and difficulty increases with depth. Victory increases your rating, allowing you to proceed unto ever greater depths.
+
+The boundless dark stretches out unto infinity.
+301921;
+301922;
+301923;
+301924;
+301925;
+301926;
+301927;
+301928;
+301929;
+301930;A dresser has been fitted in the storage room.
+
+Use the dresser to change into newly acquired clothing, or purchase new outfits from the dresser.
+
+The Change Garb menu can be accessed directly from the Roundtable Hold menu.
+<?keyicon@2?>: Roundtable Hold menu
+301931;
+301932;
+301933;
+301934;
+301935;
+301936;
+301937;
+301938;
+301939;
+301940;Conduct a relic rite to evoke the power of an obtained relic.
+
+Relics used in rites are not consumed and can be repeatedly used in later relic rites.
+
+The Relic Rite menu can be accessed directly from the Roundtable Hold menu.
+<?keyicon@2?>: Roundtable Hold menu
+301941;
+301942;
+301943;
+301944;
+301945;
+301946;
+301947;
+301948;
+301949;
+301950;Touched by the Deep of Night, vessels' depths are now revealed.
+
+Depths relics can be placed on a newly revealed location upon each vessel. This power will only take effect in the Deep of Night.
+301951;
+301952;
+301953;
+301954;
+301955;
+301956;
+301957;
+301958;
+301959;
+301960;The Duchess has joined the warriors of the Roundtable.
+
+Choose her to depart on expeditions like any other player character.
+
+The Duchess is a highly agile character who can dodge rapidly in succession and carry out other quick moves.
+301961;
+301962;
+301963;
+301964;
+301965;
+301966;
+301967;
+301968;
+301969;
+301970;The Revenant has joined the warriors of the Roundtable.
+
+Choose her to depart on expeditions like any other player character.
+
+The Revenant is a tactical character who can summon phantoms and coordinate attacks with them.
+301971;
+301972;
+301973;
+301974;
+301975;
+301976;
+301977;
+301978;
+301979;
+301980;Defeating Nightlords and other events makes the Lands Between rupture and churn.
+
+These phenomena are known as instances of "shifting earth," and each of them yields unique rewards. 
+
+The phenomena continue for some time, with conditions restored after conducting several expeditions or passing time at the Roundtable Hold.
+
+To pass time: Use bed
+302000;Memory fragments evoke recollections of the past and allow them to be relived.
+
+From the journal select "Begin Remembrance" to enter the Realm of Remembrance.
+302001;
+302002;
+302003;
+302004;
+302005;
+302006;
+302007;
+302008;
+302009;
+302010;In the Realm of Remembrance, relive the journeys of each character.
+
+Complete a journey to resolve the memory and return to the present.
+
+Alternatively, select Postpone Remembrance in the journal to pause and return to the present.
+
+Remembrances will also be postponed if the journey reaches a point where a change occurs in the present world.
+302011;
+302012;
+302013;
+302014;
+302015;
+302016;
+302017;
+302018;
+302019;
+302020;Complete a journey in the Realm of Remembrance to summon a remembrance gateway.
+
+Traverse the gateway to conclude the remembrance and return to the present.
+302021;
+302022;
+302023;
+302024;
+302025;
+302026;
+302027;
+302028;
+302029;
+302030;When reliving a journey in the Realm of Remembrance, goals to be achieved in the Lands Between are added as personal objectives.
+
+Commence expeditions from the Realm of Remembrances and complete personal objectives to advance each character's journey.
+
+Only one personal objective can be completed per expedition, and only one player's personal objective will be active.
+N.B. This restriction does not apply if the objective is the defeat of a target.
+302031;
+302032;
+302033;
+302034;
+302035;
+302036;
+302037;
+302038;
+302039;
+302040;After finishing the game, return to the Roundtable Hold to a time when the Primordial Nightlord was not yet defeated.
+
+Relics and murk that were held at the end of the game are preserved, and the journey carries on.
+302041;
+302042;
+302043;
+302044;
+302045;
+302046;
+302047;
+302048;
+302049;
+302050;In the Realm of Remembrance, relive the journey of each character in the Roundtable Hold.
+
+Complete the journey to resolve the memory and return to the present.
+
+Alternatively, use the journal menu to pause and return to the present.
+302051;
+302052;
+302053;
+302054;
+302055;
+302056;
+302057;
+302058;
+302059;
+302060;Sovereign Sigils are royal symbols of the lords of everdark.
+
+As if drawn by their light, a figure arrived in the Roundtable Hold bearing a proposal.
+
+Whoever can provide what is requested will receive a thing of great rarity...
+302061;
+302062;
+302063;
+302064;
+302065;
+302066;
+302067;
+302068;
+302069;
+302070;The Guide and Handbook found in the Visual Codex contain helpful hints for making progress in battle, including explanations of game controls and details on key locations.
+
+If moving forward proves more difficult than expected, try perusing these sources.
+302430;Armaments have special abilities called skills.
+
+Skills are highly varied and can include anything from powerful attacks, parries which intercept enemy moves, and even the application of temporary effects. Using skills consumes FP.
+
+<?keyicon@120?>: <?keyActFullName@120?>
+400000;The Guide can be used to learn basic actions and controls, and is a source of useful knowledge about expeditions.
+
+Also, while this explanation is displayed, press <?keyicon@209?> to replay the initial game play tutorial.
+
+<?keyicon@209?>: Play tutorial
+402020;Use the Equipment menu to check equipment in one's possession, switch equipment between right and left hands, or leave equipment behind.
+
+<?keyicon@1?>: Open/Close Equipment menu
+<?keyicon@204?>: Switch
+<?keyicon@209?>: Discard
+402021;
+402022;
+402023;
+402024;
+402025;
+402026;
+402027;
+402028;
+402029;
+402030;Check special effects and equipment of character and allies on the Status menu.
+
+Base stats and weapon attack power are influenced by special effects.
+
+Check explanations of special effects as follows.
+<?keyicon@210?> on the Status menu: More about special effects
+
+402100;Use the Map menu to check the locations of allies and learn about key locations.
+
+Freely place pins to serve as landmarks for exploration, or to share locations between allies.
+
+The detailed view shows additional info on key locations.
+
+On the Map menu:
+<?keyicon@311?>: Place destination pins
+<?keyicon@308?>: Switch to detailed view
+402200;Spend runes to level up on the Level Up menu.
+
+Each additional level boosts numerous stats. Each character's stats rise at different rates.
+
+The higher the level, the more runes required to level up.
+402300;Spend runes to purchase items at shops.
+
+Merchants normally sell the same selection of items, though some are limited in quantity.
+
+However, some merchants offer entirely unique wares.
+402390;On the Strengthen Armament menu, use smithing stones to strengthen armaments.
+
+Each smithing stone upgrades an armament by one level.
+
+Smithing Stone 1:
+Upgrades common armaments into uncommon armaments
+
+Smithing Stone 2:
+Upgrades uncommon armaments into rare armaments.
+402391;
+402392;
+402393;
+402394;
+402395;Somewhere in this land is a special smithing table that can be used to smith with an extraordinary technique.
+
+This smithing stand allows an armament of any rarity to be upgraded to legendary.
+
+On each expedition, each player can only use a special smithing table one time.
+403020;Select a boss to target on the Expeditions menu.
+
+Select an expedition to automatically recruit allies targeting the same boss. Once the chosen number of players are matched, the expedition begins.
+
+Use Matchmaking Settings to select the number of players.
+
+The Roundtable Hold is fully accessible while waiting for an expedition to commence.
+403021;Allies are recruited automatically on the Expeditions menu. Once three players are matched, the expedition begins.
+
+The Roundtable Hold is fully accessible while waiting for an expedition to commence.
+403022;In a team expedition, the inviting player will act as the leader and set the target for the expedition.
+
+The expedition will launch when all players have made their preparations.
+
+N.B. If players' progress in the game differs from one another, please be aware there is a chance that some players may encounter content they have yet to experience on their own terms.
+403023;
+403024;
+403025;
+403026;
+403027;
+403028;
+403029;
+403030;
+403031;Change characters on the Character Selection menu.
+
+Find out more about a character's background and unique skills by browsing the Visual Codex and utilizing the Sparring Grounds.
+403032;
+403033;
+403034;
+403035;
+403036;
+403037;
+403038;
+403039;
+403040;Use the Change Garb menu to change the appearance of a character.
+
+Character appearance has no bearing on abilities.
+403041;
+403042;
+403043;
+403044;
+403045;
+403046;
+403047;
+403048;
+403049;
+403050;To invoke the power of a relic in your possession, conduct a relic rite via the Relic Rites menu. The supporting effect of the invoked relic activates upon leaving for an expedition. Relics are permanent additions to your inventory.
+
+However, relics must be placed on the matching colors of a vessel. Each character has their own vessel. Additional relics can be purchased from the Small Jar Bazaar.
+
+Acquired relics can also be sold.
+403051;To invoke the power of a relic in your possession, conduct a relic rite via the Relic Rites menu. The supporting effect of the invoked relic activates upon leaving for an expedition. Relics are permanent additions to your inventory.
+
+However, relics must be placed on the matching colors of a vessel.
+
+Acquired relics can also be sold.
+403052;
+403053;
+403054;
+403055;
+403056;
+403057;
+403058;
+403059;
+403060;View various game play stats with the Visual Codex.
+
+The Guide contains elementary explanations and fundamental concepts. The Handbook contains detailed explanations concerning combat.
+
+View records of past expeditions via Result History.
+403061;The Visual Codex is more than a record of previously-viewed explanations. It also contains helpful hints that will make exploration easier.
+403062;
+403063;
+403064;
+403065;
+403066;
+403067;
+403068;
+403069;
+403070;Check the progress of each character's journey using the journal.
+
+The fatigue of constant warring has robbed the Nightfarers of selected memories.
+
+Reclaim lost memory fragments to restore past experiences to their journals.
+
+Persistence in battle will yield memory fragments. But at times one might require the help of someone at the Roundtable Hold.
+403071;
+403072;
+403073;
+403074;
+403075;
+403076;
+403077;
+403078;
+403079;
+403080;Spend Murk to buy items at the Small Jar Bazaar.
+
+Items purchased here are permanent and will not be consumed when departing on an expedition.
+403091;Equip and experiment with various armaments and items using the Sparring Equipment menu.
+
+Use the Handbook to learn about combat and read valuable hints.
+403092;Change status, HP, and FP on the Sparring Settings menu.
+
+The option to change characters is also available here.
+403130;Key locations are indicated by the following icons:
+
+<?image@4007##6?>: Township
+<?image@4003##6?>: Church
+<?image@4018##6?>: Fort
+<?image@4151##6?>: Great Church
+<?image@4017##6?>: Sorcerer's Rise
+<?image@4150##6?>: Old Sorcerer's Rise
+<?image@4024##6?>: Main Encampment
+<?image@4005##6?>: Ruins
+<?image@4009##6?>: Gaol
+<?image@4025##6?>: Castle
+403131;
+403132;
+403133;
+403134;
+403135;
+403136;
+403137;
+403138;
+403139;
+403140;Field info is indicated by the following icons:
+
+<?image@4001##6?>: Grace
+<?image@4055##6?>: Spectral Hawk Tree
+<?image@4137##6?>: Spiritstream
+<?image@4016##6?>: Field Boss
+<?image@4058##6?>: Scarab
+<?image@4092##6?>: Mission Objective
+<?image@4152##6?>: Tunnel Entrance
+<?image@4153##6?>: Buried Treasure
+403141;
+403142;
+403143;
+403144;
+403145;Likely spots for armaments and items at key locations are indicated by the following icons on the detailed view of the map.
+
+<?image@4160##6?>: Sacred Flask refills
+<?image@4161##6?>: Hidden info nearby
+<?image@4162##6?>: Merchants and smithing tables
+<?image@4164##6?>: Bows
+<?image@4163##6?>: Staves
+<?image@4165##6?>: Sacred Seals
+
+<?keyicon@308?> on Map menu: Detailed view
+403170;Select an armament in inventory while using the Armament Replication menu to obtain another weapon with identical stats.
+
+On each expedition, each player can replicate a weapon one time.
+403171;
+403172;
+403173;
+403174;
+403175;
+403176;
+403177;
+403178;
+403179;
+403180;Victorious phantoms flow from other worlds into the hall of the Roundtable Hold.
+
+Glean insight by envisioning the battles they experienced through their accoutrements.
+
+N.B. Only available in online mode
+403181;
+403182;
+403183;
+403184;
+403185;
+403186;
+403187;
+403188;
+403189;
+403190;Key locations are indicated by the following icons:
+
+<?image@4018##6?>: Fort
+Outposts full of soldiers. Strategic maps of the surrounding area can be found in these locations, which reveal things hidden nearby.
+
+<?image@4151##6?>: Great Church
+Crumbling houses of worship. The faithful are known to leave their sacred seals in these locations.
+
+<?image@4024##6?>: Main Encampment
+Large garrisons home to powerful armies. Expect to find many strong enemies.
+
+<?image@4005##6?>: Ruins
+Vestiges from ages past. Home to strong foes and hidden underground chambers.
+403191;
+403192;
+403193;
+403194;
+403195;
+403196;
+403197;
+403198;
+403199;
+403200;Key locations are indicated by the following icons:
+
+<?image@4152##6?>: Tunnel Entrance
+Mining tunnels containing ore which can temper armaments.
+
+<?image@4025##6?>: Castle
+Citadels abounding with danger. These strongholds should only be challenged by those whose skill can equal their bravery. 
+
+<?image@4016##6?>: Field Boss
+Strong foes who wander from place to place. Misjudge their might at your peril.
+
+<?image@4009##6?>: Evergaol
+Cells holding prisoners whole seals weaken over time.
+403201;
+403202;
+403203;
+403204;
+403205;
+403206;
+403207;
+403208;
+403209;
+403210;Key locations are indicated by the following icons:
+
+<?image@4007##6?>: Township
+Long-deserted places of safety. Merchants with rare goods are known to operate from these places.
+
+<?image@4003##6?>: Church
+Houses of worship visited by pilgrims. Sacred flask uses can be increased in these locations.
+
+<?image@4017##6?>: Sorcerer's Rise
+Towers in which sorcerers experiment with their spellcraft, their findings often encrypted by cipher. Very occasionally you may come across a tower in which a sorcerer from the distant past once resided.
+403211;
+403212;
+403213;
+403214;
+403215;
+403216;
+403217;
+403218;
+403219;
+403220;Environmental info is indicated by the following icons:
+
+<?image@4001##6?>: Grace
+These sites offer places of respite for weary warriors, restoring HP, FP, status ailments, and uses of the sacred flask. Runes can be spent at Sites of Grace to level up.
+
+<?image@4055##6?>: Spectral Hawk Tree
+Trees where spectral hawks rest their wings. Warriors can take to the skies via the spectral road. You can find these roads marked on the map.
+
+<?image@4137##6?>: Spiritstream
+Energy that gushes forth from great rents in the land, allowing those who attune with its flow to reach great heights.
+403221;
+403222;
+403223;
+403224;
+403225;
+403226;
+403227;
+403228;
+403229;
+403230;Other notable field information is indicated by the following icons:
+
+<?image@4058##6?>: Scarab
+Carriers of valuable things. Talismans can be taken from them.
+
+<?image@4153##6?>: Buried Treasure
+Chests containing rare and precious objects, hidden such that others would not find them.
+
+<?image@4092##6?>: Mission Objective
+Indicates the task at hand for the Nightfarers. Will only appear under certain circumstances.
+403300;Pins can be placed on nearby items, sharing item info and location to allies.
+
+Check details on item using the Map menu.
+
+<?keyicon@128?> over nearby item: Place pin on item
+403301;
+403302;
+403303;
+403304;
+403305;
+403306;
+403307;
+403308;
+403309;
+403310;Find berries, flowers, butterflies, and other materials across the Lands Between.
+
+These materials offer temporary effects.
+
+Materials collected by allies have a lingering effect. Go to that location to benefit from the effect.
+
+<?keyicon@122?> near vegetation or other material: Obtain material
+403311;
+403312;
+403313;
+403314;
+403315;
+403316;
+403317;
+403318;
+403319;
+403320;In rare cases, the lingering phantoms of warriors in other worlds appear in the Lands Between.
+
+These phantoms are fleeting, but resonating with them through touch replenishes the Ultimate Art gauge.
+
+Equipment can be extracted from fallen phantoms as well. The victim's grief compounds, and their yearnings are passed on to the player who claims the heirloom.
+
+N.B. Phantoms are shared in online mode
+Once a phantom is shared, it can be viewed in offline mode
+403321;
+403322;
+403323;
+403324;
+403325;
+403326;
+403327;
+403328;
+403329;
+403330;Check the attack power and passive effects of armaments upon obtaining them, or by using the Equipment menu.
+
+Attack power is affected by the character's stats.
+
+View detailed explanations of skills and passive effects using the Equipment menu.
+
+<?keyicon@210?> on Equipment menu: Detailed view
+
+403331;
+403332;
+403333;
+403334;
+403335;
+403336;
+403337;
+403338;
+403339;
+403340;Switch between above and below ground on the Map menu to reveal the land's underground tunnels.
+
+In certain locations, underground formations other than tunnels can also be seen.
+
+<?keyicon@307?> on the Map menu: Show tunnel
+403360;You can affix your own pins to the map, as well as those of your allies. You can also stack your own pins atop others.
+
+Hold <?keyicon@311?> while an ally's pin is centered on the screen: Stack pin
+403361;
+403362;
+403363;
+403364;
+403365;
+403366;
+403367;
+403368;
+403369;
+403370;You can have your character perform simple poses through the gestures found in the Equipment menu.
+
+You can obtain new gestures through the Small Jar Bazaar, as well as through other means.
+
+Press <?keyicon@208?> while the Equipment menu is open: Show gestures
+403371;
+403372;
+403373;
+403374;
+403375;
+403376;
+403377;
+403378;
+403379;
+403380;Defeating enemies in the Lands Between will earn runes. Runes can be used to purchase items, level up characters, and much more.
+
+When out on an expedition, murk is accumulated at the Roundtable Hold. Murk can be used to purchase items through the Small Jar Bazaar and other traders.
+
+Runes are lost upon launching an expedition, but murk will remain until spent.
+403381;
+403382;
+403383;
+403384;
+403385;
+403386;
+403387;
+403388;
+403389;
+403390;The Night corrodes the earth, triggering regional cataclysms. The Night's corrosive grip robs the region's denizens of their self-will and unleashes terrifying strength within them.
+
+Cataclysms are said to link to other worlds, allowing those who failed to traverse the Night to wreak havoc.
+
+Braving a cataclysm can yield fine accoutrements and a great many runes, but at great risk.
+403391;
+403392;
+403393;
+403394;
+403395;
+403396;
+403397;
+403398;
+403399;
+403400;A forest transformed by the power of an outer god, overrun by scarlet rot and filled with all manner of decay.
+
+But life has found ways to resist. Survivors of the forest built a tower of fire to cleanse rotting miasma, and nurture materials that temporarily stave off rot.
+
+Legend speaks of a secret protective forest blessing hidden inside the tower, alongside the countless heirlooms of would-be treasure seekers who lost their way.
+403401;
+403402;
+403403;
+403404;
+403405;
+403406;
+403407;
+403408;
+403409;
+403410;A lost city that was desolated in a single night and sealed underground, but recently resurfaced.
+
+The vast city, showing no signs of life, is brimming with curses and overrun by undead; the sole remains of those who sought the secret treasures said to be hidden in there.
+
+An object from an age long past lies enshrined here—the means to duplicate any weapon, or so it is said.
+403411;
+403412;
+403413;
+403414;
+403415;
+403416;
+403417;
+403418;
+403419;
+403420;The First Peak.
+
+In the wintry cold of the First Peak, only the strongest survive, and a dragon who commands frost has thrived longer than any other.
+
+Legend states that a secret protective blessing that manipulates frost can be found at the peak, but the dragon pounces on anyone who might claim it.
+403421;
+403422;
+403423;
+403424;
+403425;
+403426;
+403427;
+403428;
+403429;
+403430;A sublime smoldering crater.
+
+An ancient temple built to honor the smithing arts that were acts of the divine.
+
+Eruptions over the ages have laid ruin to most, but one last ancient forging art remains, close to the crater.
+
+According to legend, he who braves the treacherous heights will forge a legendary weapon.
+403500;As you venture into the Deep of Night, your rating will change based on your victories and losses.
+
+When you reach certain rating thresholds, your "Depth" will increase. If your rating continues to drop, you will lose "Depth," but once you have reached Depth 2, you will not drop back to Depth 1. At Depth 3, your "Depth" will not be reduced for several expeditions.
+
+There are 5 Depths in total.
+
+ <?image@4500##17?>Depth 1: Rating 0-999
+ <?image@4501##17?>Depth 2: Rating 1000-1999
+ <?image@4502##17?>Depth 3: Rating 2000-3999
+ <?image@4503##17?>Depth 4: Rating 4000-5999
+ <?image@4504##17?>Depth 5: Rating 6000+
+
+You will be matched with players of the same Depth, but the pool of eligible players will be expanded to include players with different Depths after a certain amount of time.

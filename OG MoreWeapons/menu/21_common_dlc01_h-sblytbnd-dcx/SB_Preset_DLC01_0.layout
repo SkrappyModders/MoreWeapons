@@ -1,0 +1,4 @@
+<TextureAtlas imagePath="W:\CL\data\Target\INTERROOT_win64\menu\ScaleForm\Tif\21_Common_DLC01\High\SB_Preset_DLC01_0.tif" width="2048" height="2048">
+	<SubTexture name="MENU_Ch_09.png" x="0" width="986" y="0" height="1414" originalWidth="986" originalHeight="1414" half="0"/>
+	<SubTexture name="MENU_Ch_10.png" x="992" width="986" y="0" height="1414" originalWidth="986" originalHeight="1414" half="0"/>
+</TextureAtlas>

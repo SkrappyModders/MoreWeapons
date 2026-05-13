@@ -1,0 +1,54 @@
+4080;Opens only for those who wield merit
+70010;Hark, the murmuring of waves...
+70011;
+70012;
+70013;
+70014;
+70015;
+70016;
+70017;
+70018;
+70019;
+70020;A rich aroma drifts from somewhere
+70021;
+70022;
+70023;
+70024;
+70025;
+70026;
+70027;
+70028;
+70029;
+70030;By imbuing the shard of Night with sorcerous power, it begins to faintly pulse
+70031;
+70032;
+70033;
+70034;
+70035;
+70036;
+70037;
+70038;
+70039;
+70040;From somewhere, the sound of a heavy door opening rings out
+70041;
+70042;
+70043;
+70044;
+70045;
+70046;
+70047;
+70048;
+70049;
+70050;A rich aroma drifts from somewhere nearby
+70051;
+70052;
+70053;
+70054;
+70055;
+70056;
+70057;
+70058;
+70059;
+70060;Edgar "Blackcoat" Northerncroft
+Esteemed Patriarch of House Northerncroft
+70100;<?heroName?>'s journal was updated by the recovered memory fragment

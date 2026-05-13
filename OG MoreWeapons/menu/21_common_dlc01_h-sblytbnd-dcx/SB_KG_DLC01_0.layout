@@ -1,0 +1,8 @@
+<TextureAtlas imagePath="W:\CL\data\Target\INTERROOT_win64\menu\ScaleForm\Tif\21_Common_DLC01\High\SB_KG_DLC01_0.tif" width="512" height="512">
+	<SubTexture name="KG_MENU_MAP_071.png" x="0" width="186" y="0" height="114" originalWidth="186" originalHeight="114" half="0"/>
+	<SubTexture name="KG_MENU_MAP_073.png" x="192" width="186" y="0" height="114" originalWidth="186" originalHeight="114" half="0"/>
+	<SubTexture name="KG_MENU_MAP_074.png" x="0" width="186" y="120" height="114" originalWidth="186" originalHeight="114" half="0"/>
+	<SubTexture name="KG_MENU_MAP_075.png" x="192" width="186" y="120" height="114" originalWidth="186" originalHeight="114" half="0"/>
+	<SubTexture name="KG_MENU_MAP_077.png" x="0" width="186" y="240" height="114" originalWidth="186" originalHeight="114" half="0"/>
+	<SubTexture name="KG_MENU_MAP_078.png" x="0" width="186" y="360" height="114" originalWidth="186" originalHeight="114" half="0"/>
+</TextureAtlas>

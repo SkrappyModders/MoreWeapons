@@ -1,0 +1,20 @@
+110005;Returning to title screen during session will affect Depth rating depending on progress.
+Proceed?
+110006;
+110007;
+110008;
+110009;
+110010;
+110011;
+110012;
+110013;
+110014;
+110015;Returning to desktop during session will affect Depth rating depending on progress.
+Proceed?
+136014;Enter a name to save this preset
+136015;This will overwrite present placement. Current placement will be lost. Proceed?
+136016;All relics are selected.
+
+Are you certain you wish to sell all relics?
+140002;Cannot begin remembrance while matchmaking
+140003;Cannot resume remembrance while matchmaking

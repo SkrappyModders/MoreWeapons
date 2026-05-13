@@ -1,0 +1,2848 @@
+12;
+13;
+14;
+15;
+16;
+17;
+18;
+19;
+20;
+40;
+41;
+42;
+43;
+44;
+45;
+46;
+47;
+48;
+49;
+50;
+51;
+52;
+53;
+54;
+55;
+56;
+57;
+58;
+59;
+60;
+61;
+62;
+63;
+64;
+65;
+66;
+67;
+68;
+69;
+94;
+95;
+96;
+97;
+98;
+99;
+100;Creates a summon sign for cooperative multiplayer
+101;Creates a summon sign for competitive multiplayer
+102;Attempts invasion of other player's world
+103;Sends another, or oneself, home
+104;When invaded, requests the aid of a hunter
+105;Answers requests for summoning from hunters
+106;Used to write messages to other worlds
+107;Attempts repeat invasion of last targeted world
+108;Lures in invaders
+109;Sends a co-op sign to summoning pools
+110;Sends a hostile sign to summoning pools
+111;Attempts invasion of other player's world
+112;Attempts invasion of other player's world
+113;Attempts repeat invasion of last targeted world
+114;Attempts repeat invasion of last targeted world
+115;Lose all runes, return to last site of lost grace visited
+130;Summon and ride Torrent, the spectral steed
+131;
+132;
+133;
+134;
+135;Give blessing of blood to enemies in invaded world
+150;Reveals co-op and hostile summoning signs
+170;Creates a summon sign for cooperative multiplayer
+171;Creates a summon sign for competitive multiplayer
+172;Attempts invasion of other player's world
+173;
+174;When invaded, requests the aid of a hunter
+175;Answers requests for summoning from hunters
+176;
+177;
+178;Lures in invaders
+179;Sends a co-op summoning sign to summoning pools
+180;Sends a hostile summoning sign to summoning pools
+181;Summon and ride Torrent, the spectral steed
+182;Reveals co-op and hostile summoning signs
+183;Attempts invasion of other player's world
+184;Attempts invasion of other player's world
+185;
+186;
+187;
+188;
+189;
+190;Grants the blessing of an equipped Great Rune upon use
+191;Raises all attributes
+192;Raises maximum HP, FP and stamina
+193;Greatly raises maximum HP
+194;Restores HP upon defeating enemies
+195;Grants a blessing of blood to phantoms
+196;Attacks recover HP after damage is taken
+197;
+198;
+199;
+200;Restores HP, but is currently empty
+201;Restores HP
+202;Restores HP, but is currently empty
+203;Restores HP
+204;Restores HP, but is currently empty
+205;Restores HP
+206;Restores HP, but is currently empty
+207;Restores HP
+208;Restores HP, but is currently empty
+209;Restores HP
+210;Restores HP, but is currently empty
+211;Restores HP
+212;Restores HP, but is currently empty
+213;Restores HP
+214;Restores HP, but is currently empty
+215;Restores HP
+216;
+217;
+218;
+219;
+220;Restores FP, but is currently empty
+221;Restores FP
+222;Restores FP, but is currently empty
+223;Restores FP
+224;Restores FP, but is currently empty
+225;Restores FP
+226;Restores FP, but is currently empty
+227;Restores FP
+228;Restores FP, but is currently empty
+229;Restores FP
+230;Restores FP, but is currently empty
+231;Restores FP
+232;Restores FP, but is currently empty
+233;Restores FP
+234;Restores FP, but is currently empty
+235;Restores FP
+250;Bestows various special effects
+251;Bestows various special effects, but is empty now
+300;Throw at enemies to inflict fire damage
+301;Throw at enemies to inflict heavy fire damage
+302;Uses FP. Throw at enemies to inflict heavy fire damage.
+320;Throw at enemies to inflict lightning damage
+321;Throw at enemies to inflict heavy lightning damage
+322;
+323;
+324;
+325;
+326;
+327;
+328;
+329;
+330;Throw at enemies to cause buildup of deadly poison
+331;
+332;
+333;
+334;
+335;
+336;
+337;
+338;
+339;
+340;Throw to release a swarm of bloodflies
+341;
+342;
+343;
+344;
+345;
+346;
+347;
+348;
+349;
+350;Throw at enemies to inflict holy damage
+351;Uses FP. Throw at enemies to inflict heavy holy damage.
+352;
+353;
+354;
+355;
+356;
+357;
+358;
+359;
+360;Throw at enemies to cause buildup of frost
+361;
+362;
+363;
+364;
+365;
+366;
+367;
+368;
+369;
+370;Throw at enemies to cause buildup of poison
+371;
+372;
+373;
+374;
+375;
+376;
+377;
+378;
+379;
+380;Throw at enemies to soak them in oil
+381;
+382;
+383;
+384;
+385;
+386;
+387;
+388;
+389;
+390;Throw at enemies to lure human-build foes
+391;Throw at enemies to lure beastly prey
+392;
+393;
+394;
+395;
+396;
+397;
+398;
+399;
+400;Throw behind to inflict fire damage
+420;Throw behind to inflict lightning damage
+421;
+422;
+423;
+424;
+425;
+426;
+427;
+428;
+429;
+430;Throw behind to cause buildup of deadly poison
+431;
+432;
+433;
+434;
+435;
+436;
+437;
+438;
+439;
+440;Throw behind to cause buildup of poison
+441;
+442;
+443;
+444;
+445;
+446;
+447;
+448;
+449;
+450;Throw behind to douse enemies in oil
+451;
+452;
+453;
+454;
+455;
+456;
+457;
+458;
+459;
+460;Uses FP. Throw behind to inflict magic damage.
+461;
+462;
+463;
+464;
+465;
+466;
+467;
+468;
+469;
+470;Throw behind to release a swarm of flies
+471;
+472;
+473;
+474;
+475;
+476;
+477;
+478;
+479;
+480;Throw behind to cause frostbite build-up
+481;
+482;
+483;
+484;
+485;
+486;
+487;
+488;
+489;
+490;Creates heat cloud, causing continuous fire damage
+491;
+492;
+493;
+494;
+495;
+496;
+497;
+498;
+499;
+500;
+501;
+502;
+503;
+504;
+505;
+506;
+507;
+508;
+509;
+510;Uses FP. Throw behind to inflict holy damage.
+600;Creates heat cloud, causing continuous fire damage
+601;
+602;
+603;
+604;
+605;
+606;
+607;
+608;
+609;
+610;Uses FP. Throw to impede healing using a flask of tears.
+630;Throw to douse enemy with accursed blood
+631;
+632;
+633;
+634;
+635;
+636;
+637;
+638;
+639;
+640;Throw at enemies to cause buildup of sleep
+641;
+642;
+643;
+644;
+645;
+646;
+647;
+648;
+649;
+650;Throw at enemies to spawn vengeful spirits
+651;
+652;
+653;
+654;
+655;
+656;
+657;
+658;
+659;
+660;Throw at enemies to inflict magic damage
+661;Uses FP. Throw to inflict heavy magic damage.
+662;
+663;
+664;
+665;
+666;
+667;
+668;
+669;
+670;Throw at enemies to cause buildup of scarlet rot
+700;Rise from defeat a single time
+810;On horseback, feed to Torrent to restore HP
+811;On horseback, feed to Torrent to greatly restore HP
+812;On horseback, feed to Torrent to vastly restore HP
+813;
+814;
+815;
+816;
+817;
+818;
+819;
+820;Greatly boosts physical damage negation for a time
+821;
+822;
+823;
+824;
+825;
+826;
+827;
+828;
+829;
+830;Boosts physical damage negation for a time
+900;Alleviates poison buildup and cures poison
+901;
+902;
+903;
+904;
+905;
+906;
+907;
+908;
+909;
+910;Alleviates impending blood loss
+911;
+912;
+913;
+914;
+915;
+916;
+917;
+918;
+919;
+920;Alleviates buildup of frost
+921;
+922;
+923;
+924;
+925;
+926;
+927;
+928;
+929;
+930;Alleviates buildup of sleep
+931;
+932;
+933;
+934;
+935;
+936;
+937;
+938;
+939;
+940;Alleviates scarlet rot buildup and cures rot
+941;
+942;
+943;
+944;
+945;
+946;
+947;
+948;
+949;
+950;Alleviates death blight buildup
+951;
+952;
+953;
+954;
+955;
+956;
+957;
+958;
+959;
+960;Alleviates madness buildup
+1000;Restores HP, but is currently empty
+1001;Restores HP
+1002;Restores HP, but is currently empty
+1003;Restores HP
+1004;Restores HP, but is currently empty
+1005;Restores HP
+1006;Restores HP, but is currently empty
+1007;Restores HP
+1008;Restores HP, but is currently empty
+1009;Restores HP
+1010;Restores HP, but is currently empty
+1011;Restores HP
+1012;Restores HP, but is currently empty
+1013;Restores HP
+1014;Restores HP, but is currently empty
+1015;Restores HP
+1016;Restores HP, but is currently empty
+1017;Restores HP
+1018;Restores HP, but is currently empty
+1019;Restores HP
+1020;Restores HP, but is currently empty
+1021;Restores HP
+1022;Restores HP, but is currently empty
+1023;Restores HP
+1024;Restores HP, but is currently empty
+1025;Restores HP
+1050;Restores FP, but is currently empty
+1051;Restores FP
+1052;Restores FP, but is currently empty
+1053;Restores FP
+1054;Restores FP, but is currently empty
+1055;Restores FP
+1056;Restores FP, but is currently empty
+1057;Restores FP
+1058;Restores FP, but is currently empty
+1059;Restores FP
+1060;Restores FP, but is currently empty
+1061;Restores FP
+1062;Restores FP, but is currently empty
+1063;Restores FP
+1064;Restores FP, but is currently empty
+1065;Restores FP
+1066;Restores FP, but is currently empty
+1067;Restores FP
+1068;Restores FP, but is currently empty
+1069;Restores FP
+1070;Restores FP, but is currently empty
+1071;Restores FP
+1072;Restores FP, but is currently empty
+1073;Restores FP
+1074;Restores FP, but is currently empty
+1075;Restores FP
+1100;Temporarily boosts stamina recovery
+1101;
+1102;
+1103;
+1104;
+1105;
+1106;
+1107;
+1108;
+1109;
+1110;Temporarily boosts immunity
+1111;
+1112;
+1113;
+1114;
+1115;
+1116;
+1117;
+1118;
+1119;
+1120;Temporarily boosts robustness
+1121;
+1122;
+1123;
+1124;
+1125;
+1126;
+1127;
+1128;
+1129;
+1130;Temporarily boosts focus
+1131;
+1132;
+1133;
+1134;
+1135;
+1136;
+1137;
+1138;
+1139;
+1140;Temporarily boosts immunity, robustness and focus
+1141;
+1142;
+1143;
+1144;
+1145;
+1146;
+1147;
+1148;
+1149;
+1150;Temporarily boosts magic damage negation
+1151;
+1152;
+1153;
+1154;
+1155;
+1156;
+1157;
+1158;
+1159;
+1160;Temporarily boosts fire damage negation
+1161;
+1162;
+1163;
+1164;
+1165;
+1166;
+1167;
+1168;
+1169;
+1170;Temporarily boosts lightning damage negation
+1171;
+1172;
+1173;
+1174;
+1175;
+1176;
+1177;
+1178;
+1179;
+1180;Temporarily boosts holy damage negation
+1181;
+1182;
+1183;
+1184;
+1185;
+1186;
+1187;
+1188;
+1189;
+1190;Temporarily boosts item discovery
+1191;
+1192;
+1193;
+1194;
+1195;
+1196;
+1197;
+1198;
+1199;
+1200;Boosts rune acquisition for a time
+1201;
+1202;
+1203;
+1204;
+1205;
+1206;
+1207;
+1208;
+1209;
+1210;Temporarily boosts physical attack
+1211;
+1212;
+1213;
+1214;
+1215;
+1216;
+1217;
+1218;
+1219;
+1220;Boost instant death resistance for a short time
+1235;Restores HP but also poisons the user
+1236;
+1237;
+1238;
+1239;
+1240;Yellowing, oozing eyeball of the infirm
+1290;Restores FP
+1310;Temporarily boosts immunity
+1311;
+1312;
+1313;
+1314;
+1315;
+1316;
+1317;
+1318;
+1319;
+1320;Temporarily boosts robustness
+1321;
+1322;
+1323;
+1324;
+1325;
+1326;
+1327;
+1328;
+1329;
+1330;Temporarily boosts focus
+1331;
+1332;
+1333;
+1334;
+1335;
+1336;
+1337;
+1338;
+1339;
+1340;Temporarily boosts immunity, robustness and focus
+1341;
+1342;
+1343;
+1344;
+1345;
+1346;
+1347;
+1348;
+1349;
+1350;Boost instant death resistance for a short time
+1400;Coats armament, inflicting fire damage
+1401;
+1402;
+1403;
+1404;
+1405;
+1406;
+1407;
+1408;
+1409;
+1410;Coats armament, inflicting lightning damage
+1411;
+1412;
+1413;
+1414;
+1415;
+1416;
+1417;
+1418;
+1419;
+1420;Coats armament, inflicting magic damage
+1421;
+1422;
+1423;
+1424;
+1425;
+1426;
+1427;
+1428;
+1429;
+1430;Coats armament, inflicting holy damage
+1431;
+1432;
+1433;
+1434;
+1435;
+1436;
+1437;
+1438;
+1439;
+1440;Coats armament, inflicting blood loss
+1441;
+1442;
+1443;
+1444;
+1445;
+1446;
+1447;
+1448;
+1449;
+1450;Coats armament, inflicting sleep
+1451;
+1452;
+1453;
+1454;
+1455;
+1456;
+1457;
+1458;
+1459;
+1460;Coats armament, inflicting poison
+1461;
+1462;
+1463;
+1464;
+1465;
+1466;
+1467;
+1468;
+1469;
+1470;Coats armament, inflicting frost
+1471;
+1472;
+1473;
+1474;
+1475;
+1476;
+1477;
+1478;
+1479;
+1480;Boosts anti-dragon and physical attack
+1481;
+1482;
+1483;
+1484;
+1485;
+1486;
+1487;
+1488;
+1489;
+1490;Coats armament, inflicting scarlet rot
+1491;
+1492;
+1493;
+1494;
+1495;
+1496;
+1497;
+1498;
+1499;
+1500;Quickly coats armament, inflicting fire damage
+1501;
+1502;
+1503;
+1504;
+1505;
+1506;
+1507;
+1508;
+1509;
+1510;Quickly coats armament, inflicting lightning damage
+1511;
+1512;
+1513;
+1514;
+1515;
+1516;
+1517;
+1518;
+1519;
+1520;Quickly coats armament, inflicting magic damage
+1521;
+1522;
+1523;
+1524;
+1525;
+1526;
+1527;
+1528;
+1529;
+1530;Quickly coats armament, inflicting holy damage
+1531;
+1532;
+1533;
+1534;
+1535;
+1536;
+1537;
+1538;
+1539;
+1540;Quickly coats armament, inflicting blood loss
+1541;
+1542;
+1543;
+1544;
+1545;
+1546;
+1547;
+1548;
+1549;
+1550;Quickly coats armament, inflicting sleep
+1551;
+1552;
+1553;
+1554;
+1555;
+1556;
+1557;
+1558;
+1559;
+1560;Quickly coats armament, inflicting poison
+1561;
+1562;
+1563;
+1564;
+1565;
+1566;
+1567;
+1568;
+1569;
+1570;Quickly coats weapon, inflicting frostbite
+1590;Quickly coats armament, inflicting scarlet rot
+1690;Boosts guarding ability and all damage negation
+1691;
+1692;
+1693;
+1694;
+1695;
+1696;
+1697;
+1698;
+1699;
+1700;Throw at enemies to inflict damage
+1701;
+1702;
+1703;
+1704;
+1705;
+1706;
+1707;
+1708;
+1709;
+1710;Throw at enemies to inflict damage
+1711;
+1712;
+1713;
+1714;
+1715;
+1716;
+1717;
+1718;
+1719;
+1720;Throw at enemies to inflict damage and build up poison
+1721;
+1722;
+1723;
+1724;
+1725;
+1726;
+1727;
+1728;
+1729;
+1730;Throw at enemies to inflict damage and build up onset of blood loss
+1731;
+1732;
+1733;
+1734;
+1735;
+1736;
+1737;
+1738;
+1739;
+1740;Throw at enemies to inflict magic damage
+1741;
+1742;
+1743;
+1744;
+1745;
+1746;
+1747;
+1748;
+1749;
+1750;Throw fanned-out knives at enemies to inflict damage
+1751;
+1752;
+1753;
+1754;
+1755;
+1756;
+1757;
+1758;
+1759;
+1760;Material used for crafting items
+1810;Utterly entrances wild beasts
+1830;Explodes when thrown, inflicting fire damage
+1831;Explodes when thrown together, inflicting fire damage
+1832;
+1833;
+1834;
+1835;
+1836;
+1837;
+1838;
+1839;
+1840;Throw at enemies to cause buildup of poison
+1841;Throw together to cause buildup of poison
+2020;Shines with colored light when placed, serving as a guide
+2021;
+2022;
+2023;
+2024;
+2025;
+2026;
+2027;
+2028;
+2029;
+2030;Emits a faint light from the location it is placed
+2031;
+2032;
+2033;
+2034;
+2035;
+2036;
+2037;
+2038;
+2039;
+2040;Allows viewer to see faraway things
+2041;
+2042;
+2043;
+2044;
+2045;
+2046;
+2047;
+2048;
+2049;
+2050;Light shows the path, but without order
+2070;Attach to waist to illuminate surroundings
+2071;
+2072;
+2073;
+2074;
+2075;
+2076;
+2077;
+2078;
+2079;
+2080;Deflects the power of the Black Blade
+2081;
+2082;
+2083;
+2084;
+2085;
+2086;
+2087;
+2088;
+2089;
+2090;Beast Clergyman seeks and devours these
+2091;
+2092;
+2093;
+2094;
+2095;
+2096;
+2097;
+2098;
+2099;
+2100;Temporarily reduces fall damage/sound and sound of footsteps
+2120;Removes filth and accumulations on the body
+2121;
+2122;
+2123;
+2124;
+2125;
+2126;
+2127;
+2128;
+2129;
+2130;Carry out Absolution at the Church of Vows
+2131;
+2132;
+2133;
+2134;
+2135;
+2136;
+2137;
+2138;
+2139;
+2140;Briefly binds Margit, once imprisoned, to earth
+2141;
+2142;
+2143;
+2144;
+2145;
+2146;
+2147;
+2148;
+2149;
+2150;Briefly binds Mohg, once imprisoned, to earth
+2151;
+2152;
+2153;
+2154;
+2155;
+2156;
+2157;
+2158;
+2159;
+2160;Audience with Mohg will be granted, one day
+2190;Subdues a once-accepted frenzied flame
+2191;
+2192;
+2193;
+2194;
+2195;
+2196;
+2197;
+2198;
+2199;
+2200;Emits a voice that says "Hello"
+2201;Emits a voice that says "Thank you"
+2202;Emits a voice that says "Apologies"
+2203;Emits a voice that says "Wonderful"
+2204;Emits a voice that says "Please help"
+2205;Emits a voice that says "My beloved"
+2206;Emits a voice that says "Let's get to it"
+2207;Emits a voice that says "You're beautiful"
+2290;Use to gain many runes
+2900;Use to gain a small number of runes
+2901;Use to gain a small number of runes
+2902;Use to gain runes
+2903;Use to gain runes
+2904;Use to gain runes
+2905;Use to gain many runes
+2906;Use to gain many runes
+2907;Use to gain many runes
+2908;Use to gain many runes
+2909;Use to gain a great many runes
+2910;Use to gain a great many runes
+2911;Use to gain a great many runes
+2912;Use to gain a great many runes
+2913;Use to gain a multitude of runes
+2914;Use to gain an abundance of runes
+2915;Use to gain an abundance of runes
+2916;Use to gain an abundance of runes
+2917;Use to gain an abundance of runes
+2918;Use to gain an abundance of runes
+2919;Use to gain an enormous abundance of runes
+2950;Take the power of its namesake via Finger Reader
+2951;Take the power of its namesake via Finger Reader
+2952;Take the power of its namesake via Finger Reader
+2953;Take the power of its namesake via Finger Reader
+2954;Take the power of its namesake via Finger Reader
+2955;Take the power of its namesake via Finger Reader
+2956;Take the power of its namesake via Finger Reader
+2957;Take the power of its namesake via Finger Reader
+2958;Take the power of its namesake via Finger Reader
+2959;Take the power of its namesake via Finger Reader
+2960;Take the power of its namesake via Finger Reader
+2961;Take the power of its namesake via Finger Reader
+2962;Take the power of its namesake via Finger Reader
+2963;Take the power of its namesake via Finger Reader
+2964;Take the power of its namesake via Finger Reader
+2990;Use to gain many runes
+2991;
+2992;
+2993;
+2994;
+2995;
+2996;
+2997;
+2998;
+2999;
+3000;Uses FP to spray spirit vapor
+3001;
+3002;
+3003;
+3004;
+3005;
+3006;
+3007;
+3008;
+3009;
+3010;Uses FP to unleash wraiths that chase down foes
+3011;Uses FP to unleash many wraiths that chase down foes
+3012;
+3013;
+3014;
+3015;
+3016;
+3017;
+3018;
+3019;
+3020;Uses FP to call down a deluge of light
+3021;
+3022;
+3023;
+3024;
+3025;
+3026;
+3027;
+3028;
+3029;
+3030;Throw to produce magic bolts on impact
+3031;
+3032;
+3033;
+3034;
+3035;
+3036;
+3037;
+3038;
+3039;
+3040;Uses FP to mimic nearby objects
+3041;
+3042;
+3043;
+3044;
+3045;
+3046;
+3047;
+3048;
+3049;
+3050;Crush gem to produce magic bolts
+3051;Crush gem to produce many magic bolts
+3052;
+3053;
+3054;
+3055;
+3056;
+3057;
+3058;
+3059;
+3060;Throw near foes to make fan-shaped gravitational shockwave
+3061;
+3062;
+3063;
+3064;
+3065;
+3066;
+3067;
+3068;
+3069;
+3070;Throw at foe to cause a gravitational explosion
+3071;
+3072;
+3073;
+3074;
+3075;
+3076;
+3077;
+3078;
+3079;
+3080;Uses FP to ring bell and calls prowling wraiths
+3300;Consumes FP, allowing weapon to purify undead foes
+3301;
+3302;
+3303;
+3304;
+3305;
+3306;
+3307;
+3308;
+3309;
+3310;Continuously heal nearby allies
+3311;Uses FP to continuously heal chaos followers
+3312;
+3313;
+3314;
+3315;
+3316;
+3317;
+3318;
+3319;
+3320;Reveals more messages from other worlds
+3350;Mist briefly makes allies of foes
+3351;
+3352;
+3353;
+3354;
+3355;
+3356;
+3357;
+3358;
+3359;
+3360;Uses FP to temporarily boost poise
+3361;Uses FP to temporarily boost poise
+3500;Boosts attack power and reduces incoming damage once
+3501;
+3502;
+3503;
+3504;
+3505;
+3506;
+3507;
+3508;
+3509;
+3510;Broadly scatter sparks in a wide area
+3511;
+3512;
+3513;
+3514;
+3515;
+3516;
+3517;
+3518;
+3519;
+3520;Raises defenses but lowers mobility
+3550;Raises attack but also damage received
+3580;Releases a poison mist that travels forwards
+3610;Releases acidic mist and lowers attack
+8000;Use to break one imp statue seal but lost upon use
+8001;
+8002;
+8003;
+8004;
+8005;Gain entry somewhere
+8102;Raise in prayer to gain protection
+8103;
+8104;
+8105;Join medallions to operate Grand Lift of Dectus
+8106;Join medallions to operate Grand Lift of Dectus
+8107;Operates Grand Lift of Rold
+8108;
+8109;Key to open the academy's two sealed gates
+8110;
+8111;Key revealing the hidden form of Carian Study Hall
+8112;
+8113;
+8114;
+8115;
+8116;
+8117;
+8118;
+8119;
+8120;
+8121;Ring of Lunar Princess Ranni's cold oath
+8122;
+8123;
+8124;
+8125;
+8126;Eyeball of the knight Vyke, inflamed yellow
+8127;Request from Volcano Manor
+Examine using <?keyicon@31?>
+8128;Tonic that banishes distress and bitter memories
+8129;Amnion from a womb that bore unintended offspring
+8130;Necklace worn everywhere by Irina
+8131;Letter addressed to the commander of Castle Morne
+8132;Request from Volcano Manor
+Examine using <?keyicon@31?>
+8133;Request from Volcano Manor
+Examine using <?keyicon@31?>
+8134;Key to the Volcano Manor drawing room
+8135;
+8136;Rya's necklace, stolen by a blackguard
+8137;Letter of invitation to Volcano Manor
+8138;
+8139;
+8140;
+8141;
+8142;Ingredient used in special draught
+8143;Letter of introduction addressed to Sellen
+8144;Glintstone from within Sellen's body
+8145;
+8146;Doll resembling Ranni the Witch
+8147;Asimi that has infected a tarnished
+8148;Godrick's Great Rune, devoid of any benediction
+8149;Radahn's Great Rune, devoid of any benediction
+8150;Morgott's Great Rune, devoid of any benediction
+8151;Rykard's Great Rune, devoid of any benediction
+8152;Mohg's Great Rune, devoid of any benediction
+8153;Malenia's Great Rune, devoid of any benediction
+8154;Pure white oath-cloth given by Varré
+8155;Bloodied white oath-cloth, dyed in a maiden's blood
+8156;Letter affixed to a graveyard crow's leg
+8157;
+8158;Bell that summons various spirits from ashen items
+8159;Hidden treasure of the Eternal City of Nokron
+8160;
+8161;Boc the demi-human's prized sewing needle
+8162;Special sewing needle for demigod attire
+8163;Enables armor adjustment at sites of grace
+8164;Small flask received from Preceptor Seluvis
+8165;
+8166;Glistening amber draught made for a scheme
+8167;Request from Volcano Manor to Patches
+Examine using <?keyicon@31?>
+8168;Castanets used by dancers from distant lands
+8169;Can release Master Lusat from his confinement
+8170;
+8171;Broach wrapped in red velvet
+8172;Mark of the Night of the Black Knives ritual
+8173;Request from Volcano Manor to Bernahl
+Examine using <?keyicon@31?>
+8174;Key to open the academy's two sealed gates
+8175;Join medallions to operate Grand Lift of Rold
+8176;Join medallions to operate Grand Lift of Rold
+8177;
+8178;
+8179;
+8180;
+8181;Letter written about the caravans
+8182;Can be used to mend the shattered Elden Ring
+8183;Can be used to mend the shattered Elden Ring
+8184;Can be used to mend the shattered Elden Ring
+8185;Material needed by Rennala to grant rebirth
+8186;Unseals sending gate, but disappears upon use
+8187;Doll resembling Ranni the Witch
+8188;Allows demigod garb alteration at sites of grace
+8189;Letter of confession found on Iji's corpse
+8190;Simple map showing location of black knifeprint
+Examine using <?keyicon@31?>
+8191;Cursemark carved into Lunar Princess Ranni's discarded flesh
+8192;The shedding of an Asimi that infected a tarnished
+8193;Curse grown on a body defiled by the Dung Eater
+8194;Ashes of a hawk which heeds no summons
+8195;An Asimi that infected a tarnished
+8196;Intricate needle of unalloyed gold
+8197;Unlocks sewer-gaol door beneath Leyndell
+8198;Simple map showing a meeting place
+Examine using <?keyicon@31?>
+8199;Key to treasure chest for Carian Princesses
+8200;Reminiscence of the painting "Homing Instinct"
+Examine using <?keyicon@31?>
+8201;Reminiscence of the painting "Resurrection"
+Examine using <?keyicon@31?>
+8202;Reminiscence of the painting "Champion's Song"
+Examine using <?keyicon@31?>
+8203;Reminiscence of the painting "Sorcerer"
+Examine using <?keyicon@31?>
+8204;Reminiscence of the painting "Prophecy"
+Examine using <?keyicon@31?>
+8205;Reminiscence of the painting "Flightless Bird"
+Examine using <?keyicon@31?>
+8206;Reminiscence of the painting "Redmane"
+Examine using <?keyicon@31?>
+8221;Farewell letter written in an inexpert hand
+Examine using <?keyicon@31?>
+8222;Keepsake of the warrior jar Alexander
+8223;Letter written in a trembling hand
+Examine using <?keyicon@31?>
+8224;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8225;A simple map, badly weathered
+Examine using <?keyicon@31?>
+8226;Note imparting knowledge in brief
+8227;A simple map, badly weathered
+8500;Enables the practice of item crafting
+8590;Can add new battle arts and affinities to weapons
+8591;
+8592;
+8593;
+8594;
+8595;
+8596;
+8597;
+8598;
+8599;
+8600;Map of Limgrave's western region
+8601;Map of Weeping peninsula
+8602;Map of Limgrave's eastern region
+8603;Map of Liurnia's eastern region
+8604;Map of Liurnia's northern region
+8605;Map of Liurnia's western region
+8606;Map of Altus Plateau and environs
+8607;Map of Leyndell Capital and environs
+8608;Map of Mt. Gelmir and environs
+8609;Map of Caelid and environs
+8610;Map of Dragonbarrow and environs
+8611;Map of Western Mountaintops of the Giants
+8612;Map of Eastern Mountaintops of the Giants
+8613;Map of Ainsel River and environs
+8614;Map of Lake of Rot and environs
+8615;Map of Siofra River and environs
+8616;Map of Mohgwyn Palace and environs
+8617;Map of Deeproot Depths and environs
+8618;Map of Consecrated Snowfield and environs
+8660;Simple map taken from an imp statue
+Examine using <?keyicon@31?>
+8700;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8701;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8702;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8703;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8704;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8705;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8706;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8707;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8708;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8709;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8710;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8711;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8712;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8713;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8714;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8715;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8716;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8717;Note imparting knowledge in brief
+Examine using <?keyicon@31?>
+8750;Note imparting knowledge in brief
+8751;Note imparting knowledge in brief
+8752;Note imparting knowledge in brief
+8753;Note imparting knowledge in brief
+8754;Note imparting knowledge in brief
+8755;Note imparting knowledge in brief
+8756;Note imparting knowledge in brief
+8757;Note imparting knowledge in brief
+8758;Note imparting knowledge in brief
+8759;Note imparting knowledge in brief
+8760;Note imparting knowledge in brief
+8761;Note imparting knowledge in brief
+8762;Note imparting knowledge in brief
+8763;Note imparting knowledge in brief
+8764;
+8765;Note imparting knowledge in brief
+8766;
+8767;Note imparting knowledge in brief
+8850;Give to a learned sorcerer to acquire new sorceries
+8851;Give to a learned sorcerer to acquire new sorceries
+8852;
+8853;
+8854;
+8855;Give to a learned cleric to acquire new incantations
+8856;Give to a learned cleric to acquire new incantations
+8857;Give to a learned cleric to acquire new incantations
+8858;Give to a learned cleric to acquire new incantations
+8859;Give to a learned cleric to acquire new incantations
+8860;Scroll containing incantations
+8861;Scroll containing incantations
+8862;Give to a learned cleric to acquire new incantations
+8863;Scroll containing incantations
+8864;Give to a learned cleric to acquire new incantations
+8865;Give to a learned cleric to acquire new incantations
+8866;Give to a learned sorcerer to acquire new sorceries
+8910;Offer to Twin Maiden Husks for new item access
+8911;Offer to Twin Maiden Husks for new item access
+8912;Offer to Twin Maiden Husks for new item access
+8913;Offer to Twin Maiden Husks for new item access
+8914;
+8915;Offer to Twin Maiden Husks for new item access
+8916;Offer to Twin Maiden Husks for new item access
+8917;Offer to Twin Maiden Husks for new item access
+8918;Offer to Twin Maiden Husks for new item access
+8919;Offer to Twin Maiden Husks for new item access
+8920;Offer to Twin Maiden Husks for new item access
+8921;Offer to Twin Maiden Husks for new item access
+8922;Offer to Twin Maiden Husks for new item access
+8923;Offer to Twin Maiden Husks for new item access
+8924;Offer to Twin Maiden Husks for new item access
+8925;Offer to Twin Maiden Husks for new item access
+8926;Offer to Twin Maiden Husks for new item access
+8927;Offer to Twin Maiden Husks for new item access
+8928;Offer to Twin Maiden Husks for new item access
+8929;Offer to Twin Maiden Husks for new item access
+8930;Offer to Twin Maiden Husks for new item access
+8931;Offer to Twin Maiden Husks for new item access
+8932;Offer to Twin Maiden Husks for new item access
+8933;Offer to Twin Maiden Husks for new item access
+8934;Offer to Twin Maiden Husks for new item access
+8935;Offer to Twin Maiden Husks for new item access
+8936;Offer to Twin Maiden Husks for new item access
+8937;Offer to Twin Maiden Husks for new item access
+8938;Offer to Twin Maiden Husks for new item access
+8939;Offer to Twin Maiden Husks for new item access
+8940;Offer to Twin Maiden Husks for new item access
+8941;Offer to Twin Maiden Husks for new item access
+8942;Offer to Twin Maiden Husks for new item access
+8943;Offer to Twin Maiden Husks for new item access
+8944;Offer to Twin Maiden Husks for new item access
+8945;Offer to Twin Maiden Husks for new item access
+8946;Offer to Twin Maiden Husks for new item access
+8947;Offer to Twin Maiden Husks for new item access
+8948;Offer to Twin Maiden Husks for new item access
+8949;
+8950;
+8951;Offer to Twin Maiden Husks for new item access
+8952;Offer to Twin Maiden Husks for new item access
+8953;Offer to Twin Maiden Husks for new item access
+8954;Offer to Twin Maiden Husks for new item access
+8955;Offer to Twin Maiden Husks for new item access
+8956;Offer to Twin Maiden Husks for new item access
+8957;Offer to Twin Maiden Husks for new item access
+8958;Offer to Twin Maiden Husks for new item access
+8959;Offer to Twin Maiden Husks for new item access
+8960;Offer to Twin Maiden Husks for new item access
+8961;Offer to Twin Maiden Husks for new item access
+8962;Offer to Twin Maiden Husks for new item access
+8963;Offer to Twin Maiden Husks for new item access
+8964;Offer to Twin Maiden Husks for new item access
+8965;Offer to Twin Maiden Husks for new item access
+8966;
+8967;
+8968;
+8969;
+8970;Grants choice of affinity upgrade to weapon
+8971;Grants choice of affinity upgrade to weapon
+8972;Grants choice of affinity upgrade to weapon
+8973;Grants choice of affinity upgrade to weapon
+8974;Grants choice of affinity upgrade to weapon
+8975;Snapped intricate needle of unalloyed gold
+8976;Repaired intricate needle of unalloyed gold
+8977;Golden prosthesis used by the one-armed Valkyrie
+8978;A piece of paper given by Sage Gowry
+Examine using <?keyicon@31?>
+8979;Said to tremble when close to Deathroot
+8980;Dagger received from Fia, Deathbed Companion
+9000;Learn gesture "Bow"
+9001;Learn gesture "Polite Bow"
+9002;Learn gesture "My Thanks"
+9003;Learn gesture "Curtsy"
+9004;Learn gesture "Reverential Bow"
+9005;Learn gesture "My Lord"
+9006;Learn gesture "Warm Welcome"
+9007;Learn gesture "Wave"
+9008;Learn gesture "Casual Greeting"
+9009;Learn gesture "Strength!"
+9010;Learn gesture "As You Wish"
+9011;Learn gesture "Point Forwards"
+9012;Learn gesture "Point Upwards"
+9013;Learn gesture "Point Downwards"
+9014;Learn gesture "Beckon"
+9015;Learn gesture "Wait!"
+9016;Learn gesture "Calm Down!"
+9017;Learn gesture "Nod In Thought"
+9018;Learn gesture "Extreme Repentance"
+9019;Learn gesture "Grovel For Mercy"
+9020;Learn gesture "Rallying Cry"
+9021;Learn gesture "Heartening Cry"
+9022;Learn gesture "By My Sword"
+9023;Learn gesture "Hoslow's Oath"
+9024;Learn gesture "Fire Spur Me"
+9025;The Carian oath
+9026;Learn gesture "Bravo!"
+9027;Learn gesture "Jump for Joy"
+9028;Learn gesture "Triumphant Delight"
+9029;Learn gesture "Fancy Spin"
+9030;Learn gesture "Finger Snap"
+9031;Learn gesture "Dejection"
+9032;Learn gesture "Patches' Crouch"
+9033;Learn gesture "Crossed Legs"
+9034;Learn gesture "Rest"
+9035;Learn gesture "Sitting Sideways"
+9036;Learn gesture "Dozing Cross-Legged"
+9037;Learn gesture "Spread Out"
+9038;
+9039;Learn gesture "Balled Up"
+9040;Learn gesture "What Do You Want?"
+9041;Learn gesture "Prayer"
+9042;Learn gesture "Desperate Prayer"
+9043;Learn gesture "Rapture"
+9044;
+9045;Learn gesture "Erudition"
+9046;Learn gesture "Outer Order"
+9047;Learn gesture "Inner Order"
+9048;Learn gesture "Golden Order Totality"
+9049;
+9050;
+9051;
+9052;
+9053;
+9054;
+9055;
+9056;
+9057;
+9058;
+9059;
+9060;Enables Prattling Pate "Hello"
+9061;Enables Prattling Pate "Thank you"
+9062;Enables Prattling Pate "Apologies"
+9063;Enables Prattling Pate "Wonderful"
+9064;Enables Prattling Pate "Please help"
+9065;Enables Prattling Pate "My beloved"
+9066;Enables Prattling Pate "Let's get to it"
+9067;Enables Prattling Pate "You're beautiful"
+9100;Information about sites of grace
+Examine using <?keyicon@31?>
+9101;Information about sorceries and incantations
+Examine using <?keyicon@31?>
+9102;Information about bows
+Examine using <?keyicon@31?>
+9103;Information about crouching
+Examine using <?keyicon@31?>
+9104;Information about stance-breaking
+Examine using <?keyicon@31?>
+9105;Information about Stakes of Marika
+Examine using <?keyicon@31?>
+9106;Information about guard counters
+Examine using <?keyicon@31?>
+9107;Information about the map
+Examine using <?keyicon@31?>
+9108;Information about Guidance of Grace
+Examine using <?keyicon@31?>
+9109;Information about horseback riding
+Examine using <?keyicon@31?>
+9110;Information about death
+Examine using <?keyicon@31?>
+9111;Information about summoning spirits
+Examine using <?keyicon@31?>
+9112;Information about guarding
+Examine using <?keyicon@31?>
+9113;Information about item crafting
+Examine using <?keyicon@31?>
+9114;
+9115;Information about Flask of Wondrous Physick
+Examine using <?keyicon@31?>
+9116;Information about adding skills
+Examine using <?keyicon@31?>
+9117;Information about birdseye telescopes
+Examine using <?keyicon@31?>
+9118;Information about spiritspring jumping
+Examine using <?keyicon@31?>
+9119;Information about vanquishing enemy groups
+Examine using <?keyicon@31?>
+9120;Information about Teardrop Scarabs
+Examine using <?keyicon@31?>
+9121;Information about summoning other players
+Examine using <?keyicon@31?>
+9122;Information about cooperative multiplayer
+Examine using <?keyicon@31?>
+9123;Information about competitive multiplayer
+Examine using <?keyicon@31?>
+9124;Information about invasion multiplayer
+Examine using <?keyicon@31?>
+9125;Information about hunter multiplayer
+Examine using <?keyicon@31?>
+9126;Information about the summoning pools
+Examine using <?keyicon@31?>
+9127;Information about Monument Icon
+Examine using <?keyicon@31?>
+9128;Information about requesting help from hunters
+Examine using <?keyicon@31?>
+9129;Information about skills
+Examine using <?keyicon@31?>
+9130;Information about fast travel to sites of grace
+Examine using <?keyicon@31?>
+9131;Information about strengthening armaments
+Examine using <?keyicon@31?>
+9132;Information about the Roundtable Hold
+Examine using <?keyicon@31?>
+9133;
+9134;Information about materials
+Examine using <?keyicon@31?>
+9135;Information about containers
+Examine using <?keyicon@31?>
+9136;Information about adding affinities to armaments
+Examine using <?keyicon@31?>
+9137;Information about pouches
+Examine using <?keyicon@31?>
+9138;Information about dodging
+Examine using <?keyicon@31?>
+9139;
+9140;Information about wielding armaments
+Examine using <?keyicon@31?>
+9141;Information about Great Runes
+Examine using <?keyicon@31?>
+9142;Information about the Cave of Knowledge
+Examine using <?keyicon@31?>
+9195;Information about multiplayer
+Examine using <?keyicon@31?>
+9196;
+9197;
+9198;
+9199;
+9200;Letter concerning traces of silvery slime found
+9201;Letter concerning traces of silvery slime found
+9202;
+9203;
+9204;
+9205;
+9206;
+9207;
+9208;
+9209;
+9300;Expands crafting repertoire
+9301;Expands crafting repertoire
+9302;Expands crafting repertoire
+9303;Expands crafting repertoire
+9304;Fugitive warrior recipe.  Adds craft able items
+9305;Expands crafting repertoire
+9306;Expands crafting repertoire
+9307;Expands crafting repertoire
+9308;Expands crafting repertoire
+9309;Expands crafting repertoire
+9310;Expands crafting repertoire
+9311;Expands crafting repertoire
+9312;Expands crafting repertoire
+9313;Expands crafting repertoire
+9314;
+9315;
+9316;
+9317;
+9318;
+9319;
+9320;Expands crafting repertoire
+9321;Expands crafting repertoire
+9322;Expands crafting repertoire
+9323;Expands crafting repertoire
+9324;Expands crafting repertoire
+9325;Expands crafting repertoire
+9326;Expands crafting repertoire
+9327;Expands crafting repertoire
+9328;Expands crafting repertoire
+9329;Expands crafting repertoire
+9330;Expands crafting repertoire
+9331;Expands crafting repertoire
+9332;
+9333;
+9334;
+9335;
+9336;
+9337;
+9338;
+9339;
+9340;Expands crafting repertoire
+9341;Expands crafting repertoire
+9342;Expands crafting repertoire
+9343;Expands crafting repertoire
+9344;Expands crafting repertoire
+9345;Expands crafting repertoire
+9346;Expands crafting repertoire
+9347;Expands crafting repertoire
+9348;Expands crafting repertoire
+9360;Expands crafting repertoire
+9361;Expands crafting repertoire
+9362;Expands crafting repertoire
+9363;Expands crafting repertoire
+9364;Expands crafting repertoire
+9365;Expands crafting repertoire
+9380;Expands crafting repertoire
+9381;Expands crafting repertoire
+9382;Expands crafting repertoire
+9383;Expands crafting repertoire
+9384;Expands crafting repertoire
+9385;Expands crafting repertoire
+9386;Expands crafting repertoire
+9387;Expands crafting repertoire
+9388;Expands crafting repertoire
+9389;Expands crafting repertoire
+9390;Expands crafting repertoire
+9391;Expands crafting repertoire
+9392;Expands crafting repertoire
+9393;Expands crafting repertoire
+9394;
+9395;
+9396;
+9397;
+9398;
+9399;
+9400;Expands crafting repertoire
+9401;Expands crafting repertoire
+9402;Expands crafting repertoire
+9403;Expands crafting repertoire
+9420;Expands crafting repertoire
+9421;Expands crafting repertoire
+9422;Expands crafting repertoire
+9423;Expands crafting repertoire
+9440;Expands crafting repertoire
+9441;Expands crafting repertoire
+9500;Container required for crafting cracked pot items
+9501;Container required for crafting ritual pot items
+9502;
+9503;
+9504;
+9505;
+9506;
+9507;
+9508;
+9509;
+9510;Container required for crafting perfume items
+9600;Enables new relic rite
+9601;Enables new relic rite
+9602;Enables new relic rite
+9603;Enables new relic rite
+9604;Enables new relic rite
+9605;Enables new relic rite
+9606;Enables new relic rite
+9607;Enables new relic rite
+9608;Enables new relic rite
+9609;Enables new relic rite
+9610;Enables new relic rite
+9611;Enables new relic rite
+9612;Enables new relic rite
+9613;Enables new relic rite
+9614;Enables new relic rite
+9615;Enables new relic rite
+9616;Enables new relic rite
+9617;Enables new relic rite
+9618;Enables new relic rite
+9619;Enables new relic rite
+9620;Enables new relic rite
+9621;Enables new relic rite
+9622;Enables new relic rite
+9623;Enables new relic rite
+9650;Enables new relic rite
+9651;Enables new relic rite
+9652;Enables new relic rite
+9700;Enables new relic rite
+9701;Enables new relic rite
+9702;Enables new relic rite
+9703;Enables new relic rite
+9704;Enables new relic rite
+9705;Enables new relic rite
+9706;Enables new relic rite
+9707;Enables new relic rite
+9708;Enables new relic rite
+9709;Enables new relic rite
+9710;Enables new relic rite
+9711;Enables new relic rite
+9712;Enables new relic rite
+9713;Enables new relic rite
+9714;Enables new relic rite
+9715;Enables new relic rite
+9716;Enables new relic rite
+9717;Enables new relic rite
+9718;Enables new relic rite
+9719;Enables new relic rite
+9720;Enables new relic rite
+9721;Enables new relic rite
+9722;Enables new relic rite
+9723;Enables new relic rite
+9800;Enables new relic rite
+9801;Enables new relic rite
+9802;Enables new relic rite
+9803;Enables new relic rite
+9804;Enables new relic rite
+9805;Enables new relic rite
+9806;Enables new relic rite
+9807;Enables new relic rite
+9808;Enables new relic rite
+9809;Enables new relic rite
+9810;Enables new relic rite
+9811;Enables new relic rite
+9812;Enables new relic rite
+9813;Enables new relic rite
+9814;Enables new relic rite
+9815;Enables new relic rite
+9816;Enables new relic rite
+9817;Enables new relic rite
+9818;Enables new relic rite
+9819;Enables new relic rite
+9820;Enables new relic rite
+9821;Enables new relic rite
+9822;Enables new relic rite
+9823;Enables new relic rite
+10000;Shard of filthy glass. Worthless rubbish.
+10001;
+10002;
+10003;
+10004;
+10005;
+10006;
+10007;
+10008;
+10009;
+10010;Increases Sacred Flask's number of uses
+10011;
+10012;
+10013;
+10014;
+10015;
+10016;
+10017;
+10018;
+10019;
+10020;Improves Sacred Flask's potency
+10021;
+10022;
+10023;
+10024;
+10025;
+10026;
+10027;
+10028;
+10029;
+10030;Increases memory slots
+10031;
+10032;
+10033;
+10034;
+10035;
+10036;
+10037;
+10038;
+10039;
+10040;Increases talisman equip slots
+10041;
+10042;
+10043;
+10044;
+10045;
+10046;
+10047;
+10048;
+10049;
+10050;Increases item equip slots
+10051;
+10052;
+10053;
+10054;
+10055;
+10056;
+10057;
+10058;
+10059;
+10060;Gain power of the dragon at the Dragon Communion altar
+10061;
+10062;
+10063;
+10064;
+10065;
+10066;
+10067;
+10068;
+10069;
+10070;Used to duplicate Ashes of War
+10071;
+10072;
+10073;
+10074;
+10075;
+10076;
+10077;
+10078;
+10079;
+10080;Used to perfect rebirth
+10100;Strengthens common armaments
+10101;Strengthens uncommon armaments
+10102;Strengthens rare armaments
+10103;Reinforce armaments up to +12
+10104;Reinforce armaments up to +15
+10105;Reinforce armaments up to +18
+10106;Reinforce armaments up to +21
+10107;Reinforce armaments up to +24
+10140;Reinforce armaments to +25
+10160;Reinforce special armaments to +1
+10161;Reinforce special armaments to +2
+10162;Reinforce special armaments to +3
+10163;Reinforce special armaments to +4
+10164;Reinforce special armaments to +5
+10165;Reinforce special armaments to +6
+10166;Reinforce special armaments to +7
+10167;Reinforce special armaments to +8
+10168;Reinforce special armaments to +10
+10200;Reinforce special armaments to +9
+10900;Strengthen ashes to +1
+10901;Strengthen ashes to +2
+10902;Strengthen ashes to +3
+10903;Strengthen ashes to +4
+10904;Strengthen ashes to +5
+10905;Strengthen ashes to +6
+10906;Strengthen ashes to +7
+10907;Strengthen ashes to +8
+10908;Strengthen ashes to +9
+10909;Strengthen ashes to +10
+10910;Strengthen renowned ashes to +1
+10911;Strengthen renowned ashes to +2
+10912;Strengthen renowned ashes to +3
+10913;Strengthen renowned ashes to +4
+10914;Strengthen renowned ashes to +5
+10915;Strengthen renowned ashes to +6
+10916;Strengthen renowned ashes to +7
+10917;Strengthen renowned ashes to +8
+10918;Strengthen renowned ashes to +9
+10919;Strengthen renowned ashes to +10
+11000;Temporarily boosts max HP
+11001;Temporarily boosts max stamina
+11002;Greatly restores HP
+11003;Restores half of total HP in mixed physick
+11004;Greatly restores FP
+11005;Restores half of total FP in mixed physick
+11006;Boosts resistances and heals status ailments
+11007;Automatically heals one's HP when low
+11008;Significant one-time damage negation
+11009;Steadily restores HP for a time
+11010;Temporarily boosts stamina recovery speed
+11011;Temporarily boosts all damage negation
+11012;Temporarily reduces equip load in mixed physick
+11013;Consecutive attacks grow stronger
+11014;Enhances charged attacks for a time
+11015;Enhances dodging but increases damage taken
+11016;Explodes when consumed
+11017;Causes concoction to explode in mixed physick
+11018;Temporarily boosts poise
+11019;Temporarily stop rune loss on death
+11020;Converts damage received into HP for a short time
+11021;Temporarily boosts strength in mixed physick
+11022;Temporarily boosts dexterity in mixed physick
+11023;Temporarily boosts intelligence in mixed physick
+11024;Temporarily boosts faith in mixed physick
+11025;Eliminates all FP consumption for a short time
+11026;Attacks more ably break enemy stances
+11027;Purifies the Lord of Blood's curse in a mixed physick
+11028;Temporarily boosts fire attacks
+11029;Temporarily boosts magic attacks
+11030;Temporarily boosts lightning attacks
+11031;Temporarily boosts holy attacks
+15000;Material used for crafting items
+15001;
+15002;
+15003;
+15004;
+15005;
+15006;
+15007;
+15008;
+15009;
+15010;Material used for crafting items
+15011;
+15012;
+15013;
+15014;
+15015;
+15016;
+15017;
+15018;
+15019;
+15020;Material used for crafting items
+15021;
+15022;
+15023;
+15024;
+15025;
+15026;
+15027;
+15028;
+15029;
+15030;Material used for crafting items
+15031;
+15032;
+15033;
+15034;
+15035;
+15036;
+15037;
+15038;
+15039;
+15040;Material used for crafting items
+15041;
+15042;
+15043;
+15044;
+15045;
+15046;
+15047;
+15048;
+15049;
+15050;Material used for crafting items
+15051;
+15052;
+15053;
+15054;
+15055;
+15056;
+15057;
+15058;
+15059;
+15060;Material used for crafting items
+15061;
+15062;
+15063;
+15064;
+15065;
+15066;
+15067;
+15068;
+15069;
+15070;Material used for crafting items
+15071;
+15072;
+15073;
+15074;
+15075;
+15076;
+15077;
+15078;
+15079;
+15080;Material used for crafting items
+15081;
+15082;
+15083;
+15084;
+15085;
+15086;
+15087;
+15088;
+15089;
+15090;Material used for crafting items
+15091;
+15092;
+15093;
+15094;
+15095;
+15096;
+15097;
+15098;
+15099;
+15100;Material used for crafting items
+15101;
+15102;
+15103;
+15104;
+15105;
+15106;
+15107;
+15108;
+15109;
+15110;Material used for crafting items
+15111;
+15112;
+15113;
+15114;
+15115;
+15116;
+15117;
+15118;
+15119;
+15120;Material used for crafting items
+15121;
+15122;
+15123;
+15124;
+15125;
+15126;
+15127;
+15128;
+15129;
+15130;Material used for crafting items
+15131;
+15132;
+15133;
+15134;
+15135;
+15136;
+15137;
+15138;
+15139;
+15140;Material used for crafting items
+15141;
+15142;
+15143;
+15144;
+15145;
+15146;
+15147;
+15148;
+15149;
+15150;Material used for crafting items
+15151;
+15152;
+15153;
+15154;
+15155;
+15156;
+15157;
+15158;
+15159;
+15160;Material used for crafting items
+15310;Material used for crafting items
+15340;Material used for crafting items
+15341;Material used for crafting items
+15390;Material used for crafting items
+15391;
+15392;
+15393;
+15394;
+15395;
+15396;
+15397;
+15398;
+15399;
+15400;Material used for crafting items
+15401;
+15402;
+15403;
+15404;
+15405;
+15406;
+15407;
+15408;
+15409;
+15410;Material used for crafting items
+15411;
+15412;
+15413;
+15414;
+15415;
+15416;
+15417;
+15418;
+15419;
+15420;Material used for crafting items
+15421;
+15422;
+15423;
+15424;
+15425;
+15426;
+15427;
+15428;
+15429;
+15430;Material used for crafting items
+20650;Material used for crafting items
+20651;Material used for crafting items
+20652;Material used for crafting items
+20653;Material used for crafting items
+20654;Material used for crafting items
+20655;
+20656;
+20657;
+20658;
+20659;
+20660;Material used for crafting items
+20680;Material used for crafting items
+20681;Material used for crafting items
+20682;Material used for crafting items
+20683;Material used for crafting items
+20684;
+20685;Material used for crafting items
+20686;
+20687;
+20688;
+20689;
+20690;Material used for crafting items
+20691;Material used for crafting items
+20710;Material used for crafting items
+20711;
+20712;
+20713;
+20714;
+20715;
+20716;
+20717;
+20718;
+20719;
+20720;Material used for crafting items
+20721;Material used for crafting items
+20722;Material used for crafting items
+20723;Material used for crafting items
+20740;Material used for crafting items
+20741;
+20742;
+20743;
+20744;
+20745;
+20746;
+20747;
+20748;
+20749;
+20750;Material used for crafting items
+20751;Material used for crafting items
+20752;
+20753;Material used for crafting items
+20754;
+20755;
+20756;
+20757;
+20758;
+20759;
+20760;Material used for crafting items
+20761;Material used for crafting items
+20762;
+20763;
+20764;
+20765;
+20766;
+20767;
+20768;
+20769;
+20770;Material used for crafting items
+20771;
+20772;
+20773;
+20774;
+20775;Material used for crafting items
+20776;
+20777;
+20778;
+20779;
+20780;Material used for crafting items
+20795;Material used for crafting items
+20796;
+20797;
+20798;
+20799;
+20800;Material used for crafting items
+20801;Material used for crafting items
+20802;Material used for crafting items
+20803;
+20804;
+20805;
+20806;
+20807;
+20808;
+20809;
+20810;Material used for crafting items
+20811;Material used for crafting items
+20812;Material used for crafting items
+20813;
+20814;
+20815;
+20816;
+20817;
+20818;
+20819;
+20820;Material used for crafting items
+20821;
+20822;
+20823;
+20824;
+20825;Material used for crafting items
+20826;
+20827;
+20828;
+20829;
+20830;Material used for crafting items
+20831;Material used for crafting items
+20832;
+20833;
+20834;
+20835;
+20836;
+20837;
+20838;
+20839;
+20840;Material used for crafting items
+20841;Material used for crafting items
+20842;Material used for crafting items
+20843;
+20844;
+20845;Material used for crafting items
+20846;
+20847;
+20848;
+20849;
+20850;Material used for crafting items
+20851;
+20852;Material used for crafting items
+20853;
+20854;
+20855;Material used for crafting items
+40000;
+40001;
+40002;
+40003;
+40004;
+40005;
+40006;
+40007;
+40008;
+40009;
+40010;[Wylder] Acquire Dawn garb
+40011;
+40012;
+40013;
+40014;
+40015;
+40016;
+40017;
+40018;
+40019;
+40020;[Wylder] Acquire Darkness garb
+40021;
+40022;
+40023;
+40024;
+40025;
+40026;
+40027;
+40028;
+40029;
+40030;
+40050;[Wylder] Acquire Abysswalker garb
+40051;
+40052;
+40053;
+40054;
+40055;
+40056;
+40057;
+40058;
+40059;
+40060;[Wylder] Acquire Lion Knight garb
+40100;
+40101;
+40102;
+40103;
+40104;
+40105;
+40106;
+40107;
+40108;
+40109;
+40110;[Guardian] Acquire Dawn garb
+40111;
+40112;
+40113;
+40114;
+40115;
+40116;
+40117;
+40118;
+40119;
+40120;[Guardian] Acquire Darkness garb
+40121;
+40122;
+40123;
+40124;
+40125;
+40126;
+40127;
+40128;
+40129;
+40130;
+40150;[Guardian] Acquire Sunlight Knight garb
+40151;
+40152;
+40153;
+40154;
+40155;
+40156;
+40157;
+40158;
+40159;
+40160;[Guardian] Acquire Wayfarer garb
+40200;
+40201;
+40202;
+40203;
+40204;
+40205;
+40206;
+40207;
+40208;
+40209;
+40210;[Ironeye] Acquire Dawn garb
+40211;
+40212;
+40213;
+40214;
+40215;
+40216;
+40217;
+40218;
+40219;
+40220;[Ironeye] Acquire Darkness garb
+40221;
+40222;
+40223;
+40224;
+40225;
+40226;
+40227;
+40228;
+40229;
+40230;
+40250;[Ironeye] Acquire Ringfinger garb
+40251;
+40252;
+40253;
+40254;
+40255;
+40256;
+40257;
+40258;
+40259;
+40260;[Ironeye] Acquire Sellsword garb
+40300;
+40301;
+40302;
+40303;
+40304;
+40305;
+40306;
+40307;
+40308;
+40309;
+40310;[Duchess] Acquire Dawn garb
+40311;
+40312;
+40313;
+40314;
+40315;
+40316;
+40317;
+40318;
+40319;
+40320;[Duchess] Acquire Darkness garb
+40321;
+40322;
+40323;
+40324;
+40325;
+40326;
+40327;
+40328;
+40329;
+40330;
+40350;[Duchess] Acquire Black Leather garb
+40351;
+40352;
+40353;
+40354;
+40355;
+40356;
+40357;
+40358;
+40359;
+40360;[Duchess] Acquire Wraith garb
+40400;
+40401;
+40402;
+40403;
+40404;
+40405;
+40406;
+40407;
+40408;
+40409;
+40410;[Raider] Acquire Dawn garb
+40411;
+40412;
+40413;
+40414;
+40415;
+40416;
+40417;
+40418;
+40419;
+40420;[Raider] Acquire Darkness garb
+40421;
+40422;
+40423;
+40424;
+40425;
+40426;
+40427;
+40428;
+40429;
+40430;
+40450;[Raider] Acquire Rock-like garb
+40451;
+40452;
+40453;
+40454;
+40455;
+40456;
+40457;
+40458;
+40459;
+40460;[Raider] Acquire Catarina garb
+40500;
+40501;
+40502;
+40503;
+40504;
+40505;
+40506;
+40507;
+40508;
+40509;
+40510;[Revenant] Acquire Dawn garb
+40511;
+40512;
+40513;
+40514;
+40515;
+40516;
+40517;
+40518;
+40519;
+40520;[Revenant] Acquire Darkness garb
+40521;
+40522;
+40523;
+40524;
+40525;
+40526;
+40527;
+40528;
+40529;
+40530;
+40550;[Revenant] Acquire The Sister in the Painting garb
+40551;
+40552;
+40553;
+40554;
+40555;
+40556;
+40557;
+40558;
+40559;
+40560;[Revenant] Acquire Dragon School garb
+40600;
+40601;
+40602;
+40603;
+40604;
+40605;
+40606;
+40607;
+40608;
+40609;
+40610;[Recluse] Acquire Dawn garb
+40611;
+40612;
+40613;
+40614;
+40615;
+40616;
+40617;
+40618;
+40619;
+40620;[Recluse] Acquire Darkness garb
+40621;
+40622;
+40623;
+40624;
+40625;
+40626;
+40627;
+40628;
+40629;
+40630;
+40650;[Recluse] Acquire Heretic Sorcerer garb
+40651;
+40652;
+40653;
+40654;
+40655;
+40656;
+40657;
+40658;
+40659;
+40660;[Recluse] Acquire Emerald Fate garb
+40700;
+40701;
+40702;
+40703;
+40704;
+40705;
+40706;
+40707;
+40708;
+40709;
+40710;[Executor] Acquire Dawn garb
+40711;
+40712;
+40713;
+40714;
+40715;
+40716;
+40717;
+40718;
+40719;
+40720;[Executor] Acquire Darkness garb
+40721;
+40722;
+40723;
+40724;
+40725;
+40726;
+40727;
+40728;
+40729;
+40730;
+40750;[Executor] Acquire Thorns garb
+40751;
+40752;
+40753;
+40754;
+40755;
+40756;
+40757;
+40758;
+40759;
+40760;[Executor] Acquire Sable Church garb
+1000000;A natural whetstone with a fine grain
+1000001;A kernel of life both alive and still
+1000002;Plant extract for repairing armaments
+1000003;Last words of a scallywag apprentice
+1000004;Altus flower flush with grace
+1000005;A golden seed, of an illusory tree
+1000006;A golden seed harboring a warm blessing
+1000007;A crystallized form of the power of Night
+1000008;A clear sign of the Nightlord's presence
+1000009;A finely-crafted streamlined arrowhead
+1000010;An invitation from the traitor
+1000011;A fragment of the spear of Fulghor
+1000012;A doll adored by a young child
+1000013;A stone stake that opens a sealed-away lock
+1000014;Annals detailing cursed weapons
+1000015;A brooch imbued with potent magic
+1000016;Blade fragment imbued with Night
+1000017;Power of Night without a host
+1000018;An earring with a restored pin
+1000019;Exotic coins received from the Wylder
+1000020;A hand-crafted, unsettling charm
+1000021;A dubious ledger used by a merchant
+1000022;A torn magic-warding braided cord
+1000023;
+1000024;Necklace made from a thick rugged claw
+1000025;A coin given by an all-or-nothing pirate 
+1000026;A medal adorning a girl doll
+1000027;Flatbread with a freshly baked aroma
+1000028;Annals detailing cursed weapons
+1000029;
+1000030;A note on the White Horn
+1000031;An iron coin imbued with a small blessing
+1000032;A cracked brooch bereft of its magic
+1000033;Small key featuring fine ornamentation
+1000034;A scrap of paper detailing the "New Night"
+1000035;A single earring belonging to the Wylder
+1000100;An object found within the Primordial Nightlord
+1000101;The qualities of the Nightlord
+1000102;The qualities of the Nightlord
+1000103;The qualities of the Nightlord
+9999001;
+9999002;
+9999003;
+9999004;
+9999005;
+9999006;
+9999007;
+9999008;
+9999009;
+9999010;
+9999011;
+9999012;
+9999013;
+9999014;
+9999015;
+9999016;
+9999017;
+9999018;
+9999019;
+9999020;
+9999021;
+9999022;
+9999023;
+9999024;
+9999025;
+9999026;
+9999027;
+9999028;
+9999029;
+9999030;
+9999031;
+9999032;
+9999033;
+9999034;
+9999035;
+9999036;
+9999037;
+9999038;
+9999039;
+9999040;
+9999041;
+9999042;
+9999043;
+9999044;
+9999045;
+9999046;
+9999047;
+9999048;
+9999049;
+9999050;
+9999051;
+9999052;
+9999053;
+9999054;
+9999055;
+9999056;
+9999057;
+9999058;
+9999059;
+9999060;
+9999061;
+9999062;
+9999063;
+9999064;
+9999065;
+9999066;
+9999067;
+9999068;
+9999069;
+9999070;
+9999071;
+9999072;
+9999073;
+9999074;
+9999075;
+9999076;
+9999077;
+9999078;
+9999079;
+9999080;
+9999081;
+9999082;
+9999083;
+9999084;
+9999085;
+9999086;
+9999087;
+9999088;
+9999089;
+9999090;
+9999091;
+9999092;
+9999093;
+9999094;
+9999095;
+9999096;
+9999097;
+9999098;
+9999099;Localization test_99

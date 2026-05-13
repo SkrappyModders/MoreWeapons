@@ -1,0 +1,86 @@
+21090000;Did you see it?
+21091000;I shall pray
+21091001;Whose footsteps do I hear...
+21091002;Unable to resist urges. Absorb the power of the Night?
+21091003;"Conspectus Adherents of the Gate Town of Liurnia"
+It's the book that the Scholar often reads.
+21091004;I am horribly parched...I must absorb power...
+21092000;...
+21092001;I cannot say
+21092002;How can I help?
+21092003;I'm sorry
+21092004;I do apologise
+21092005;What is it?
+21092006;Why give this glass to me?
+21100000;A scrap of paper that reads "Tear"
+21100001;I have something I'd like to ask of you
+21100002;I have something I'd like to ask of you
+21100003;Vassal's Journal
+21100004;Oneself
+21100005;Headband of the Golden Ones
+21100006;Returned Leather Case
+21100007;Ask to be shown to the Great Hollow
+21100008;Purchase
+21100009;My gratitude for the rescue
+21100010;Cleansing Tear
+21101000;A passage from a letter.
+"The ailment spreads. Too many victims to count.
+Might it be the work of the Cuckoos?"
+21101001;A passage from a letter.
+"Don't you dare try the medicine on yourself. Why go to such lengths to save the Albinaurics?"
+21101002;An excerpt from a notice.
+"The Cleansing Tear has brought the sickness to heel.
+Your efforts are deeply appreciated."
+21101003;A line from a memo.
+"I will stay here with the original elixir.
+The power of the crystal will preserve it until it is once again required."
+21101004;From the conclusion of the research findings.
+"The Cleansing Tear was never found.
+That is my only regret."
+21101005;From the conclusion of the research findings.
+"The Cleansing Tear could not change our fate.
+But it still changed the course of history."
+21101006;A loud sound was heard coming from the chapel
+21101007;She requires time to calm herself. Let's look around.
+21101008;What's this I hear? An echo in my head, not unlike an invitation...
+Perhaps there is something I must investigate more closely...
+21101009;Now I know what to check. There is much to be done.
+21101010;...First, I must determine the source of that noise...
+21102000;Something happened in the far chamber
+21102001;I intend to leave the Roundtable Hold
+21102002;Tell them all that I died without reawakening
+21102003;You are the only one I dare depend on
+21102004;Give a copy of my research
+21102005;Please, stand witness to our legacy
+21102006;I don't know when the chance will come
+21102007;One day my kind will ask you for answers
+21102008;You are the only one I dare depend on
+22100000;Where is the Dreglord?
+22100001;About the Dreglord
+22100002;What is this room?
+22100003;Why did the Dreglord appear?
+22100004;What is the Dreglord?
+22100005;About the message from the Small Jar Merchant
+22100006;About the message
+22101000;A voice is heard from within the light.
+"We shall descend when the world desires balance."
+22101001;Indicates the door, perhaps concerned 
+26100025;The Great Hollow
+26101025;Conjure Shifting Earth: The Great Hollow
+Required Sovereign Sigils: 2
+N.B. If you are currently matchmaking, this will be cancelled.
+26101045;Shifting Earth: The Great Hollow is already in effect.
+Conjure this event regardless?
+Required Sovereign Sigils: 2
+27570500;I wish to cleanse the rite of blood
+27570501;
+27570502;
+27570503;
+27570504;
+27570505;
+27570506;
+27570507;
+27570508;
+27570509;
+27570510;Pay <?evntAcquittalPrice?> runes
+to acquire a Purifying Crystal Tear?

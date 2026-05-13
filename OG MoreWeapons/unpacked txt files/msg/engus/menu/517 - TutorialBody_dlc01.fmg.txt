@@ -1,0 +1,100 @@
+252910;The effects of the Scholar's Analyse skill change depending on skill progress (low, mid, or max) and targets.
+
+When targeting enemies:
+Low: Reduce enemy attack power
+Mid: Further reduce enemy attack
+Max: One-time bonus damage to target
+
+When targeting self:
+Low: Raise max stamina
+Mid: Further raise max stamina
+Max: Temporary one-time damage negation
+         + launch wave when hit
+
+When activated on self, the highest progress level within range is applied.
+
+Skill progress is affected by the status of enemies and allies, by observations of certain actions, and types of collected specimens.
+
+N.B. Analyse mode camera speed can be changed in system menu.
+302100;The Scholar has joined the warriors of the Roundtable.
+
+Choose him to depart on expeditions like any other player character.
+
+The Scholar is a support character who gains advantages by manipulating the battlefield, analysing enemies and threading them together.
+302101;
+302102;
+302103;
+302104;
+302105;
+302106;
+302107;
+302108;
+302109;
+302110;The Undertaker has joined the warriors of the Roundtable.
+
+Choose her to depart on expeditions like any other player character.
+
+The Undertaker is an offensive character who can execute persistent attacks by fluently evading enemy onslaughts.
+403147;Likely spots for armaments and items at key locations are indicated by the following icons on the detailed view of the map.
+
+<?image@4166##6?>: Skill-changing smithing table
+
+<?keyicon@308?> on Map menu: Detailed view
+403240;Key locations are indicated by the following icons:
+
+<?image@4180##6?>: Marsh
+A fortress has sunk into the marsh, and something lies hidden in the depths.
+
+<?image@4181##6?>: Blacksmith Village
+A hamlet of smiths. Feed fire to the forge to change skills.
+403241;
+403242;
+403243;
+403244;
+403245;
+403246;
+403247;
+403248;
+403249;
+403250;Key locations are indicated by the following icons:
+
+<?image@4185##6?>: Resonating Crystal
+Crystals found in the Great Hollow, part of the root system of the giant crystals. Their resonance is said to cause giant crystals to shatter.
+
+<?image@4183##6?>: Eastern Underground Fort
+A fortress seeped in deepest Night, enshrouded by crystal curse.
+
+<?image@4184##6?>: Western Underground Fort
+A fortress in which clandestine research was conducted, enshrouded by crystal curse.
+
+<?image@4182##6?>: Temple
+A magnificent and sacred structure, in which remembrances of battle slumber. Rainbow-colored Order is bestowed upon all who take up its challenge.
+403440;A great cavity in the depths of Limveld. A sacred tower can be seen from the waterfall and the hollow is strewn with giant crystals, but much of it is decrepit and the ground is cracking open.
+
+The area is peppered with exotic ruins, the only things that remain of an ancient people, and a temple is buttressed by two forts, one each to the east and west, where the cursed miasma that exudes from the crystals eats away at life.
+
+Neutralizing the curse requires the protective blessing of a great crystal.
+403460;On the Change Skill menu, it is possible to replace the skill attached to a weapon in your possession.
+
+The new weapon skill is determined at random and a skill can only be replaced once per smithing table.
+
+After changing the weapon skill, the smithing table can be used a single time to revert to the original skill.
+
+Multiple players can change skills at the same smithing table.
+403461;
+403462;
+403463;
+403464;
+403465;
+403466;
+403467;
+403468;
+403469;
+403470;Dormant Power grants hidden potential and can be obtained by defeating bosses at key locations.
+
+Choose a reward from the offerings. If it is an item, it can be left behind.
+
+Each item is chosen by multiple players.
+
+<?keyicon@204?>: Choose power to obtain
+<?keyicon@209?>: Leave item behind

@@ -1,0 +1,8 @@
+100011;Change order
+101110;Change skill
+101111;Revert skill
+130165;Swap screen
+130166;Swap screen
+130167;Swap screen
+200020;Switch
+320123;Change name

@@ -1,0 +1,3129 @@
+1010; x
+2010;<?value?>%
+2011;<?value?> sec
+2012;
+2013;
+2014;
+2015;
+2016;
+2017;
+2018;
+2019;
+2020; | 
+2021;
+2022;
+2023;
+2024;
+2025;
+2026;
+2027;
+2028;
+2029;
+2030;, 
+3020; 
+3021; 
+5104;Purchase how many?
+5105;Sell how many?
+6100;Default Order
+6101;
+6102;
+6103;
+6104;
+6105;Item Type
+6120;FP Cost
+6190;Order Found
+6191;Order Found
+6192;Order by Rarity
+6193;Order by Size
+6194;Order by Color
+6195;Last Day
+6196;Play Date
+10200;Level
+10201;Runes Held
+10202;Runes Needed
+10203;
+10204;Lv.
+10350;Character Skill
+10351;Ultimate Art
+10352;Passive Ability
+10353;
+10354;
+10355;
+10356;
+10357;
+10358;
+10359;
+10360;No. of Expeditions
+10500;HP
+10501;FP
+10502;Stamina
+10580;Slot 1
+10581;Slot 2
+10582;Slot 3
+10583;Slot 4
+10584;Slot 5
+10585;Slot 6
+11001;Armament Type
+11002;Spell Type
+11003;Attack Affinity
+11004;
+11005;
+11006;
+11007;
+11008;
+11009;
+11010;Physical
+11011;Magic
+11012;Fire
+11013;Lightning
+11014;Holy
+11015;
+11016;
+11017;
+11018;
+11019;
+11020;Physical
+11021;Magic
+11022;Fire
+11023;Lightning
+11024;Holy
+11025;
+11026;
+11027;
+11028;
+11029;
+11030;Critical
+11031;Guard Boost
+11032;Range
+11033;
+11034;
+11035;Sorcery Scaling
+11036;Incant Scaling
+11037;
+11038;
+11039;
+11040;
+11041;FP Cost
+11042;FP Cost
+11043;
+11044;
+11045;
+11046;
+11047;
+11048;
+11049;
+11050;
+11051;<?keyicon@120?>Activate
+11052;<?keyicon@117?>Follow Up
+11053;<?keyicon@120?> / <?keyicon@118?>Follow Up
+11054;Activate
+11055;Follow Up
+11310;Strength
+11311;Dexterity
+11312;Intelligence
+11313;Faith
+11314;Strength
+11315;Dexterity
+11316;Intelligence
+11317;Faith
+11318;Arcane
+11319;Arcane
+11320;-
+11321;S
+11322;A
+11323;B
+11324;C
+11325;D
+11326;E
+11327;
+11328;
+11329;
+11330;Consumable
+11331;Reusable
+11360;Item Type
+11410;Max no. per slot
+11504;Attack
+11505;Status Ailment
+11506;Min. Level
+11507;Someone
+11642;Status Ailment
+11665;Critical
+11666;Guard Boost
+20000;Attack Power
+20001;Guarded Damage Negation
+20002;
+20003;Attribute Scaling
+20004;
+20005;
+20006;Equip Effect
+20018;Base Properties
+20019;Usable Armament Types
+31001;Armament category.
+Armaments belonging to the same
+category exhibit similar properties.
+31002;Sorceries and incantations
+31003;The types of physical damage dealt
+by this armament. Other than standard
+physical damage, striking, slashing,
+and piercing damage can also be dealt.
+31004;Maximum number of this item held per slot
+31005;
+31006;
+31007;
+31008;
+31009;
+31010;Physical attack power
+31011;Magic attack power
+31012;Fire attack power
+31013;Lightning attack power
+31014;Holy attack power
+31015;Status ailments affecting weapon
+31016;
+31017;
+31018;
+31019;
+31020;The degree to which physical damage
+is negated while guarding
+31021;The degree to which magic damage
+is negated while guarding
+31022;The degree to which fire damage
+is negated while guarding
+31023;The degree to which lightning damage
+is negated while guarding
+31024;The degree to which holy damage
+is negated while guarding
+31025;
+31026;
+31027;
+31028;
+31029;
+31030;The strength of critical hits,
+which can be performed on enemies
+you have got behind or stance-broken.
+31031;The stability of character's defense.
+Reduces drain on stamina while blocking.
+31032;The distance this weapon's projectiles
+will travel effectively
+31033;
+31034;
+31035;The degree to which sorceries
+increase in power
+31036;The degree to which incantations
+increase in power
+31037;
+31038;
+31039;
+31040;
+31041;
+31042;FP required to use this item
+31043;
+31044;
+31045;
+31046;
+31047;
+31048;
+31049;
+31050;
+31051;FP required to activate skill
+31052;FP required for follow-up after skill
+activation
+31053;FP required for follow-up charge attack performed by holding down skill activation button or using additional input
+31054;FP required to cast this
+sorcery/incantation
+31055;FP required for follow-up after
+casting sorcery/incantation
+31310;The degree to which this armament's 
+attacks scale with strength
+31311;The degree to which this armament's
+attacks scale with dexterity
+31312;The degree to which this armament's
+attacks scale with intelligence
+31313;The degree to which this armament's
+attacks scale with faith
+31314;The degree to which this item's power
+or passive effects scale with strength
+31315;The degree to which this item's power
+or passive effects scale with dexterity
+31316;The degree to which this item's power
+or passive effects scale with intelligence
+31317;The degree to which this item's power
+or passive effects scale with faith
+31318;The degree to which this item's power
+or passive effects scale with arcane
+31319;The degree to which this armament's 
+attacks scale with arcane
+31360;Type of item.
+Shows whether or not it will be consumed with use.
+40300;On
+40301;Off
+40302;Mild
+40303;Auto
+40304;
+40305;
+40306;
+40307;
+40308;
+40309;
+40310;Normal
+40311;Reversed
+40312;
+40313;
+40314;
+40315;
+40316;
+40317;
+40318;
+40319;
+40320;Use
+40321;Restricted
+40322;
+40323;
+40324;
+40325;
+40326;
+40327;
+40328;
+40329;
+40330;
+40331;Next
+40332;
+40333;
+40334;
+40335;
+40336;
+40337;
+40338;
+40339;
+40340;Perform Matchmaking
+40341;No Matchmaking
+40360;Play Online
+40361;Play Offline
+40372;Check
+40373;
+40374;
+40375;
+40376;
+40377;Prioritize Quality
+40378;Prioritize Frame Rate
+40379;
+40380;Game Pad
+40381;Keyboard and Mouse
+40382;Switch automatically
+40400;Fullscreen
+40401;Windowed
+40402;Borderless Windowed
+40403;
+40404;
+40405;
+40406;
+40407;
+40408;
+40409;
+40410;x
+40411;
+40412;
+40413;
+40414;
+40415;
+40416;
+40417;
+40418;
+40419;
+40420;Custom
+40421;Low
+40422;Medium
+40423;High
+40424;Maximum
+40440;On
+40441;Off
+50000;None
+50001;
+50002;
+50003;
+50004;
+50005;Standard
+50050;Strike
+50051;
+50052;
+50053;
+50054;
+50055;Standard/Strike
+50500;Slash
+50501;
+50502;
+50503;
+50504;
+50505;Standard/Slash
+50550;Strike/Slash
+50551;
+50552;
+50553;
+50554;
+50555;Standard/Strike/Slash
+55000;Pierce
+55001;
+55002;
+55003;
+55004;
+55005;Standard/Pierce
+55050;Strike/Pierce
+55051;
+55052;
+55053;
+55054;
+55055;Standard/Strike/Pierce
+55500;Slash/Pierce
+55501;
+55502;
+55503;
+55504;
+55505;Standard/Slash/Pierce
+55550;Strike/Slash/Pierce
+55551;
+55552;
+55553;
+55554;
+55555;Standard/Strike/Slash/Pierce
+60001;, 
+60002;
+60003;
+60004;
+60005;
+60006;
+60007;
+60008;
+60009;
+60010;Dagger
+60011;
+60012;
+60013;
+60014;
+60015;Straight Sword
+60016;
+60017;
+60018;
+60019;
+60020;Greatsword
+60021;
+60022;
+60023;
+60024;
+60025;Colossal Sword
+60026;
+60027;
+60028;
+60029;
+60030;Curved Sword
+60031;
+60032;
+60033;
+60034;
+60035;Curved Greatsword
+60036;
+60037;
+60038;
+60039;
+60040;Katana
+60041;
+60042;
+60043;Twinblade
+60044;
+60045;Thrusting Sword
+60046;Heavy Thrusting Sword
+60047;
+60048;
+60049;
+60050;Axe
+60051;
+60052;
+60053;
+60054;
+60055;Greataxe
+60056;
+60057;
+60058;
+60059;
+60060;Hammer
+60061;
+60062;
+60063;
+60064;
+60065;Great Hammer
+60066;
+60067;Flail
+60068;
+60069;
+60070;Spear
+60071;
+60072;
+60073;
+60074;
+60075;
+60076;
+60077;Great Spear
+60078;
+60079;
+60080;Halberd
+60081;
+60082;
+60083;
+60084;
+60085;Reaper
+60086;
+60087;
+60088;
+60089;
+60090;Fist
+60091;
+60092;
+60093;
+60094;
+60095;
+60096;
+60097;
+60098;
+60099;
+60100;Claw
+60101;
+60102;Colossal Weapon
+60103;
+60104;Light Bow
+60105;Bow
+60106;
+60107;
+60108;
+60109;
+60110;Greatbow
+60111;
+60112;
+60113;
+60114;
+60115;Crossbow
+60116;
+60117;Ballista
+60118;
+60119;
+60120;Glintstone Staff
+60121;
+60122;
+60123;
+60124;
+60125;Tattoo
+60126;
+60127;
+60128;
+60129;
+60130;Sacred Seal
+60131;
+60132;
+60133;
+60134;
+60135;
+60136;
+60137;
+60138;
+60139;
+60140;Small Shield
+60141;
+60142;
+60143;
+60144;
+60145;Medium Shield
+60146;
+60147;
+60148;
+60149;
+60150;Greatshield
+60151;
+60152;
+60153;
+60154;
+60155;Whip
+60156;
+60157;
+60158;
+60159;
+60160;Light Greatsword
+60161;
+60162;
+60163;
+60164;
+60165;Greatarrow
+60166;
+60167;
+60168;
+60169;
+60170;Backhand Blades
+60171;Great Katana
+60172;
+60173;
+60174;
+60175;Torch
+61000;Sorceries
+61001;
+61002;Incantations
+63000;Usable with swords, axes, and hammers
+(excluding small armaments and thrusting swords)
+63001;Usable with medium and large armaments capable of thrusting
+63002;Usable with swords, axes, and polearms
+(excluding colossal weapons)
+63003;Usable with swords, axes, and hammers
+(excluding small and medium swords)
+63004;Usable with armaments capable of thrusting
+(excluding colossal weapons)
+63005;Usable with axes and hammers, as well as
+curved swords, greatswords, and reapers
+(excluding colossal weapons)
+63006;Usable with swords and polearms capable of slashing (excluding colossal weapons)
+63007;Usable with large and colossal axes and hammers
+63008;Usable with katana
+63009;Usable with straight swords
+63010;Usable with large and colossal weapons capable of thrusting, spears, and twinblades
+63011;Usable with small and medium swords
+(excluding twinblades)
+63012;Usable with small and medium swords, axes, hammers, and polearms
+(excluding great spears)
+63013;Usable with polearms capable of thrusting, heavy thrusting swords, and twinblades
+63014;Usable with swords capable of slashing, axes, hammers, and polearms (excluding small and colossal weapons)
+63015;Usable with swords, axes, and polearms capable of slashing (excluding colossal weapons and great spears)
+63016;Usable with polearms capable of thrusting and twinblades
+63017;Usable with fists and claws
+63018;Usable with axes and hammers
+63019;Usable with melee armaments
+(excluding small armaments and whips)
+63020;Usable with swords
+(excluding colossal weapons and twinblades)
+63021;Usable with swords, axes, and hammers
+63022;Usable with swords
+(excluding colossal weapons)
+63023;Usable with swords and axes
+(excluding small and colossal axes)
+63024;Usable with polearms and twinblades
+63025;Usable with polearms
+(excluding great spears)
+63026;Usable with small and medium swords
+63027;Usable with polearms and twinblades
+(excluding great spears)
+63028;Usable with polearms
+(excluding reapers)
+63029;Usable with small melee armaments
+and curved swords
+63030;Usable with small and medium shields
+63031;Usable with shields and torches
+63032;Usable with greatbows
+63033;Usable with light bows and longbows
+63034;Usable with all bows
+63035;Usable with greataxes, great hammers,
+and colossal weapons
+63036;Usable with small and medium
+straight swords and thrusting
+swords
+63037;Usable with swords as well as polearms capable of thrusting (excluding colossal weapons)
+63038;Usable with melee armaments
+(excluding whips)
+63039;Usable with large and colossal
+swords, axes, and hammers
+63040;Usable with melee armaments
+(excluding daggers, thrusting swords, and whips)
+63041;Usable with all shields
+63042;Usable with all melee armaments
+63043;Usable with axes and hammers as well as curved swords and greatswords
+(excluding colossal weapons)
+63044;Usable with melee armaments
+(excluding whips, fists, and claws)
+63045;Usable with melee armaments
+(excluding colossal weapons and whips)
+63046;Usable with swords as well as polearms capable of thrusting (excluding small and colossal weapons)
+63047;Usable with daggers, curved swords, thrusting swords, fists, claws, and small and medium shields
+63048;Usable with light bows
+63049;Usable with swords and axes
+(excluding colossal axes)
+63050;Usable with greataxes, great hammers, great spears, and colossal weapons
+63051;Usable with flails
+63052;Usable with torches
+63053;Usable with bows
+63054;Usable with small shields
+63099;Usable with specific armaments
+101000;Equipment
+101001;Map
+101002;Status
+101003;System
+101004;
+101005;
+101006;
+101007;
+101008;
+101009;
+101010;Armament Replication
+101011;Strengthen Armament
+101012;Special Armament Strengthening
+101013;
+101014;
+101015;
+101016;
+101017;
+101018;
+101019;
+101020;Dormant Power
+101100;Level Up
+102000;Expeditions
+102001;Character Selection
+102002;Change Garb
+102003;Relic Rites
+102004;Visual Codex
+102005;Journal
+102006;Small Jar Bazaar
+102007;Sparring Grounds
+102008;Result
+102009;Result History
+102010;Reward
+102011;
+102012;
+102013;Shore
+102014;Garden
+102015;Crypt
+102016;Waiting Room
+102017;Result
+102050;Wandering Merchant
+102051;
+102052;
+102053;
+102054;
+102055;
+102056;
+102057;
+102058;
+102059;
+102060;Collector Signboard
+102100;Roundtable Hold
+104100;Equipped
+104120;Before strengthening
+104121;
+104122;
+104123;
+104124;
+104125;
+104126;
+104127;
+104128;
+104129;
+104130;After strengthening
+104131;
+104132;
+104133;
+104134;
+104135;
+104136;
+104137;
+104138;
+104139;
+104140;Armament to replicate
+106103;Special Effects
+106104;Relics
+106105;
+106106;
+106107;
+106108;Base Stats
+106109;Armaments
+106110;Passive Effects
+106111;
+106112;
+106113;
+106114;
+106115;
+106116;
+106117;
+106118;
+106119;
+106120;Base Stats
+106121;Armaments
+106122;Depths Relics
+110000;Game Options
+110001;Camera Options
+110002;
+110003;
+110004;
+110005;
+110006;
+110007;
+110008;
+110009;
+110010;Camera Y-Axis
+110011;Camera X-Axis
+110012;Reset Camera Y-Axis
+110013;Camera Speed
+110014;Toggle Auto Lock-On
+110015;Auto-Target
+110016;Camera Auto Wall Recovery
+110017;Save Last Opened Menu Tab
+110018;
+110019;
+110020;Performance Settings
+110021;
+110022;Precision Aiming Camera Speed
+110023;Map Cursor Speed
+110024;Speed Adjustment for Precision Aiming
+110025;
+110026;Precision Aiming Camera Speed
+110110;Display Blood
+110111;Subtitles
+110112;HUD
+110113;Cinematic Effects
+110114;Music
+110115;Sound Effects
+110116;Voice
+110117;Master Volume
+110118;Camera Auto Rotation
+110200;Brightness
+110201;Adjust brightness until the image on the right is barely visible
+110202;Adjust brightness to your liking
+110203;Adjust maximum screen brightness
+110204;Adjust saturation to your liking
+110205;
+110206;
+110207;
+110208;
+110209;HDR
+110210;Brightness
+110211;Adjust Image Quality
+110212;Maximum Brightness
+110213;Adjust Saturation
+110214;Brightness
+110300;Network
+110311;Cross-Region Play
+110312;
+110313;Display Player Names
+110314;Launch Setting
+110315;
+110316;Data Usage Agreement
+110317;Player Name
+110318;Set player name
+110319;Terms of Service
+110320;Privacy Policy
+110321;
+110322;
+110323;
+110324;
+110325;
+110326;
+110327;
+110328;
+110329;
+110330;Enter player name
+110500;Return to Title Menu
+110501;
+110502;
+110503;
+110504;
+110505;
+110506;
+110507;
+110508;
+110509;
+110510;Return to Desktop
+110511;
+110512;
+110513;
+110514;
+110515;
+110516;
+110517;
+110518;
+110519;
+110520;End Tutorial
+110521;
+110522;
+110523;
+110524;
+110525;
+110526;
+110527;
+110528;
+110529;
+110530;Quit Game
+110531;
+110532;
+110533;
+110534;
+110535;
+110536;
+110537;
+110538;
+110539;
+110540;Return to Roundtable Hold
+110541;
+110542;
+110543;
+110544;
+110545;
+110546;
+110547;
+110548;
+110549;
+110550;Quit Battle
+110551;
+110552;
+110553;
+110554;
+110555;
+110556;
+110557;
+110558;
+110559;
+110560;Conclude remembrance
+110561;
+110562;
+110563;
+110564;
+110565;
+110566;
+110567;
+110568;
+110569;
+110570;Skip
+110600;Display
+110700;Sound
+111001;Controls
+111002;
+111003;
+111004;
+111005;Keyboard/Mouse Settings
+111006;Controls
+111007;
+111008;
+111009;
+111010;Device for On-Screen Prompts
+111011;Game Guide
+111012;
+111013;
+111014;
+111015;
+111016;
+111017;
+111018;
+111019;
+111020;Mouse Sensitivity
+111021;
+111022;Mouse X-Axis
+111023;Mouse Y-Axis
+111024;
+111025;Target Changing Sensitivity
+111026;
+111027;
+111028;
+111029;
+111030;
+111031;Key Bindings
+111100;Graphics
+111101;
+111102;
+111103;
+111104;
+111105;
+111106;
+111107;
+111108;
+111109;
+111110;Screen Mode
+111111;Resolution
+111112;Auto-Detect Best Rendering Settings
+111113;Quality Settings
+111114;Advanced Settings
+111115;
+111116;Limit Mouse Movement
+111117;Display output
+111210;Texture Quality
+111211;Antialiasing Quality
+111212;SSAO
+111213;Depth of Field
+111214;Motion Blur
+111215;Shadow Quality
+111216;Lighting Quality
+111217;Effects Quality
+111218;Volumetric Lighting Quality
+111219;Reflection Quality
+111220;Water Surface Quality
+111221;Shader Quality
+111222;
+111223;Global Illumination Quality
+111224;Grass Quality
+130002;No. of Password Players
+130003;
+130004;
+130005;
+130006;
+130007;
+130008;
+130009;
+130010;Please set multiplayer password
+130011;Please set group password
+130200;Two players
+130201;Three players
+130300;Commence Expedition
+130301;Cancel
+130302;Commence Expedition
+130303;Cancel
+130304;Commence Solo Expedition
+130305;Commence Two-Player Expedition
+130400;Team Session
+130401;Invite Members
+130402;Disband Team
+130403;Leave Team
+130404;Password
+130405;Multiplayer Password
+130406;Group Password
+130407;Number of Players
+130408;Three players
+130409;One player
+130410;Matchmaking Settings
+130411;All Undefeated
+130412;All Options
+130413;Copy Last Expedition Settings
+130414;Present Objective
+130415;Personal Objective
+130416;Target
+130417;Two players
+131010;Effective
+131011;Depth
+131012;Rate
+131013;Chosen Options
+131014;Shifting Earth Underway
+131015;
+131016;
+131017;
+131018;
+131019;
+131020;1
+131021;2
+131022;3
+131023;4
+131024;5
+131040;Everdark Sovereign
+131041;???
+131042;
+131043;
+131044;
+131045;
+131046;
+131047;
+131048;
+131049;
+131050;Tricephalos
+131051;Gaping Jaw
+131052;Sentient Pest
+131053;Augur
+131054;Equilibrious Beast
+131055;Darkdrift Knight
+131056;Fissure in the Fog
+131057;Night Aspect
+131058;
+131059;
+131060;Gladius
+131061;Adel
+131062;Gnoster
+131063;Maris
+131064;Libra
+131065;Fulghor
+131066;Caligo
+131067;Heolstor the Nightlord
+131068;
+131069;
+131070;A many-legged beast appearing from shadow,
+carrying on its back a chain-link sword
+used to hunt its prey. Between the fangs
+of its many heads flicker overwhelming
+flames. When assailed by multiple shadows,
+only sacred light can hinder the hunt.
+131071;A colossal, crooked black frame capable of
+harboring lightning, with massive jaws,
+lined with grinding teeth to devour
+anything and everything it encounters.
+
+Only poison will stop it in its tracks.
+131072;A flying insect and living shears that
+trail the earth. Those lucky enough to
+escape the former's rain of magic light
+fall victim to the shears. If moth poison
+is ingested, it will eat through the host—
+a parasite that cannot be removed alone.
+131073;An unknown entity that drifts through the
+skies. It makes an ocean of its
+surroundings, that it may blend with
+whatever life is found, as if in a dream.
+Exercise caution, warriors. The enemy may
+not always be that which can be seen.
+131074;A goat-headed being who pretends to be a
+man, said to be able to use a dubious form
+of alchemy. Counterfeit gold causes loss
+of sanity, beckoning madness. However,
+those who foment madness are sure to
+succumb to the selfsame malady in the end.
+131075;An ancient centaur consumed with battle.
+His fervor for the gods he serves yet
+burns within, wielding a sacred form of
+the Night's power. According to legend,
+the mightily radiant gods were able to
+conceal themselves in the roar of thunder.
+131076;A prehistoric dragon which lurks within
+fog. The great shadowy pair of eyes,
+framed in frigid mist, are said to appear
+at history's great junctures. 
+Its coldness can readily purloin the
+living warmth of its victims.
+131077;Beyond the boundless Night there lies the
+hazy figure of a person. That is the
+Night's origin, and enemy to the world.
+
+The signs shall reveal—where the footprints of the Primordial Nightlord lead.
+131078;
+131079;
+131080;
+131081;
+131082;
+131083;
+131084;
+131085;
+131086;
+131087;
+131088;
+131089;
+131090;
+131091;
+131092;
+131093;
+131094;
+131095;
+131096;
+131097;
+131098;
+131099;
+131100;Defeat the Nightlord
+131101;Defeat the Nightlords
+131102;Defeat the last Nightlord to appear
+131103;
+131104;
+131105;
+131106;
+131107;
+131108;
+131109;
+131110;The Crater
+131111;Mountaintop
+131112;Rotted Woods
+131113;Noklateo, the Shrouded City
+131114;
+131115;
+131116;
+131117;
+131118;
+131119;
+131120;N.B. Cannot set out to the Deep of Night
+131121;N.B. Will not affect the Deep of Night
+131122;N.B. Personal objectives will be prioritized
+131150;The Deep of Night
+131151;The Deep of Night is a battlefield of endless Night. Victory will increase your rating, burnishing your Depth.
+
+The darkness extends unto infinity.
+132500;Target
+132501;Ready
+132502;Cancel
+132503;Gather in 
+132550;Changing characters postpones current remembrance
+132551;Changing characters will conclude current remembrance
+132552;Current Placement
+134000;Choose purchase currency
+134001;<?image@4220##16?> Purchase with murk
+134002;<?image@4221##16?> Exchange for Sovereign Sigils
+136010;All Relics
+136011;All Presets
+136012;
+136013;
+136014;
+136015;Filter
+136016;Sort
+136017;
+136018;
+136019;
+136020;Size
+136021;Characteristics
+136022;Relic Effect
+136023;Select Effect
+136024;Selected
+136025;Show sorted
+136026;Red
+136027;Blue
+136028;Yellow
+136029;Green
+136030;Small
+136031;Medium
+136032;Large
+136033;Favorites
+136034;Sell
+136035;Type
+136036;Relic
+136037;Depths Relic
+136038;No Conditions
+136039;Condition 1
+136040;Condition 2
+136041;Condition 3
+136042;
+136043;
+136044;
+136045;
+136046;
+136047;
+136048;
+136049;
+136050;Character-specific
+136051;Armament-specific
+136052;General
+136053;Demerits
+136100;Status Effect
+136101;Action Effect
+136102;Starting Bonus
+136103;Team Effect
+136104;Environment Effect
+136105;
+136106;
+136107;
+136108;
+136109;
+136110;Attributes
+136111;Attack Power
+136112;Character Skills / Ultimate Arts
+136113;Damage Negation
+136114;Status Ailment Resistances
+136115;Restoration
+136116;Actions
+136117;Sorceries / Incantations
+136118;Starting Armaments (Skill)
+136119;Starting Armaments (Imbue)
+136120;Starting Item
+136121;Starting Item (Tear)
+136122;Environment
+136123;Team members
+136124;Demerits (Attributes)
+136125;Demerits (Damage Negation)
+136126;Demerits (Action)
+138010;Characters
+138011;
+138012;
+138013;
+138014;
+138015;
+138016;
+138017;
+138018;
+138019;
+138020;Equipment
+138040;Skills / Sorceries / Incantations
+138060;Guide
+138061;Handbook
+138110;Characters
+138111;
+138112;
+138113;
+138114;
+138115;
+138116;
+138117;
+138118;
+138119;
+138120;Melee Armaments
+138121;
+138122;Ranged Weapons
+138123;
+138124;Shields
+138125;
+138126;Staves / Sacred Seals
+138127;
+138128;Talismans
+138129;
+138130;Tools
+138131;
+138132;Relics
+138133;Key Items
+138134;
+138135;
+138136;
+138137;
+138138;
+138139;
+138140;Skills
+138141;
+138142;Sorceries
+138143;
+138144;Incantations
+138160;Guide
+138190;<?parent?> > <?child?>
+138220;Play time
+138221;Total expeditions
+138222;
+138223;Wins
+138224;Win streak
+138225;Greatest attack
+138250;Battle Record - All
+138251;Expedition time
+138252;Win streak (Depths)
+138253;Runes acquired
+138254;Runes used
+138255;Murk acquired
+138256;Sovereign Sigils acquired
+138257;Rescues performed
+138258;Ending reached
+138259;
+138260;
+138261;
+138262;
+138263;
+138264;Enemies felled
+138265;Great enemies felled
+138266;Chests opened
+138267;Grace discovered
+138268;Armaments discovered
+138269;
+138270;
+138271;Effects & powers gained
+138272;
+138273;Encounters with shifting earth
+138274;
+138275;Raid events completed
+138276;Battle Record - Personal Bests
+138277;
+138278;
+138279;Runes acquired
+138280;Runes used
+138281;Runes lost
+138282;
+138283;Enemies felled
+138284;Great enemies felled
+138285;Chests opened
+138286;Grace discovered
+138287;Rescues performed
+138288;Special effects obtained
+138289;Battle Record - Character
+138290;Nightlords Felled
+138291;Battle Record - Summary
+138292;Battle Record - Character Usage and Victories Achieved
+138293;Battle Record (Depths) - All
+138294;Battle Record (Depths) - Personal Bests
+138295;Greatest Depth conquered
+138296;Enemies felled (variants)
+138297;Enemies felled (variants)
+138450;Attributes
+138500;A young man long in pursuit of the Nightlord. This swordsman has defied death at every turn with his stunning sixth sense for combat. He swore to avenge the Night in the name of his massacred tribe.
+
+His attributes are balanced throughout maturation, with excellent HP, strength, and dexterity. Able to command all types of melee weapons.
+
+Preference: Greatswords
+138501;
+138502;
+138503;
+138504;
+138505;
+138506;
+138507;
+138508;
+138509;
+138510;Pinionfolk knight of the winged realm. A former captain who was injured in a war in which his country's fate hung in the balance. Faced the brunt of the enemy warriors' attacks to protect his flock.
+
+Boasts high HP and stamina, and plays both offense and defense on the frontline, armed with his shield.
+
+Preference: Halberds
+138511;
+138512;
+138513;
+138514;
+138515;
+138516;
+138517;
+138518;
+138519;
+138520;Assassin of the Fellowship. He is feared for his split-second judgment and the ability to spot even the most fleeting of chances to strike, earning him the moniker "Ironeye."
+
+Boasts excellent dexterity, and wields control over any battle while firing from a distant range.
+
+Preference: Bows
+138521;
+138522;
+138523;
+138524;
+138525;
+138526;
+138527;
+138528;
+138529;
+138530;Virtuous thief and stepdaughter of the viscount. Her ability to swiftly escape anyone's grasp with ease earned her the title of "Duchess."
+
+The Duchess' high dexterity and intelligence allow her to fight with combinations of sorceries and weapons.
+
+Preference: Daggers
+138531;
+138532;
+138533;
+138534;
+138535;
+138536;
+138537;
+138538;
+138539;
+138540;A pirate who sailed to the Lands Between from a nearby waterway. The opportunity to try his hand against the Nightlord proved too glorious of an opportunity to pass up.
+
+Boasting high HP and strength, his poise allows him to stand firm against moderate attacks and flatten opponents with vigorous offensives. 
+
+Preference: Greataxes, great hammers, and colossal weapons
+138541;
+138542;
+138543;
+138544;
+138545;
+138546;
+138547;
+138548;
+138549;
+138550;Doll of the daughter of an aristocratic family that faced ruin. On a fateful night, her soul took possession of the doll's body, and she swore to avenge her disgraced lineage.
+
+While steeped in faith, her other attributes develop at only a modest pace. Plays a supportive role in combat by summoning and manipulating spirits, which have the potential to overwhelm enemies.
+
+Preference: None
+138551;
+138552;
+138553;
+138554;
+138555;
+138556;
+138557;
+138558;
+138559;
+138560;One of the Witches of the Deep Forest. A caster of ancient sorceries who dwells in obscurity, far into the heart of the woods. She came to the Lands Between to answer a burning question.
+
+Boasts high intelligence and faith, and is able to deftly cast all manner of spells.
+
+Preference: None
+138561;
+138562;
+138563;
+138564;
+138565;
+138566;
+138567;
+138568;
+138569;
+138570;This condemned soul, with a body fused with pieces of armor, went missing after a prison stint in the Lands Between. Brandishes a cursed blade and savors every battle.
+
+Boasts high dexterity and arcane, and is unrivaled in one-on-one fights while armed with his cursed sword.
+
+Preference: Katana
+138700;Unique Effect
+138701;
+138702;
+138703;
+138704;
+138705;
+138706;
+138707;
+138708;
+138709;
+138710;Relic Effect
+139300;Basic Rules
+139301;Expedition Region
+139302;Roundtable Hold
+139303;
+139304;
+139305;
+139306;
+139307;
+139308;
+139309;
+139310;Basic Controls
+139311;Tactical Controls
+139312;
+139313;Unique Character Controls
+140000;Next Objective
+140100;Begin remembrance
+140101;Conclude remembrance
+140102;Postpone remembrance
+140103;Resume remembrance
+140200;Reliving Remembrance
+142010;Required Murk
+142030;All
+142031;Vessels
+142032;Gestures
+142033;Relics
+142034;Garb
+144000;Sparring Equipment
+144001;Armaments
+144002;Skill/Sorc/Incan
+144003;Consumables
+144500;Sparring Settings
+144501;Character
+144502;Standard
+144503;Quick Recovery
+144504;No limitations
+144505;ON
+144506;OFF
+144507;Character Guide
+144508;Infinite usage
+144600;Handbook
+144601;Handbook
+144710;Cheat death a single time
+144711;
+144712;
+144713;
+144714;
+144715;
+144716;
+144717;
+144718;
+144719;
+144720;<?keyMove##10?>+<?keyicon@106##10?> while guarding with shield: Steel Guard
+144721;
+144722;
+144723;
+144724;
+144725;
+144726;
+144727;
+144728;
+144729;
+144730;Obtain items more often from foes
+144731;
+144732;
+144733;
+144734;
+144735;
+144736;
+144737;
+144738;
+144739;
+144740;Consecutive <?keyicon@106##10?>: Double step
+144741;
+144742;
+144743;
+144744;
+144745;
+144746;
+144747;
+144748;
+144749;
+144750;Cannot be knocked down during skill activation
+144751;
+144752;
+144753;
+144754;
+144755;
+144756;
+144757;
+144758;
+144759;
+144760;Raise enemy ghosts to fight as allies
+144761;
+144762;
+144763;
+144764;
+144765;
+144766;
+144767;
+144768;
+144769;
+144770;Collecting affinity residues replenishes FP
+144771;
+144772;
+144773;
+144774;
+144775;
+144776;
+144777;
+144778;
+144779;
+144780;Receive boost while recovering from status ailments
+144810;<?keyicon@127##10?>: Activate
+Hold <?keyicon@127##10?>: Set claw target
+144811;
+144812;
+144813;
+144814;
+144815;
+144816;
+144817;
+144818;
+144819;
+144820;<?keyicon@127##10?>: Activate
+Hold <?keyicon@127##10?>: Charge attack
+144821;
+144822;
+144823;
+144824;
+144825;
+144826;
+144827;
+144828;
+144829;
+144830;<?keyicon@127##10?>: Activate
+144831;
+144832;
+144833;
+144834;
+144835;
+144836;
+144837;
+144838;
+144839;
+144840;<?keyicon@127##10?>: Activate
+144851;<?keyicon@127##10?>: Activate
+144852;Release <?keyicon@127##10?>: Activate
+Hold <?keyicon@127##10?>: Retaliatory stance
+<?keyicon@106##10?>: Take step
+144853;
+144854;
+144855;
+144856;
+144857;
+144858;
+144859;
+144860;
+144861;<?keyicon@127##10?>: Activate
+144862;<?keyicon@117##10?>,<?keyicon@118##10?>,<?keyicon@119##10?>: Summon
+<?keyicon@120##10?>: Send home
+144863;
+144864;
+144865;
+144866;
+144867;
+144868;
+144869;
+144870;
+144871;Press <?keyicon@127##10?> against foe with affinity residue: Activate
+Hold <?keyicon@127##10?>: Cancel
+144872;<?keyicon@127##10?>: Activate
+144873;
+144874;
+144875;
+144876;
+144877;
+144878;
+144879;
+144880;
+144881;<?keyicon@127##10?>: Activate
+144882;<?keyicon@127##10?>: Sheathe sword
+<?keyicon@117##10?>,<?keyicon@118##10?>: Attack
+<?keyicon@119##10?>: Deflect
+<?keyicon@120##10?>: Skill
+144910;<?keyicon@126##10?>: Activate
+Hold <?keyicon@126##10?>: Charge & activate
+144911;
+144912;
+144913;
+144914;
+144915;
+144916;
+144917;
+144918;
+144919;
+144920;<?keyicon@126##10?>: Activate
+Keep holding <?keyicon@126##10?>: Raise protective area
+144921;
+144922;
+144923;
+144924;
+144925;
+144926;
+144927;
+144928;
+144929;
+144930;<?keyicon@126##10?>: Activate
+Hold <?keyicon@126##10?>: Aim
+144931;
+144932;
+144933;
+144934;
+144935;
+144936;
+144937;
+144938;
+144939;
+144940;<?keyicon@126##10?>: Activate
+144941;
+144942;
+144943;
+144944;
+144945;
+144946;
+144947;
+144948;
+144949;
+144950;<?keyicon@126##10?>: Activate
+144951;
+144952;
+144953;
+144954;
+144955;
+144956;
+144957;
+144958;
+144959;
+144960;<?keyicon@126##10?>: Activate
+144961;
+144962;
+144963;
+144964;
+144965;
+144966;
+144967;
+144968;
+144969;
+144970;<?keyicon@126##10?>: Activate
+144981;<?keyicon@126##10?>: Activate
+144982;<?keyicon@117##10?>,<?keyicon@118##10?>,<?keyicon@120##10?>: Attack
+<?keyicon@119##10?>: Roar
+146000;Day: <?finishedDay?>
+146001;
+146002;
+146003;
+146004;
+146005;
+146006;
+146007;
+146008;
+146009;
+146010;First Day
+146011;Second Day
+146012;Final Day
+146100;Enemies felled
+146101;Great enemies felled
+146102;Treasure found
+146103;Sites of Grace discovered
+146104;Rescued allies
+146105;Powers found
+146106;Session ID
+146107;List of Special Effects
+146108;
+146109;
+146110;Special Effects
+146111;Passive Effects
+146500;First Day: Noontide
+146501;First Day: Night
+146502;Second Day: Noontide
+146503;Second Day: Night
+146504;Final Day
+146505;
+146506;
+146507;
+146508;
+146509;
+146510;2
+146511;1.5
+146512;1
+146513;0.5
+146514;0.25
+146700;Acquired first uncommon armament
+146701;Acquired first rare armament
+146702;Acquired first legendary armament
+146703;Acquired first unique armament
+146704;Acquired untold power
+146705;Strengthened armament
+146706;Replicated <?text1?>
+146707;Specially strengthened <?text1?>
+146708;Acquired <?text1?>
+146709;
+146710;Rescued by <?text1?>
+146711;Rescued <?text1?>
+146712;
+146713;
+146714;
+146715;
+146716;
+146717;
+146718;
+146719;
+146720;Killed by <?text1?>
+146721;Killed by foe
+146722;
+146723;
+146724;
+146725;
+146726;
+146727;
+146728;
+146729;
+146730;Killed by environment
+146731;
+146732;
+146733;
+146734;
+146735;
+146736;
+146737;
+146738;
+146739;
+146740;Felled <?text1?>
+146741;
+146742;
+146743;
+146744;
+146745;
+146746;
+146747;
+146748;
+146749;
+146750;Defeated by <?text1?>
+146751;
+146752;
+146753;
+146754;
+146755;
+146756;
+146757;
+146758;
+146759;
+146760;Defeated in prelude
+146761;
+146762;
+146763;
+146764;
+146765;
+146766;
+146767;
+146768;
+146769;
+146770;Added an extra item slot
+146771;
+146772;
+146773;
+146774;
+146775;
+146776;
+146777;
+146778;
+146779;
+146780;Unable to identify target
+146781;Map information missing
+146999;*Log capacity exceeded
+147100;Report Category
+147101;Reason for Report
+(Select all that apply)
+147102;Please select
+147103;—
+147104;
+147105;
+147106;
+147107;
+147108;
+147109;
+147110;Style of play
+147111;Player name
+147112;
+147113;
+147114;
+147115;
+147116;
+147117;
+147118;
+147119;
+147120;Cheating
+147121;Bug exploitation
+147122;
+147123;Unattended games
+147124;
+147125;Obstruction or harassment
+147126;Stalking
+147127;Threats
+147128;Discrimination
+147129;Obscene content
+147130;Commercial advertising
+147131;Personal information
+147132;Defamation
+147133;Infringing on others' rights
+147150;Offending Player
+147151;Report Category
+147152;Reason
+148000;Reward for Achieving Objective
+149000;Deep of Night Progress
+150000;Expedition Results
+150011;<?year?>/<?month?>/<?day?>
+150012;<?hour?>:<?minute?>:<?second?>
+152000;Required Sovereign Sigils
+231000;Shop
+231001;Runes Required
+234020;----
+236001;Required Items
+236002;None
+236003;Legendary Ascension (1 time only)
+245000;<?PinCreatorName?>'s pin
+245100;<?PinReactionName1?>'s pin
+245200;<?PinReactionName2?>'s pin
+245300;<?PinCreatorName?>'s pin
+280001;Key Bindings
+280002;
+280003;
+280004;
+280005;Keyboard
+280006;Mouse
+280007;
+280008;
+280009;
+280010;Move
+280011;
+280012;
+280013;
+280014;
+280015;
+280016;
+280017;
+280018;
+280019;
+280020;Camera Controls
+280021;
+280022;
+280023;
+280024;
+280025;
+280026;
+280027;
+280028;
+280029;
+280030;Switch Armament
+280031;
+280032;
+280033;
+280034;
+280035;
+280036;
+280037;
+280038;
+280039;
+280040;Attack
+280060;Menu
+280100;Movement Control
+280101;Move Forwards
+280102;Move Backwards
+280103;Move Left
+280104;Move Right
+280105;Backstep, Dodge Roll, Dash
+280106;Jump
+280107;
+280108;Surge Sprint
+280109;
+280110;Move
+280199;Adjust Camera, Change Lock-On Target
+280200;Move Camera / Change Target (Up)
+280201;Move Camera / Change Target (Down)
+280202;Move Camera / Change Target (Left)
+280203;Move Camera / Change Target (Right)
+280204;Reset Camera, Lock-On/Remove Target
+280300;Switch Item
+280301;Switch Right-Hand Armament
+280302;Switch Left-Hand Armament
+280350;Toggle Item Order
+280351;Use Item Immediately
+280352;
+280353;
+280354;
+280355;
+280356;
+280357;
+280358;
+280359;
+280360;Cycle Contextual Action Button (Right)
+280361;Cycle Contextual Action Button (Left)
+280400;Attack (RH & Two-Handed Armament)
+280401;Strong Attack (RH & 2H Armament)
+280402;Guard (LH Armament)
+280403;Skill
+280404;Event Action (Examine, Open, etc.)
+280405;Use Item
+280406;Use Flask
+280450;Two-Hand RH Armament/Cancel
+280451;Two-Hand LH Armament/Cancel
+280452;Two-Hand Current Armament
+280453;Character Skill
+280454;Ultimate Art
+280500;Main Menu
+280501;Map
+280502;Display Location of Self/Item
+280503;Map Menu Controls
+280504;
+280505;
+280506;
+280507;
+280508;
+280509;
+280510;Zoom In Map
+280511;Zoom Out Map
+280512;Change Level: Up
+280513;Change Level: Down
+280514;Switch Pin (Next)
+280515;Switch Pin (Previous)
+280516;Show Position
+280517;Detailed View On/Off
+280600;Map
+288001;Character Selection
+288050;Wylder
+288051;Guardian
+288052;Ironeye
+288053;Duchess
+288054;Raider
+288055;Revenant
+288056;Recluse
+288057;Executor
+288058;
+288059;
+288060;Wylder
+288061;Guardian
+288062;Duchess
+288063;Recluse
+331200;FROSTBITE
+331201;BLOOD LOSS
+331202;POISON
+331203;SCARLET ROT
+331204;SLEEP
+331205;MADNESS
+331206;
+331207;DEATH BLIGHTED
+331208;LEVEL LOST
+331209;LEVEL ABSORBED
+332001;<?keyicon@118?>Frederick
+332002;<?keyicon@117?>Helen
+332003;<?keyicon@119?>Sebastian
+332004;<?keyicon@120?>: Send home
+335000;Hold <?keyicon@122?>: Descend
+<?keyicon@105?>: Disembark
+335001;<?keyicon@105?>: Disembark
+335002;
+335003;
+335004;
+335005;
+335006;
+335007;
+335008;
+335009;
+335010;<?keyicon@107?>: Spiritstream jump
+335011;
+335012;
+335013;
+335014;
+335015;
+335016;
+335017;
+335018;
+335019;
+335020;<?keyicon@107?> while jumping: Spiritstream jump
+335021;
+335022;
+335023;
+335024;
+335025;
+335026;
+335027;
+335028;
+335029;
+335030;Find crest
+335031;Find crest
+335032;Find crest
+335033;Find crest
+335034;Find crest
+335035;Find crest
+335036;Find crest
+335037;Find crest
+335038;Find crest
+335039;Find crest
+335050;Find crests
+335051;
+335052;
+335053;
+335054;
+335055;
+335056;
+335057;
+335058;
+335059;
+335060;Smithing table is sealed
+335061;
+335062;
+335063;
+335064;
+335065;
+335066;
+335067;
+335068;
+335069;
+335070;Unable to examine now
+335071;Unable to examine now
+335072;Unable to examine now
+335073;Unable to examine now
+335074;Unable to examine now
+335075;Unable to examine now
+335076;Unable to examine now
+336001;DEMIGOD FELLED
+336002;LEGEND FELLED
+336003;GREAT ENEMY FELLED
+336004;ENEMY FELLED
+336005;NIGHTLORD SLAIN
+336006;NIGHT REPULSED
+336007;NIGHTLORD FELLED
+336008;RIVAL FELLED
+336009;DARKNESS BANISHED
+336010;VICTORY ACHIEVED
+336011;HEIR OF FIRE DESTROYED
+336101;INVADER VANQUISHED
+336200;LOST GRACE DISCOVERED
+336201;
+336202;
+336203;
+336204;
+336205;
+336206;
+336207;
+336208;
+336209;
+336210;POWER GAINED
+336211;
+336212;
+336213;
+336214;
+336215;
+336216;
+336217;
+336218;
+336219;
+336220;LEGEND FORGED
+336300;YOU DIED
+336400;VICTORY
+336401;
+336402;
+336403;
+336404;
+336405;
+336406;
+336407;
+336408;
+336409;
+336410;DEFEAT
+336411;
+336412;
+336413;
+336414;
+336415;
+336416;
+336417;
+336418;
+336419;DAY I
+336420;DAY II
+336421;DAY III
+336500;<?playerName1?>
+336501;<?playerName2?>
+336502;<?playerName3?>
+336900;Matchmaking...
+336901;Matchmaking complete
+336902;Ready to commence expedition
+336903;Preparing...
+336904;Matchmaking cancelled
+336905;<?matchRemainingCount?> / <?matchTotalCount?>
+336906;<?groupRemainingCount?> / <?groupParticipants?>
+336907;
+336908;
+336909;
+336910;COMMENCE
+336911;VICTORY
+336912;
+336913;
+336914;
+336915;
+336916;
+336917;
+336918;
+336919;
+336920;OBJECTIVE ACHIEVED
+337231;
+337411;<?text1?> required
+337500;Near death
+337600;Mastered uncommon armaments
+337601;
+337602;
+337603;
+337604;
+337605;
+337606;
+337607;
+337608;
+337609;
+337610;Mastered rare armaments
+337611;
+337612;
+337613;
+337614;
+337615;
+337616;
+337617;
+337618;
+337619;
+337620;Mastered legendary armaments
+337621;
+337622;
+337623;
+337624;
+337625;
+337626;
+337627;
+337628;
+337629;
+337630;Mastered unique armaments
+337700;Location shown
+337701;
+337702;
+337703;
+337704;
+337705;
+337706;
+337707;
+337708;
+337709;
+337710;Ally desires equipment
+337711;
+337712;
+337713;
+337714;
+337715;
+337716;
+337717;
+337718;
+337719;
+337720;Ally is also showing location
+337721;
+337722;
+337723;
+337724;
+337725;
+337726;
+337727;
+337728;
+337729;
+337730;Ally is indicating equipment
+337731;
+337732;
+337733;
+337734;
+337735;
+337736;
+337737;
+337738;
+337739;
+337740;Location shown
+337741;
+337742;
+337743;
+337744;
+337745;
+337746;
+337747;
+337748;
+337749;
+337750;Ally is showing location
+337751;
+337752;
+337753;
+337754;
+337755;
+337756;
+337757;
+337758;
+337759;
+337760;You asked for equipment
+337761;
+337762;
+337763;
+337764;
+337765;
+337766;
+337767;
+337768;
+337769;
+337770;You also showed location
+337771;
+337772;
+337773;
+337774;
+337775;
+337776;
+337777;
+337778;
+337779;
+337780;You indicated equipment
+337800;<?text1?> x<?text2?>
+337801;
+337802;
+337803;
+337804;
+337805;
+337806;
+337807;
+337808;
+337809;
+337810;Replicated armament
+337811;
+337812;
+337813;
+337814;
+337815;
+337816;
+337817;
+337818;
+337819;
+337820;This armament cannot be replicated
+337821;
+337822;
+337823;
+337824;
+337825;
+337826;
+337827;
+337828;
+337829;
+337830;Strengthened armament
+337831;
+337832;
+337833;
+337834;
+337835;
+337836;
+337837;
+337838;
+337839;
+337840;Cannot strengthen this armament
+337841;
+337842;
+337843;
+337844;
+337845;
+337846;
+337847;
+337848;
+337849;
+337850;Materials needed to strengthen armament
+337851;
+337852;
+337853;
+337854;
+337855;
+337856;
+337857;
+337858;
+337859;
+337860;If you continue to remain inactive you will be removed from session
+337861;
+337862;
+337863;
+337864;
+337865;
+337866;
+337867;
+337868;
+337869;
+337870;Insufficient runes
+337871;Out of stock
+337872;Item slots already at maximum
+337915;Voices in weapon form a blessing 
+337916;
+337917;
+337918;
+337919;
+337920;The Sacrificial Twig preserved collected runes
+337921;The Twiggy Cracked Tear preserved collected runes
+337922;
+337923;
+337924;
+337925;
+337926;
+337927;
+337928;
+337929;
+337930;The Great Site of Grace has been altered
+337931;A demon summons the Condemned
+337932;A demon incites a riot
+337933;A demon shrouds all allies
+337934;A demon reveals an inescapable eye
+337935;A demon offers a challenge
+337936;A demon preaches madness
+337937;A demon offers a false blessing 
+337938;
+337939;
+337940;Acquired Golden Seed <?missionProgress@0801?>/<?missionGoal@0801?>
+337941;Acquired Vestige of Night <?missionProgress@0702?>/<?missionGoal@0702?>
+337942;Acquired Dried Droplet <?missionProgress@0602?>/<?missionGoal@0602?>
+337943;
+337944;
+337945;
+337946;
+337947;
+337948;
+337949;
+337950;Earth is shifting: The Crater
+337951;Earth is shifting: Mountaintop
+337952;Earth is shifting: Rotted Woods
+337953;Earth is shifting: Shrouded City
+337954;
+337955;Shifting earth has settled
+337956;Shifting earth has settled
+337957;Shifting earth has settled
+337958;Shifting earth has settled
+337959;
+337960;Personal Objective in Progress
+337961;Personal Objective in Progress
+337962;Personal Objective in Progress
+337963;Personal Objective in Progress
+337964;Personal Objective in Progress
+337965;Personal Objective in Progress
+337966;Personal Objective in Progress
+337967;Personal Objective in Progress
+337968;
+337969;
+337970;Memory fragment found
+337971;Remembrance completed
+337972;Personal objective added
+337973;Not compatible with pending match
+337974;
+337975;
+337976;
+337977;
+337978;
+337979;
+337980;Objective location can now be examined
+337981;Objective location can now be examined
+337982;Objective location can now be examined
+337983;Objective location can now be examined
+337984;Objective location can now be examined
+337985;Objective location can now be examined
+337986;Objective location can now be examined
+337987;
+337988;
+337989;
+337990;The demon's power has been lost
+337991;Failed to overcome the trial of the ascetic
+337992;Gained strength by overcoming the trial of the ascetic
+337993;A bargain has been struck to fight at full strength
+337994;The threat of Night emerges
+337995;
+337996;
+337997;
+337998;
+337999;
+338000;A Fell Omen arrives
+338001;
+338002;
+338003;
+338004;
+338005;
+338006;
+338007;
+338008;
+338009;
+338010;Fell Omen defeated
+338011;
+338012;
+338013;
+338014;
+338015;
+338016;
+338017;
+338018;
+338019;
+338020;Fell Omen repelled
+338021;
+338022;
+338023;
+338024;
+338025;
+338026;
+338027;
+338028;
+338029;
+338030;Fell Omen repelled
+338031;
+338032;
+338033;
+338034;
+338035;
+338036;
+338037;
+338038;
+338039;
+338040;Giant bubbles are forming
+338060;The master of bubbles was felled
+338061;
+338062;
+338063;
+338064;
+338065;
+338066;
+338067;
+338068;
+338069;
+338070;The bubbles have dissipated
+338071;
+338072;
+338073;
+338074;
+338075;
+338076;
+338077;
+338078;
+338079;
+338080;A demon casts its curse
+338081;
+338082;
+338083;
+338084;
+338085;
+338086;
+338087;
+338088;
+338089;
+338090;A deal with a demon has cleansed the curse
+338091;
+338092;
+338093;
+338094;
+338095;
+338096;
+338097;
+338098;
+338099;
+338100;A failed deal has sown enmity
+338101;
+338102;
+338103;
+338104;
+338105;
+338106;
+338107;
+338108;
+338109;
+338110;Foe felled, cleansing the curse
+338111;
+338112;
+338113;
+338114;
+338115;
+338116;
+338117;
+338118;
+338119;
+338120;The demon departs
+338121;
+338122;
+338123;
+338124;
+338125;
+338126;
+338127;
+338128;
+338129;
+338130;A plague of locusts befalls the land
+338141;Find the enemy who is stealing runes
+338142;
+338143;
+338144;
+338145;
+338146;
+338147;
+338148;
+338149;
+338150;Plague of locusts quelled
+338151;
+338152;
+338153;
+338154;
+338155;
+338156;
+338157;
+338158;
+338159;
+338160;Plague of locusts has died down
+338161;
+338162;
+338163;
+338164;
+338165;
+338166;
+338167;
+338168;
+338169;
+338170;The Night threatens us anew
+338171;
+338172;
+338173;
+338174;
+338175;
+338176;
+338177;
+338178;
+338179;
+338180;A meteorite has fallen
+338181;
+338182;
+338183;
+338184;
+338185;
+338186;
+338187;
+338188;
+338189;
+338190;Meteorite master felled
+338191;
+338192;
+338193;
+338194;
+338195;
+338196;
+338197;
+338198;
+338199;
+338200;The Night hordes multiply...
+338201;
+338202;
+338203;
+338204;
+338205;
+338206;
+338207;
+338208;
+338209;
+338210;Other worlds spur the hordes
+338211;The hordes of Night were worn down by <?codenameIcon?>.
+338212;The Night hordes are enfeebled
+338213;
+338214;
+338215;
+338216;
+338217;
+338218;
+338219;
+338220;The Night hordes have dissipated
+338221;
+338222;
+338223;
+338224;
+338225;
+338226;
+338227;
+338228;
+338229;
+338230;A flame of frenzy appears
+338231;
+338232;
+338233;
+338234;
+338235;
+338236;
+338237;
+338238;
+338239;
+338240;Flame of frenzy has dissipated
+338241;
+338242;
+338243;
+338244;
+338245;
+338246;
+338247;
+338248;
+338249;
+338250;Flame of frenzy has dissipated
+338251;
+338252;
+338253;
+338254;
+338255;
+338256;
+338257;
+338258;
+338259;
+338260;Rise's contraption unlocked
+338261;Rise's contraption unlocked by another world
+338262;Rise's contraption unlocked by <?codenameIcon?>'s world
+338263;
+338264;
+338265;
+338266;
+338267;
+338268;
+338269;
+338270;Enemy felled
+338271;
+338272;
+338273;
+338274;
+338275;
+338276;
+338277;
+338278;
+338279;
+338280;Another Condemned has invaded!
+338281;
+338282;
+338283;
+338284;
+338285;
+338286;
+338287;
+338288;
+338289;
+338290;A Rise's contraption is unlocked
+338291;
+338292;
+338293;
+338294;
+338295;
+338296;
+338297;
+338298;
+338299;
+338300;Acquired a local clue
+338301;
+338302;
+338303;
+338304;
+338305;
+338306;
+338307;
+338308;
+338309;
+338310;Evergaol opened
+338311;
+338312;
+338313;
+338314;
+338315;
+338316;
+338317;
+338318;
+338319;
+338320;Great enemy felled
+338321;
+338322;
+338323;
+338324;
+338325;
+338326;
+338327;
+338328;
+338329;
+338330;Added a charge to flask
+338331;
+338332;
+338333;
+338334;
+338335;
+338336;
+338337;
+338338;
+338339;
+338340;Added a charge to flask
+338341;
+338342;
+338343;
+338344;
+338345;
+338346;
+338347;
+338348;
+338349;
+338350;
+338351;
+338352;
+338353;
+338354;
+338355;
+338356;
+338357;
+338358;
+338359;
+338360;
+338361;
+338362;
+338363;
+338364;
+338365;
+338366;
+338367;
+338368;
+338369;
+338370;Added an extra item slot
+338371;
+338372;
+338373;
+338374;
+338375;
+338376;
+338377;
+338378;
+338379;
+338380;Added an extra talisman slot
+338381;
+338382;
+338383;
+338384;
+338385;
+338386;
+338387;
+338388;
+338389;
+338390;Rainfall emboldens the enemy...
+338391;
+338392;
+338393;
+338394;
+338395;
+338396;
+338397;
+338398;
+338399;
+338400;Great enemy felled
+338401;
+338402;
+338403;
+338404;
+338405;
+338406;
+338407;
+338408;
+338409;
+338410;Great enemy felled
+338411;
+338412;
+338413;
+338414;
+338415;
+338416;
+338417;
+338418;
+338419;
+338420;Great enemy felled
+338421;
+338422;
+338423;
+338424;
+338425;
+338426;
+338427;
+338428;
+338429;
+338430;Great enemy felled
+338431;
+338432;
+338433;
+338434;
+338435;
+338436;
+338437;
+338438;
+338439;
+338440;A door has opened
+338441;
+338442;
+338443;
+338444;
+338445;
+338446;
+338447;
+338448;
+338449;
+338450;Special smithing table unlocked
+338451;
+338452;
+338453;
+338454;
+338455;
+338456;
+338457;
+338458;
+338459;
+338460;Formidable great enemy located
+338461;
+338462;
+338463;
+338464;
+338465;
+338466;
+338467;
+338468;
+338469;
+338470;Rotted Woods blessing located
+338471;
+338472;
+338473;
+338474;
+338475;
+338476;
+338477;
+338478;
+338479;
+338480;A place once sealed is now open
+339000;Map information missing
+401001;©Bandai Namco Entertainment Inc. / ©2025 FromSoftware, Inc.
+401002;©Bandai Namco Entertainment Inc. / ©2025 FromSoftware, Inc.
+401301;CONTINUE
+401302;LOAD GAME
+401303;NEW GAME
+401304;SYSTEM
+401305;INFORMATION
+401306;LOG IN
+401307;
+401308;
+401309;QUIT GAME
+401310;ONLINE
+401311;OFFLINE
+401312;
+401313;CONVERT SAVE DATA
+401314;
+401315;
+401316;
+401317;
+401318;
+401319;
+401320;App Ver.
+401321;Server Ver.
+401322;Calibrations Ver.
+401400;INFORMATION
+401401;There is no new information
+401500;ELDEN RING NIGHTREIGN Online Service Terms
+401501;
+401502;
+401503;
+401504;
+401505;
+401506;
+401507;
+401508;
+401509;
+401510;Accept
+401511;Decline
+401900;Network Test Ver.
+401901;This game is still under development
+406000;LOAD GAME
+406001;NEW GAME
+411000;Claw Shot
+411001;Whirlwind
+411002;Marking
+411003;Restage
+411004;Retaliate
+411005;Summon Spirit
+411006;Magic Cocktail
+411007;Cursed Sword
+411008;
+411009;
+411010;Claw Shot
+411011;Whirlwind
+411012;Marking
+411013;Restage
+411014;Retaliate
+411015;Summon Spirit
+411016;Magic Cocktail
+411017;Cursed Sword
+411107;Suncatcher
+411108;
+411109;
+411110;
+411111;
+411112;
+411113;
+411114;
+411115;
+411116;
+411117;Suncatcher
+412000;Launch grappling claw to rope foes in
+or move swiftly by retracting.
+412001;Beat wing to whip up a
+wind-churning cyclone.
+412002;Cut foe with dagger, creating
+temporary weak point.
+412003;Stage reprisal of recent occurrences
+to damage nearby foes.
+412004;Assume attack stance
+and pummel vigorously.
+412005;Play lyre to summon fallen
+family to rally in battle.
+412006;Collect the affinity residues of targets
+to fire an affinity-exploiting magic cocktail.
+412007;Draw a cursed sword that
+can deflect enemy attacks.
+412008;
+412009;
+412010;
+412011;
+412012;
+412013;
+412014;
+412015;
+412016;
+412017;Draw the Executor's golden sword that
+can deflect enemy attacks.
+412100;Whether targets can be roped in or not depends
+on enemy physique. Effective at breaking guard.
+Hold to aim.
+412101;Enemies caught in cyclone are drawn toward
+center. Sweeps away lightweight projectiles.
+Hold to enlarge range.
+412102;Inflict damage on temporary weak point to
+destroy it and stagger foes. Damaging weak
+point extends its duration.
+412103;Damage to phantoms affects original.
+This skill can be used at any time.
+412104;A defensive posture which reduces incoming
+damage. An enhanced skill which causes
+even larger enemies to recoil.
+412105;Choose to summon Helen the agile page, Frederick
+the burly cook, or Sebastian the doting butler.
+412106;Affinity residues accumulate. Collect three
+to wield a magic spell. Complex affinity
+combinations create more powerful spells.
+412107;Repeated deflections reveal blade, enabling
+powerful attacks with the living sword.
+Cannot run while at ready with enchanted blade.
+412108;
+412109;
+412110;
+412111;
+412112;
+412113;
+412114;
+412115;
+412116;
+412117;Repeated deflections reveal blade, enabling
+powerful attacks with the living sword. The blade
+lost its voice, but is forever loyal to its master.
+413000;Onslaught Stake
+413001;Wings of Salvation
+413002;Single Shot
+413003;Finale
+413004;Totem Stela
+413005;Immortal March
+413006;Soulblood Song
+413007;Aspects of the Crucible: Beast
+413008;
+413009;
+413010;Onslaught Stake
+413011;Wings of Salvation
+413012;Single Shot
+413013;Finale
+413014;Totem Stela
+413015;Immortal March
+413016;Soulblood Song
+413017;Aspects of the Crucible: Beast
+414000;Powerful single attack that launches
+an iron stake with a great explosion.
+414001;Leap up and dive back down to
+raise protective area.
+414002;Fire powerful arrow that surpasses sound
+and ignores any defense.
+414003;Obscure self and surrounding
+allies to hide from foes.
+414004;Drive gravekeeper's wedge into earth
+to summon a giant tombstone.
+414005;Release vengeful ire to make self
+and nearby allies immortal.
+414006;Unleash forbidden blood chant
+to brand nearby foes with blood sigils.
+414007;Assume the form of
+the primordial beast.
+414100;Recoil causes one to reel back, but
+preserves a portion of Ultimate Art gauge.
+Hold to boost impact and remain standing.
+414101;Can move briefly while in air, and
+diving attack is perfect for rescues.
+Hold to shield nearby allies from damage.
+414102;Arrow pierces all types of enemies, terrains,
+and structures. Hold to draw bow and aim
+before firing.
+414103;Enemies lose track of the caster,
+wandering aimlessly or becoming prone to
+leaving themselves vulnerable.
+414104;Tombstone radiates protective aura, boosting
+strength of nearby allies and blocking arrows.
+Can also be climbed.
+
+414105;Revives near-death allies, and transforms
+family into immortal warriors.
+414106;Brands foes with short-lived Blood Sigils
+that increase damage taken and restore
+the HP and FP of caster.
+414107;Use unique attacks in beast form that
+drain the Ultimate Art gauge. Activate again
+to quickly undo transformation.
+415000;Sixth Sense
+415001;Steel Guard
+415002;Eagle Eye
+415003;Magnificent Poise
+415004;Fighter's Resolve
+415005;Necromancy
+415006;Elemental Defense
+415007;Tenacity
+415008;
+415009;
+415010;Sixth Sense
+415011;Steel Guard
+415012;Eagle Eye
+415013;Magnificent Poise
+415014;Fighter's Resolve
+415015;Necromancy
+415016;Elemental Defense
+415017;Tenacity
+416000;Cheat death a single time.
+416001;Plant feet and brace with
+shield for a more powerful guard.
+416002;A keenly observant eye discovers
+more items to obtain from foes.
+416003;Attack and dodge optimally,
+dodging repeatedly when necessary.
+416004;Taking damage boosts Retaliate potency,
+cannot be knocked down while using it.
+416005;Raise enemy ghosts to fight as allies.
+416006;Discover affinity residues that can
+be collected to replenish FP.
+416007;Receive boost after recovering
+from status ailments.
+416100;This ability can only be used once
+until restored through revival from death
+or passing through a Site of Grace.
+416101;Greatly improves guard boost, but prevents
+running while holding up shield.
+416102;The effect of this ability also applies
+to allies.
+416103;Reduces stamina reduction from attacks
+and evasive actions. Allows up to two
+consecutive evasive actions.
+416104;Remain standing with a sliver of HP even
+after taking heavy damage.
+416105;Ghosts are summoned to fight, but are
+fleeting and dissipate after some time.
+416106;Affinity attacks create affinity residues.
+Residues appear for allies, as well, which
+can also be collected.
+416107;Effect boosts attack and stamina recovery speed.
+423100;The Night's tide grows stronger
+423120;Rains gather,
+portending the tide of Night
+606000;<?kgUD?>: Scroll <?kgLR?>: Select <?kgOk?>: Confirm <?kgRU?>: Change language
+606001;Accept
+606002;Decline
+606050;<?kgUD?>: Scroll <?kgOk?> <?kgCancel?>: Close <?kgRU?>: Change language
+606100;Terms of Service
+606200;Privacy Policy
+606300;Allow usage of data
+607003;<?kgUD?>: Select <?kgOk?>: Confirm <?kgCancel?>: Close
+607004;Switch Language
+607005;日本語
+607006;English
+607007;Français
+607008;Español
+607009;Italiano
+607010;Deutsch
+607011;한국어
+607012;繁體中文
+607013;简体中文
+607014;Polski
+607015;Русский
+607016;Português (Brasil)
+607017;Español (América Latina)
+607018;ภาษา​ไทย
+607019;اﻟﻌﺭﺑﻳﺔ

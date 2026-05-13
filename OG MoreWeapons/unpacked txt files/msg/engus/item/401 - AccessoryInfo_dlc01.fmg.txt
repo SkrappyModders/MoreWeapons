@@ -1,0 +1,5 @@
+8000;Slowly restores FP
+8010;Improves backsteps but increases damage taken
+8040;Enhances attacks with two-handed weapons
+8060;Madness in the vicinity increases attack power
+10000;

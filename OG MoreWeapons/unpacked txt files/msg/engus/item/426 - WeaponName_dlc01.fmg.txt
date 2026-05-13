@@ -1,0 +1,126 @@
+2120000;Ringed Knight Straight Sword
+2130000;Broken Straight Sword
+2160000;Lothric's Holy Sword
+2530000;Carian Sorcery Sword
+2540000;Carian Sorcery Sword
+2550000;Sword of Light
+2560000;Sword of Darkness
+2570000;Gotthard Twinswords
+2570500;Fire Gotthard Twinswords
+2570600;Lightning Gotthard Twinswords
+2570700;Sacred Gotthard Twinswords
+2570800;Magic Gotthard Twinswords
+2570900;Cold Gotthard Twinswords
+2571000;Poison Gotthard Twinswords
+2571100;Blood Gotthard Twinswords
+2590000;Onikiri and Ubadachi
+3520000;Gael's Greatsword
+3550000;Greatsword of Solitude
+3560000;Twin Princes' Greatsword
+4090000;Fume Ultra Greatsword
+4120000;Lorian's Greatsword
+4130000;Black Knight Greatsword
+4130500;Fire Black Knight Greatsword
+4130600;Lightning Black Knight Greatsword
+4130700;Sacred Black Knight Greatsword
+4130800;Magic Black Knight Greatsword
+4130900;Cold Black Knight Greatsword
+4131000;Poison Black Knight Greatsword
+4500000;Ancient Meteoric Ore Greatsword
+4600000;Farron Greatsword
+4700000;Gladius's Greatsword
+5070000;Crow Quills
+5750000;Scholar's Thrusting Sword
+5760000;Scholar's Thrusting Sword
+5770000;Scholar's Thrusting Sword
+5780000;Scholar's Thrusting Sword
+6250000;Dueling Shield
+6260000;Carian Thrusting Shield
+6450000;Backhand Blade
+6450500;Fire Backhand Blade
+6450600;Lightning Backhand Blade
+6450700;Sacred Backhand Blade
+6450800;Magic Backhand Blade
+6450900;Cold Backhand Blade
+6451000;Poison Backhand Blade
+6451100;Blood Backhand Blade
+6460000;Smithscript Cirque
+6470000;Curseblade's Cirque
+6650000;Great Katana
+6650500;Fire Great Katana
+6650600;Lightning Great Katana
+6650700;Sacred Great Katana
+6650800;Magic Great Katana
+6650900;Cold Great Katana
+6651000;Poison Great Katana
+6651100;Blood Great Katana
+6660000;Dragon-Hunter's Great Katana
+6670000;Rakshasa's Great Katana
+6750000;Milady
+6750500;Fire Milady
+6750600;Lightning Milady
+6750700;Sacred Milady
+6750800;Magic Milady
+6750900;Cold Milady
+6751000;Poison Milady
+6751100;Blood Milady
+6760000;Leda's Sword
+6770000;Rellana's Twin Blades
+7090000;Sellsword Twinblades
+7090500;Fire Sellsword Twinblades
+7090600;Lightning Sellsword Twinblades
+7090700;Sacred Sellsword Twinblades
+7090800;Magic Sellsword Twinblades
+7090900;Frost Sellsword Twinblades
+7091000;Poison Sellsword Twinblades
+7091100;Blood Sellsword Twinblades
+7130000;Demon's Scar
+7160000;Demon's Scar
+8090000;Harald Curved Greatsword
+8090500;Fire Harald Curved Greatsword
+8090600;Lightning Harald Curved Greatsword
+8090700;Sacred Harald Curved Greatsword
+8090800;Magic Harald Curved Greatsword
+8090900;Frost Harald Curved Greatsword
+8091000;Poison Harald Curved Greatsword
+8091100;Blood Harald Curved Greatsword
+9090000;Frayed Blade
+9100000;Sword of Night
+9110000;Star-Lined Sword
+10180000;Friede's Great Scythe
+10500000;Euporia
+10600000;Fulghor's Twinblade
+11400000;Aquamarine Dagger
+11750000;Undertaker's Hammer
+12220000;Ledo's Great Hammer
+12300000;Vordt's Great Hammer
+12400000;Quakestone Hammer
+14200000;Dragonslayer's Axe
+14200500;Fire Dragonslayer's Axe
+14200600;Lightning Dragonslayer's Axe
+14200700;Sacred Dragonslayer's Axe
+14200800;Magic Dragonslayer's Axe
+14200900;Cold Dragonslayer's Axe
+14201000;Poison Dragonslayer's Axe
+15150000;Black Knight Greataxe
+15150500;Fire Black Knight Greataxe
+15150600;Lightning Black Knight Greataxe
+15150700;Sacred Black Knight Greataxe
+15150800;Magic Black Knight Greataxe
+15150900;Cold Black Knight Greataxe
+15151000;Poison Black Knight Greataxe
+16200000;Ringed Knight Spear
+16300000;Ringed Knight Paired Greatsword
+17040000;Spear of the Impaler
+18170000;Crucifix of the Mad King
+18180000;Gundyr's Halberd
+19500000;Obsidian Lamina
+21800000;Dryleaf Arts
+21900000;Dane's Footwork
+22500000;Claws of Night
+23500000;Devonia's Hammer
+23510000;Shadow Sunflower Blossom
+41080000;Ansbach's Longbow
+43090000;Repeating Crossbow
+43100000;Spread Crossbow
+63500000;Smithscript Dagger

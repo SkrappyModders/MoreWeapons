@@ -1,0 +1,97 @@
+120750;Cold Miasma
+120751;
+120752;
+120753;
+120754;
+120755;
+120756;
+120757;
+120758;
+120759;
+120760;Countdown Curse Cleanse
+121144;Automatic Revival Upon Defeat
+121145;Continuous HP Recovery
+121177;Faster Art Gauge Buildup
+121178;
+121179;
+121180;
+121181;
+121182;
+121183;
+121184;Crystal Curse
+121185;Improved Sorceries & Incantations
+121186;Improved Spell Casting Speed
+121187;Invulnerable
+121188;Improved Fire Attack Power
+121189;Improved Magic Attack Power
+121190;Improved Lightning Attack Power
+121191;Improved Holy Attack Power
+121192;Strengthen Poison Effect
+121193;Strengthen Blood Loss Effect
+121194;Strengthen Frost Effect
+121195;Strengthen Scarlet Rot Effect
+121196;Poison Causes Increased Damage
+121197;Bleeding Causes Increased Damage
+121198;Frostbite Causes Increased Damage
+121199;Scarlet Rot Causes Increased Damage
+121200;Continuous HP Recovery
+121201;Continuous HP Loss
+121202;Improved Physical Attack Power
+121203;Strengthen Scarlet Rot Effect
+121204;Continuous FP Recovery
+121205;Strengthen Sleep Effect
+121206;Increased Maximum HP
+121207;Increased Ailment Resistance
+121208;Increased Maximum Stamina
+121209;Improved Affinity Attack Power
+121210;Increased Maximum FP
+121211;Add Explosion to Perfumes
+121212;Improved Attributes
+121213;Increased Maximum Stamina
+121214;Increased Maximum Stamina
+121215;Improved Damage Negation
+121216;Specimens for Analysis
+121217;Threaded
+121218;Reduce poison buildup
+121219;Reduce rot buildup
+121220;Reduce blood loss buildup
+121221;Reduce frost buildup
+121222;Reduce sleep buildup
+121223;Reduce madness buildup
+121224;Reduce death buildup
+121225;Attacks Inflict Scarlet Rot
+121226;Improved Attack Power
+121227;Continuous HP Recovery
+121228;Occasionally Nullify Enemy Attacks
+121229;Ultimate Art Auto Charge +
+121230;
+121231;Improved Poise
+121232;Improved Damage Negation
+121233;Improved Attack Power
+121234;Fluent Evasion
+121235;Reverberation
+121236;More Runes From Defeated Enemies
+121237;Improved Item Discovery
+121238;Cold Mirage
+123400;Improved Stamina Recovery
+123401;
+123402;
+123403;
+123404;
+123405;
+123406;
+123407;
+123408;
+123409;
+123410;Balancing Judgment
+123411;Improved Attack Power
+123412;Improved Attack Power
+123413;Reduced FP Consumption
+123414;
+123415;
+123416;
+123417;
+123418;
+123419;
+123420;Abyss
+123421;Abyss

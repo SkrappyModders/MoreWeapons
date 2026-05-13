@@ -1,0 +1,50 @@
+8360000;Faster auto-charging for Ultimate Art during combat
+8970040;Conceals oneself when faced with threats to life, neutralizing all attacks
+8970041;
+8970042;
+8970043;
+8970044;
+8970045;
+8970046;
+8970047;
+8970048;
+8970049;
+8970050;Successive attacks restore stamina and hasten stamina recovery for self and nearby allies
+8970051;
+8970052;
+8970053;
+8970054;
+8970055;
+8970056;
+8970057;
+8970058;
+8970059;
+8970060;Rise from near-death unaided on occasion. Attack power
+increases after rising from near-death.
+9990000;Faster auto-charging for Ultimate Art
+9990021;Increases max HP. Attacks after receiving damage partially recover HP.
+9990050;Breaks crystal curse, and when Sacred Flasks are exhausted, fills art gauge once
+9990051;
+9990052;
+9990053;
+9990054;
+9990055;
+9990056;
+9990057;
+9990058;
+9990059;
+9990060;Faster auto-charging for Ultimate Art and
+bonus murk received after session
+9990061;
+9990062;
+9990063;Effect of Power of the Outrider Knight's
+9990064;Effect of Vordt's Perseverance
+10001000;A worn leather monocle case
+10001001;Core extracted from the Scholar
+10001002;A Night-smirched clear crystal
+10001003;A royal family vassal's journal
+10001004;Fast-acting Albinauric medicine
+10001005;Returned leather monocle case
+10001006;Headband worn by the denizens of the lands of Gold
+10001007;A note written by the Scholar
+10001008;Primordial Nightlord's torn finger
