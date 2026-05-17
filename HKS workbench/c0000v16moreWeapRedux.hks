@@ -460,8 +460,10 @@ function IsEnableHighGuard()
     if env(GetSpEffectID, 701540) == TRUE then
         return FALSE
     end
-    local is_shield_right = GetEquipType(HAND_RIGHT, WEAPON_CATEGORY_SMALL_SHIELD, WEAPON_CATEGORY_MIDDLE_SHIELD, WEAPON_CATEGORY_LARGE_SHIELD)
-    local is_shield_left = GetEquipType(HAND_LEFT, WEAPON_CATEGORY_SMALL_SHIELD, WEAPON_CATEGORY_MIDDLE_SHIELD, WEAPON_CATEGORY_LARGE_SHIELD)
+------- MORE WEAPONS REDUX ---------
+    local is_shield_right = GetEquipType(HAND_RIGHT, WEAPON_CATEGORY_SMALL_SHIELD, WEAPON_CATEGORY_MIDDLE_SHIELD, WEAPON_CATEGORY_LARGE_SHIELD, WEAPON_CATEGORY_DUELING_SHIELD)
+    local is_shield_left = GetEquipType(HAND_LEFT, WEAPON_CATEGORY_SMALL_SHIELD, WEAPON_CATEGORY_MIDDLE_SHIELD, WEAPON_CATEGORY_LARGE_SHIELD, WEAPON_CATEGORY_DUELING_SHIELD)
+-------------------------------------   
     local style = c_Style
     if style == HAND_RIGHT_BOTH then
         if is_shield_right == TRUE then
@@ -764,7 +766,7 @@ function GetSwordArtInfo()
     return art_id, art_hand
 end
 
-function IsEnableSwordArts()
+function IsEnableSwordArts() 
     local style = c_Style
     local arts_id = c_SwordArtsID
     local sp_kind = env(GetEquipWeaponSpecialCategoryNumber, HAND_LEFT)
@@ -798,7 +800,7 @@ function GreyOutSwordArtFE()
     end
 end
 
-function IsAttackSwordArts(arts_id)
+function IsAttackSwordArts(arts_id) -- YOU ARE HERE
     if IsShieldArts(arts_id) == TRUE or IsRollingArts(arts_id) == TRUE or IsEnchantArts(arts_id) == TRUE or arts_id == 157 or arts_id == 160 then
         return FALSE
     else
@@ -3444,7 +3446,7 @@ function GetAttackMaxNumber(hand)
         end
     elseif kind == WEAPON_CATEGORY_TORCH or kind == WEAPON_CATEGORY_LARGE_SWORD or kind == WEAPON_CATEGORY_FLAIL or kind == WEAPON_CATEGORY_LARGE_AX or kind == WEAPON_CATEGORY_LARGE_HAMMER or kind == WEAPON_CATEGORY_SPEAR or kind == WEAPON_CATEGORY_HALBERD or kind == WEAPON_CATEGORY_LARGE_CURVEDSWORD or kind == WEAPON_CATEGORY_SMALL_SHIELD or kind == WEAPON_CATEGORY_MIDDLE_SHIELD or kind == WEAPON_CATEGORY_LARGE_SCYTHE or kind == WEAPON_CATEGORY_WHIP then
         max_num = 4
-    elseif kind == WEAPON_CATEGORY_STRAIGHT_SWORD or kind == WEAPON_CATEGORY_TWINBLADE or kind == WEAPON_CATEGORY_KATANA or kind == WEAPON_CATEGORY_AX or kind == WEAPON_CATEGORY_HAMMER or kind == WEAPON_CATEGORY_LARGE_RAPIER or kind == WEAPON_CATEGORY_LIGHT_LARGE_SWORD then
+    elseif kind == WEAPON_CATEGORY_STRAIGHT_SWORD or kind == WEAPON_CATEGORY_TWINBLADE or kind == WEAPON_CATEGORY_KATANA or kind == WEAPON_CATEGORY_AX or kind == WEAPON_CATEGORY_HAMMER or kind == WEAPON_CATEGORY_LARGE_RAPIER or kind then
         max_num = 5
     elseif kind == WEAPON_CATEGORY_SHORT_SWORD or kind == WEAPON_CATEGORY_CLAW or kind == WEAPON_CATEGORY_RAPIER or kind == WEAPON_CATEGORY_CURVEDSWORD or kind == WEAPON_CATEGORY_FIST then
         max_num = 6
