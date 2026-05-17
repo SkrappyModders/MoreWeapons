@@ -1,0 +1,11 @@
+profileVersion = "v1"
+
+[[packages]] 
+source = "MoreWeaponsREDUX" 
+
+[[natives]]
+path = "MoreWeaponsREDUX/nrhkshotloader.dll"
+
+[[supports]]
+game = "nr"
+

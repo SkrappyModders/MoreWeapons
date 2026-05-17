@@ -460,8 +460,10 @@ function IsEnableHighGuard()
     if env(GetSpEffectID, 701540) == TRUE then
         return FALSE
     end
-    local is_shield_right = GetEquipType(HAND_RIGHT, WEAPON_CATEGORY_SMALL_SHIELD, WEAPON_CATEGORY_MIDDLE_SHIELD, WEAPON_CATEGORY_LARGE_SHIELD)
-    local is_shield_left = GetEquipType(HAND_LEFT, WEAPON_CATEGORY_SMALL_SHIELD, WEAPON_CATEGORY_MIDDLE_SHIELD, WEAPON_CATEGORY_LARGE_SHIELD)
+------- MORE WEAPONS REDUX ---------
+    local is_shield_right = GetEquipType(HAND_RIGHT, WEAPON_CATEGORY_SMALL_SHIELD, WEAPON_CATEGORY_MIDDLE_SHIELD, WEAPON_CATEGORY_LARGE_SHIELD, WEAPON_CATEGORY_DUELING_SHIELD)
+    local is_shield_left = GetEquipType(HAND_LEFT, WEAPON_CATEGORY_SMALL_SHIELD, WEAPON_CATEGORY_MIDDLE_SHIELD, WEAPON_CATEGORY_LARGE_SHIELD, WEAPON_CATEGORY_DUELING_SHIELD)
+-------------------------------------   
     local style = c_Style
     if style == HAND_RIGHT_BOTH then
         if is_shield_right == TRUE then
@@ -764,7 +766,7 @@ function GetSwordArtInfo()
     return art_id, art_hand
 end
 
-function IsEnableSwordArts()
+function IsEnableSwordArts() 
     local style = c_Style
     local arts_id = c_SwordArtsID
     local sp_kind = env(GetEquipWeaponSpecialCategoryNumber, HAND_LEFT)
@@ -797,17 +799,53 @@ function GreyOutSwordArtFE()
         act(Unknown9999, 0)
     end
 end
-
+------------------------- MORE WEAPONS REDUX -------------------------------
 function IsAttackSwordArts(arts_id)
-    if IsShieldArts(arts_id) == TRUE or IsRollingArts(arts_id) == TRUE or IsEnchantArts(arts_id) == TRUE or arts_id == 157 or arts_id == 160 then
-        return FALSE
+    local aow_blacklist = {
+        157, -- Raptor of the Mists
+        160  -- White Shadow's Lure
+    }
+    local aow_whitelist = {
+        273, -- Raging Beast
+        276, -- Blind Spot
+        313, -- Dynastic Sickleplay
+        348  -- Discus Hurl
+    }
+
+    if IsShieldArts(arts_id) == TRUE or IsRollingArts(arts_id) == TRUE or IsEnchantArts(arts_id) == TRUE
+        or Contains(aow_blacklist, arts_id) == TRUE then
+        if Contains(aow_whitelist, arts_id) then
+            return TRUE
+        else
+            return FALSE
+        end
     else
         return TRUE
     end
 end
 
 function IsHalfBlendArts(arts_id)
-    if arts_id == 20 or arts_id == 58 or arts_id == 168 or arts_id == 182 or arts_id == 183 or arts_id == 202 or arts_id == 206 or arts_id == 217 or arts_id == 184 or arts_id == 199 or arts_id == 203 or arts_id == 213 then
+    local aow_list = {
+        20, -- Spinning Weapon
+        58, -- Gravitas
+        168, -- Zamor Ice Storm
+        182, -- Knowledge Above All
+        183, -- Devourer of Worlds
+        184, -- Familal Rancor
+        199, -- Spinning Weapon
+        202, -- Tongues of Fire
+        203, -- Oracular Bubble
+        206, -- Sea of Magma
+        213, -- Soul Stifler
+        217, -- Glintstone Dart
+
+        264, -- Wall of Sparks
+        328, -- Euporia Vortex
+        334, -- Feeble Lord's Frenzied Flame
+        335  -- Repeating Fire
+    }
+
+    if Contains(aow_list, arts_id) == TRUE then
         return TRUE
     else
         return FALSE
@@ -823,18 +861,84 @@ function IsEnchantArts(arts_id)
 end
 
 function IsShieldArts(arts_id)
-    if 90 <= arts_id and arts_id <= 99 or arts_id == 17 or arts_id == 71 or arts_id == 151 or arts_id == 152 or arts_id == 201 or arts_id == 202 or arts_id == 207 or arts_id == 196 or arts_id == 197 or arts_id == 195 or arts_id == 211 then
+    local aow_list = {
+        17, -- Torch Attack
+        71, -- Firebreather
+        90, -- Shield Bash
+        91, -- Barricade Shield
+        92, -- Parry
+        93, -- Buckler Parry
+        95, -- Carian Retaliation
+        96, -- Storm Wall
+        97, -- Golden Parry
+        98, -- Shield Crash
+        99, -- Thops's Barrier
+        151, -- Vow of the Indomitable
+        152, -- Holy Ground
+        195, -- Fires of Slumber
+        196, -- Golden Retaliation
+        197, -- Contagious Fury
+        201, -- Flame Spit
+        202, -- Tongues of Fire
+        207, -- Viper Bite
+        211, -- Bear Witness!
+
+        322, -- Sleep Evermore
+        324, -- Moore's Charge
+        348, -- Discus Hurl
+        352, -- Revenge of the Night
+        354, -- Blindfold of Happiness
+        355, -- Blindfold of Happiness (2?)
+        359, -- Roaring Bash
+        399, -- Shield Strike
+        334  -- Feeble Lord's Frenzied Flame
+    }
+
+    if Contains(aow_list, arts_id) == TRUE then
         return TRUE
     else
         return FALSE
     end
 end
-
 function IsStanceArts(arts_id)
-    if arts_id == 10 or arts_id == 11 or arts_id == 14 or arts_id == 15 or arts_id == 21 
-	  or arts_id == 178 or arts_id == 100 or arts_id == 101 or arts_id == 102 or arts_id == 103 
-	  or arts_id == 104 or arts_id == 105 or arts_id == 106 or arts_id == 107 or arts_id == 108 
-	  or arts_id == 25 or arts_id == 219 or arts_id == 239 or arts_id == 169 or arts_id == 260 then
+    local aow_list = {
+        10, -- Wild Strikes
+        11, -- Spinning Strikes
+        14, -- Unsheathe
+        15, -- Square Off
+        21, -- UNUSED
+        25, -- Spinning Chain
+        100, -- Through and Through
+        101, -- Barrage
+        102, -- Mighty Shot
+        103, -- Enchanted Shot
+        104, -- UNUSED
+        105, -- Rain of Arrows
+        106, -- UNUSED
+        107, -- UNUSED
+        108, -- Sky Shot
+        169, -- Radahn's Rain
+        178, -- Transient Moonlight
+        219, -- Night-and-Flame Stance
+        239, -- Spinning Wheel
+
+        278, -- Overhead Stance
+        279, -- Wing Stance
+        309, -- Unending Dance
+        318, -- Moon-and-Fire Stance
+        335, -- Repeating Fire
+        337, -- Fan Shot
+        340, -- UNUSED
+        341, -- UNUSED
+        342, -- UNUSED
+        343, -- UNUSED
+        346, -- UNUSED
+        347, -- UNUSED
+        357, -- Igor's Drake Hunt
+        371  -- Rancor Shot
+    }
+
+    if Contains(aow_list, arts_id) == TRUE then
         return TRUE
     else
         return FALSE
@@ -842,7 +946,24 @@ function IsStanceArts(arts_id)
 end
 
 function IsArrowStanceArts(arts_id)
-    if arts_id == 100 or arts_id == 101 or arts_id == 102 or arts_id == 103 or arts_id == 104 or arts_id == 105 or arts_id == 106 or arts_id == 107 or arts_id == 108 or arts_id == 169 then
+    local aow_list = {
+        100, -- Through and Through
+        101, -- Barrage
+        102, -- Mighty Shot
+        103, -- Enchanted Shot
+        104, -- UNUSED
+        105, -- Rain of Arrows
+        106, -- UNUSED
+        107, -- UNUSED
+        108, -- Sky Shot
+        169, -- Radahn's Rain
+
+        337, -- Fan Shot
+        357, -- Igor's Drake Hunt
+        371  -- Rancor Shot
+    }
+
+    if Contains(aow_list, arts_id) == TRUE then
         return TRUE
     else
         return FALSE
@@ -850,7 +971,18 @@ function IsArrowStanceArts(arts_id)
 end
 
 function IsAttackStanceArts(arts_id)
-    if arts_id == 10 or arts_id == 11 or arts_id == 25 or arts_id == 239 then
+    local aow_list = {
+        10, -- Wild Strikes
+        11, -- Spinning Strikes
+        25, -- Spinning Chain
+        239, -- Spinning Wheel
+
+        309, -- Unending Dance
+        340, -- UNUSED
+        341  -- UNUSED
+    }
+
+    if Contains(aow_list, arts_id) == TRUE then
         return TRUE
     else
         return FALSE
@@ -858,13 +990,22 @@ function IsAttackStanceArts(arts_id)
 end
 
 function IsRollingArts(arts_id)
-    if arts_id == 155 or arts_id == 156 then
+    local aow_list = {
+        155, -- Quickstep
+        156, -- Bloodhound's Step
+
+        273, -- Raging Beast
+        276, -- Blind Spot
+        313  -- Dynastic Sickleplay
+    }
+
+    if Contains(aow_list, arts_id) == TRUE then
         return TRUE
     else
         return FALSE
     end
 end
-
+--------------------------------------------------------------------
 function GetSwordArtsRequestNew()
     local style = c_Style
     local is_both = FALSE
@@ -882,9 +1023,17 @@ function GetSwordArtsRequestNew()
     elseif env(GetSpEffectID, 100052) == TRUE then
         request = SWORDARTS_REQUEST_RIGHT_COMBO_1
         animID = SWORDARTS_ANIM_ID_RIGHT_COMBO_1
-    elseif env(GetSpEffectID, 100053) == TRUE then
+------------------------- MORE WEAPONS REDUX -------------------------------
+    elseif env(GetSpEffectID, 100053) == TRUE and arts_id ~= 325 then -- Power of the Old Gods
         request = SWORDARTS_REQUEST_RIGHT_COMBO_2
         animID = SWORDARTS_ANIM_ID_RIGHT_COMBO_2
+    elseif env(GetSpEffectID, 100053) == TRUE and arts_id == 325 then -- Power of the Old Gods
+	    if env(GetSpEffectID, 8981920) == TRUE then
+		    act(ClearSpEffect, 8981920) 
+		    request = SWORDARTS_REQUEST_RIGHT_COMBO_2
+    	    animID = SWORDARTS_ANIM_ID_RIGHT_COMBO_2
+		end
+----------------------------------------------------------------------------
     elseif (style == HAND_LEFT_BOTH or style == HAND_RIGHT_BOTH) and IsShieldArts(arts_id) == TRUE then
         request = SWORDARTS_REQUEST_BOTH_NORMAL
         animID = SWORDARTS_ANIM_ID_BOTH_NORMAL
@@ -904,16 +1053,28 @@ function HasSwordArtPoint(button, hand)
 end
 
 function SetSwordArtsPointInfo(button, is_point_consume, to_state_event)
+    local aow_list_noFPUse = {
+        17, -- Torch Attack
+        92, -- Parry
+        93, -- Buckler Parry
+        94, -- UNUSED
+        112 -- Kick
+    }
+
     local hand = c_SwordArtsHand
+
     if is_point_consume == TRUE then
         act(ReserveArtsPointsUse, button, hand)
     end
+
     local sel = 0
     local isNoMPUse = FALSE
     local artsID = env(GetSwordArtID, hand)
-    if artsID == 92 or artsID == 93 or artsID == 94 or artsID == 112 or artsID == 17 then
+
+    if Contains(aow_list_noFPUse, artsID) == TRUE then
         isNoMPUse = TRUE
     end
+
     if env(HasEnoughArtsPoints, button, hand) == FALSE and isNoMPUse == FALSE then
         sel = 1
         act(DebugLogOutput, "no artspoint , hand=" .. hand)
@@ -921,13 +1082,24 @@ function SetSwordArtsPointInfo(button, is_point_consume, to_state_event)
         sel = 1
         act(DebugLogOutput, "no ability , hand=" .. hand)
     end
+
     local val = "IsEnoughArtPointsL2"
+
     if button == ACTION_ARM_R1 then
-        val = "IsEnoughArtPointsR1"
+        if c_SwordArtsID == 318 and IsNodeActive("DrawStanceRightAttackLight_Selector") == TRUE then
+            val = "IsEnoughArtPointsR2_MesmerSowrdArts"
+        else
+            val = "IsEnoughArtPointsR1"
+        end
     elseif button == ACTION_ARM_R2 then
         val = "IsEnoughArtPointsR2"
-    elseif button == ACTION_ARM_L2 then
+    elseif button == ACTION_ARM_L2 and c_SwordArtsID == 334
+        and (IsNodeActive("SwordArtsOneShot Selector00") == TRUE
+            or IsNodeActive("SwordArtsHalfOneShotShieldBoth_Upper Selector") == TRUE
+            or IsNodeActive("SwordArtsOneShotShieldLeft Selector01") == TRUE) then
+        val = "IsEnoughArtPointsL2_MadTorchEnd"
     end
+
     if to_state_event ~= nil then
         if to_state_event == "W_SwordArtsOneShotComboEnd_2" then
             val = "IsEnoughArtPointsR2_2"
@@ -935,7 +1107,27 @@ function SetSwordArtsPointInfo(button, is_point_consume, to_state_event)
             val = "IsEnoughArtPointsR2"
         end
     end
-    SetVariable(val, sel)
+
+    if artsID == 309 or artsID == 318 then
+        SetVariable("IsEnoughArtPointsL2_DrawStanceRightStart", sel)
+    else
+        SetVariable("IsEnoughArtPointsL2_DrawStanceRightStart", 0)
+    end
+    if artsID == 318 then
+        SetVariable("IsEnoughArtPointsL2_DrawStanceRightEnd", sel)
+    else
+        SetVariable("IsEnoughArtPointsL2_DrawStanceRightEnd", 0)
+    end
+    if artsID == 334 then
+        SetVariable("IsEnoughArtPointsL2_MadTorchEnd", sel)
+    else
+        SetVariable("IsEnoughArtPointsL2_MadTorchEnd", 0)
+    end
+    if artsID == 309 and IsNodeActive("DrawStanceNoSyncLoop_Upper Selector00") == TRUE then
+        SetVariable("IsEnoughArtPointsL2_DrawStanceNoSyncLoop", sel)
+    else
+        SetVariable(val, sel)
+    end
 end
 
 function SetStormRulerArtsPointInfo(r1, r2, b1, b2)
@@ -3444,7 +3636,7 @@ function GetAttackMaxNumber(hand)
         end
     elseif kind == WEAPON_CATEGORY_TORCH or kind == WEAPON_CATEGORY_LARGE_SWORD or kind == WEAPON_CATEGORY_FLAIL or kind == WEAPON_CATEGORY_LARGE_AX or kind == WEAPON_CATEGORY_LARGE_HAMMER or kind == WEAPON_CATEGORY_SPEAR or kind == WEAPON_CATEGORY_HALBERD or kind == WEAPON_CATEGORY_LARGE_CURVEDSWORD or kind == WEAPON_CATEGORY_SMALL_SHIELD or kind == WEAPON_CATEGORY_MIDDLE_SHIELD or kind == WEAPON_CATEGORY_LARGE_SCYTHE or kind == WEAPON_CATEGORY_WHIP then
         max_num = 4
-    elseif kind == WEAPON_CATEGORY_STRAIGHT_SWORD or kind == WEAPON_CATEGORY_TWINBLADE or kind == WEAPON_CATEGORY_KATANA or kind == WEAPON_CATEGORY_AX or kind == WEAPON_CATEGORY_HAMMER or kind == WEAPON_CATEGORY_LARGE_RAPIER or kind == WEAPON_CATEGORY_LIGHT_LARGE_SWORD then
+    elseif kind == WEAPON_CATEGORY_STRAIGHT_SWORD or kind == WEAPON_CATEGORY_TWINBLADE or kind == WEAPON_CATEGORY_KATANA or kind == WEAPON_CATEGORY_AX or kind == WEAPON_CATEGORY_HAMMER or kind == WEAPON_CATEGORY_LARGE_RAPIER or kind then
         max_num = 5
     elseif kind == WEAPON_CATEGORY_SHORT_SWORD or kind == WEAPON_CATEGORY_CLAW or kind == WEAPON_CATEGORY_RAPIER or kind == WEAPON_CATEGORY_CURVEDSWORD or kind == WEAPON_CATEGORY_FIST then
         max_num = 6
