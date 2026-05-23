@@ -1,0 +1,15 @@
+## Ignore all files related to mod development
+## Smithbox, DSAS, backups, JSONs
+
+# Smithbox project files
+/.smithbox
+*.json
+
+# Backups
+*.prev
+*.bak
+
+# Unpacked DCXs (I'm not sure how much I like this method, but hey it works)
+*dcx*
+!*.dcx
+
